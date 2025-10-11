@@ -1,0 +1,15 @@
+# anti-meridian problems
+R60-143_R60-144
+R60-131_R60-132
+P60-035_P60-036
+P60-047_P60-048
+P60-059_P60-060
+
+$ near anti-meridian problems
+R01-109_R01-110
+
+K53-030
+
+
+# truncated
+N49-019
