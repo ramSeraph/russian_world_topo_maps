@@ -20,7 +20,8 @@ jobs:
         uses: actions/checkout@v2
       - name: Collect-Ancillary-Files
         run: |
-          gh release download 100k-gs-georef -p bounds.geojson -O docs/100k/index.geojson
+          gh release download 100k-gs-pmtiles -p bounds.geojson -O docs/100k/index.geojson
+          gh release download 50k-gs-pmtiles -p bounds.geojson -O docs/50k/index.geojson
 
       - name: Upload-Artifact
         uses: actions/upload-pages-artifact@v3
