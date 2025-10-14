@@ -26,7 +26,7 @@
   - [PMTiles](https://github.com/ramseraph/russian_world_topo_maps/releases/tag/100k-gs-pmtiles)
 
 
-## Genshtab 1:50,000 # TODO
+## Genshtab 1:50,000
   - Scale: 1:50,000
   - Coverage: Russia, Europe and Central Asia
   - [Demo](https://ramseraph.github.io/russian_world_topo_maps/50k/)
