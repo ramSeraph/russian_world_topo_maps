@@ -1,5 +1,14 @@
 # Topographic Maps of the World from the Soviets
 
+## Genshtab 1:1,000,000
+  - Scale: 1:1,000,000
+  - Coverage: Mostly Russia, Europe and America
+  - [Demo](https://ramseraph.github.io/russian_world_topo_maps/1m/)
+  - [Original Sheets](https://github.com/ramseraph/russian_world_topo_maps/releases/tag/1m-gs-orig)
+  - [Georeferenced Sheets](https://github.com/ramseraph/russian_world_topo_maps/releases/tag/1m-gs-georef)
+  - [PMTiles](https://github.com/ramseraph/russian_world_topo_maps/releases/tag/1m-gs-pmtiles)
+
+
 ## Genshtab 1:500,000 # TODO
   - Scale: 1:500,000
   - Coverage: Most of the world
@@ -7,6 +16,7 @@
   - [Original Sheets](https://github.com/ramseraph/russian_world_topo_maps/releases/tag/500k-gs-orig)
   - [Georeferenced Sheets](https://github.com/ramseraph/russian_world_topo_maps/releases/tag/500k-gs-georef)
   - [PMTiles](https://github.com/ramseraph/russian_world_topo_maps/releases/tag/500k-gs-pmtiles)
+
 
 ## Genshtab 1:200,000 # TODO
   - Scale: 1:200,000
@@ -34,4 +44,11 @@
   - [Georeferenced Sheets](https://github.com/ramseraph/russian_world_topo_maps/releases/tag/50k-gs-georef)
   - [PMTiles](https://github.com/ramseraph/russian_world_topo_maps/releases/tag/50k-gs-pmtiles)
 
+
+# Helpful Pages
+  - [Russian Alphabet](https://www.madmappers.com/htm/Ru_alphabet.htm)
+  - [Russian Map Terms](https://www.madmappers.com/htm/Ru_map_terms.htm)
+  - [1:200k Legend](https://www.madmappers.com/htm/Ru200k_legend.htm)
+  - [1:500k Legend](https://www.madmappers.com/htm/Ru500k_legend.htm)
+  - [Russian Map Key](https://web.archive.org/web/20051125222014/http://rkkaww2.armchairgeneral.com/maps/keymap/mapkey.htm)
 
