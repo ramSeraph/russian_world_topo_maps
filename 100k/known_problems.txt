@@ -8,7 +8,8 @@ P60-059_P60-060
 $ near anti-meridian problems
 R01-109_R01-110
 
-K53-030
+# bad georef
+K53-019
 
 
 # truncated
