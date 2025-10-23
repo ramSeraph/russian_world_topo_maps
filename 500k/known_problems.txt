@@ -1,0 +1,16 @@
+# loas sheets trimmed to laos.. alternates needed
+E48-1
+E48-2
+E48-3
+E48-4 
+E47-2 
+E47-4 
+F47-2
+F48-1
+
+# probably cutoff
+Q46-3_Q46-4
+Q56-1_Q56-2
+
+# bad quality
+K38-1
