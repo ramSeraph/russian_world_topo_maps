@@ -11,16 +11,16 @@
 
 ## Genshtab 1:500,000
   - Scale: 1:500,000
-  - Coverage: Most of the world
+  - Coverage: Most of the world except North America and Australia
   - [Demo](https://ramseraph.github.io/russian_world_topo_maps/500k/)
   - [Original Sheets](https://github.com/ramseraph/russian_world_topo_maps/releases/tag/500k-gs-orig)
   - [Georeferenced Sheets](https://github.com/ramseraph/russian_world_topo_maps/releases/tag/500k-gs-georef)
   - [PMTiles](https://github.com/ramseraph/russian_world_topo_maps/releases/tag/500k-gs-pmtiles)
 
 
-## Genshtab 1:200,000 # TODO
+## Genshtab 1:200,000
   - Scale: 1:200,000
-  - Coverage: Most of the world
+  - Coverage: A lot of Asia. Europe and Africa
   - [Demo](https://ramseraph.github.io/russian_world_topo_maps/200k/)
   - [Original Sheets](https://github.com/ramseraph/russian_world_topo_maps/releases/tag/200k-gs-orig)
   - [Georeferenced Sheets](https://github.com/ramseraph/russian_world_topo_maps/releases/tag/200k-gs-georef)

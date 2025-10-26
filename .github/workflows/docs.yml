@@ -22,6 +22,7 @@ jobs:
         run: |
           gh release download 1m-gs-pmtiles -p bounds.geojson -O docs/1m/index.geojson
           gh release download 500k-gs-pmtiles -p bounds.geojson -O docs/500k/index.geojson
+          gh release download 200k-gs-pmtiles -p bounds.geojson -O docs/200k/index.geojson
           gh release download 100k-gs-pmtiles -p bounds.geojson -O docs/100k/index.geojson
           gh release download 50k-gs-pmtiles -p bounds.geojson -O docs/50k/index.geojson
 
