@@ -44,6 +44,14 @@
   - [Georeferenced Sheets](https://github.com/ramseraph/russian_world_topo_maps/releases/tag/50k-gs-georef)
   - [PMTiles](https://github.com/ramseraph/russian_world_topo_maps/releases/tag/50k-gs-pmtiles)
 
+## Genshtab 1:25,000
+  - Scale: 1:25,000
+  - Coverage: Russia
+  - [Demo](https://ramseraph.github.io/russian_world_topo_maps/25k/)
+  - [Original Sheets](https://github.com/ramseraph/russian_world_topo_maps/releases/tag/25k-gs-orig)
+  - [Georeferenced Sheets](https://github.com/ramseraph/russian_world_topo_maps/releases/tag/25k-gs-georef)
+  - [PMTiles](https://github.com/ramseraph/russian_world_topo_maps/releases/tag/25k-gs-pmtiles)
+
 
 # Helpful Pages
   - [Russian Alphabet](https://www.madmappers.com/htm/Ru_alphabet.htm)

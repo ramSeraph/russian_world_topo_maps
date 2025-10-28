@@ -25,6 +25,7 @@ jobs:
           gh release download 200k-gs-pmtiles -p bounds.geojson -O docs/200k/index.geojson
           gh release download 100k-gs-pmtiles -p bounds.geojson -O docs/100k/index.geojson
           gh release download 50k-gs-pmtiles -p bounds.geojson -O docs/50k/index.geojson
+          gh release download 25k-gs-pmtiles -p bounds.geojson -O docs/25k/index.geojson
 
       - name: Upload-Artifact
         uses: actions/upload-pages-artifact@v3
