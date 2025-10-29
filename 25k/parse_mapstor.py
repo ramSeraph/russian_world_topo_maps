@@ -17,7 +17,6 @@ import traceback
 from pathlib import Path
 
 from PIL import Image
-from pyproj import Transformer
 
 from topo_map_processor.processor import TopoMapProcessor
 
@@ -25,9 +24,8 @@ from ozi_map import ozi_reader
 
 class GSMapstorProcessor(TopoMapProcessor):
 
-    def __init__(self, filepath, extra, index_box, index_properties, id_override=None):
+    def __init__(self, filepath, extra, index_box, index_properties):
         super().__init__(filepath, extra, index_box, index_properties)
-        self.id_override = id_override
         self.mapfile_processed = False
         self.mapfile_title = None
         self.crs_proj = None
@@ -35,46 +33,26 @@ class GSMapstorProcessor(TopoMapProcessor):
         self.ozi_cutline = None
         self.ozi_cutline_pixels = None
         self.jpeg_export_quality = extra.get('jpeg_export_quality', 50)
-        self.warp_jpeg_quality = 100
+        self.warp_jpeg_export_quality = 100
         self.corner_gcps = extra.get('corner_gcps', None)
-        self.other_gcps = extra.get('other_gcps', None)
         self.cutline_override = extra.get('cutline_override', None)
-        self.work_in_wgs84 = extra.get('work_in_wgs84', False)
+        self.warp_resampling_method = 'lanczos'
+        self.export_resampling_method = 'lanczos'
 
-    def get_id(self):
-        if self.id_override is not None:
-            return self.id_override
-        return super().get_id()
 
     def get_resolution(self):
-        return "auto"
+        #return "auto"
+        return 4.777314267823516
 
     def get_original_pixel_coordinate(self, p):
         return p
-
-    def transform_datum_to_wgs84(self, ref):
-        # use pyproj to transform from Pulkovo 1942 (2) to WGS84
-        transformer = Transformer.from_crs("EPSG:4284", "EPSG:4326", always_xy=True)
-        lon, lat = transformer.transform(ref['x'], ref['y'])
-        return {'x': lon, 'y': lat}
 
     def get_gcps(self, pre_rotated=False):
         if self.corner_gcps is not None:
             gcps = []
             for gcp in self.corner_gcps:
-                ref = { 'x': gcp['lon'], 'y': gcp['lat'] }
-                if self.work_in_wgs84:
-                    ref = self.transform_datum_to_wgs84(ref)
                 gcps.append([(gcp['x'], gcp['y']),
-                             (ref['x'], ref['y'])])
-            if self.other_gcps is not None:
-                for gcp in self.other_gcps:
-                    ref = { 'x': gcp['lon'], 'y': gcp['lat'] }
-                    if self.work_in_wgs84:
-                        ref = self.transform_datum_to_wgs84(ref)
-                    gcps.append([(gcp['x'], gcp['y']),
-                                 (ref['x'], ref['y'])])
-
+                             (gcp['lon'], gcp['lat'])])
             return gcps
 
         self.process_map_file()
@@ -88,8 +66,6 @@ class GSMapstorProcessor(TopoMapProcessor):
 
             pixel = ozi_gcp['pixel']
             ref = ozi_gcp['ref']
-            if self.work_in_wgs84:
-                ref = self.transform_datum_to_wgs84(ref)
             gcps.append([(pixel['x'], pixel['y']),
                          (ref['x'], ref['y'])])
         return gcps
@@ -101,10 +77,7 @@ class GSMapstorProcessor(TopoMapProcessor):
         if self.corner_gcps is not None:
             corners = []
             for gcp in self.corner_gcps:
-                ref = {'x': gcp['lon'], 'y': gcp['lat']}
-                if self.work_in_wgs84:
-                    ref = self.transform_datum_to_wgs84(ref)
-                corners.append((ref['x'], ref['y']))
+                corners.append((gcp['lon'], gcp['lat']))
             corners = corners + [corners[0]]
             return corners
 
@@ -172,9 +145,7 @@ class GSMapstorProcessor(TopoMapProcessor):
 
 
     def get_crs_proj(self):
-        #self.process_map_file()
-        if self.work_in_wgs84:
-            return 'EPSG:4326'
+        self.process_map_file()
 
         return 'EPSG:4284'
         # copied from https://github.com/wladich/ozi_map/blob/e45c55ca9dd3a7082fe60048a304e5d48d5c2cad/ozi_map/ozi_parser.py#L123
@@ -233,30 +204,20 @@ def process_files():
         sheet_props = sheet_map[id]
         sheet_props['source_type'] = 'mapstor'
 
-        subs = []
-        if 'parts' not in extra:
-            subs.append([id, extra])
-        else:
-            for i, part in enumerate(extra['parts']):
-                subs.append([f'{id}-part{i}', part])
+        processor = GSMapstorProcessor(filepath, extra, [], sheet_props)
 
-        for subid, subextra in subs:
-            try:
-                processor = GSMapstorProcessor(filepath, subextra, [], sheet_props, id_override=subid)
-                processor.process()
-                exit(0)
-
-                #filepath.unlink()
-                #filepath.with_suffix('.map').unlink()
-                success_count += 1
-            except Exception as ex:
-                print(f'parsing {filepath} failed with exception: {ex}')
-                failed_count += 1
-                traceback.print_exc()
-                exit(0)
-                raise
-                processor.prompt()
-            processed_count += 1
+        try:
+            processor.process()
+            #filepath.unlink()
+            #filepath.with_suffix('.map').unlink()
+            success_count += 1
+        except Exception as ex:
+            print(f'parsing {filepath} failed with exception: {ex}')
+            failed_count += 1
+            traceback.print_exc()
+            raise
+            processor.prompt()
+        processed_count += 1
 
     print(f"Processed {processed_count} images, failed_count {failed_count}, success_count {success_count}")
 

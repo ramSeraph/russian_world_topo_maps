@@ -217,6 +217,7 @@ def process_files():
             try:
                 processor = GSMapstorProcessor(filepath, subextra, [], sheet_props, id_override=subid)
                 processor.process()
+                exit(0)
 
                 #filepath.unlink()
                 #filepath.with_suffix('.map').unlink()

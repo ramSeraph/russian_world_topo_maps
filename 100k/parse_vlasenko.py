@@ -36,6 +36,7 @@ class GSMapstorProcessor(TopoMapProcessor):
         self.jpeg_export_quality = extra.get('jpeg_export_quality', 50)
         self.warp_jpeg_quality = 100
         self.corner_gcps = extra.get('corner_gcps', None)
+        self.other_gcps = extra.get('other_gcps', None)
         self.cutline_override = extra.get('cutline_override', None)
 
     def get_id(self):
@@ -55,6 +56,11 @@ class GSMapstorProcessor(TopoMapProcessor):
             for gcp in self.corner_gcps:
                 gcps.append([(gcp['x'], gcp['y']),
                              (gcp['lon'], gcp['lat'])])
+
+            if self.other_gcps is not None:
+                for gcp in self.other_gcps:
+                    gcps.append([(gcp['x'], gcp['y']),
+                                 (gcp['lon'], gcp['lat'])])
             return gcps
 
         self.process_map_file()
@@ -217,6 +223,7 @@ def process_files():
             try:
                 processor = GSMapstorProcessor(filepath, subextra, [], sheet_props, id_override=subid)
                 processor.process()
+                exit(0)
 
                 #filepath.unlink()
                 #filepath.with_suffix('.map').unlink()

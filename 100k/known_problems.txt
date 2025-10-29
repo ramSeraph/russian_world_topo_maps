@@ -5,12 +5,48 @@ P60-035_P60-036
 P60-047_P60-048
 P60-059_P60-060
 
-$ near anti-meridian problems
+# near anti-meridian problems
 R01-109_R01-110
 
-# bad georef
-K53-019
-
-
-# truncated
+# truncated need replacement
 N49-019
+P41-129_P41-130
+O43-045
+R46-109_R46-110
+R46-121_R46-122
+R46-123_R46-124
+P45-107_P45-108
+P45-119_P45-120
+P55-033_P55-034
+O50-102
+O50-103
+O50-141
+M54-108
+O43-045
+K52-011
+K53-014
+L53-098
+Q40-055_Q40-056
+Q40-067_Q40-068
+O49-141
+K52-035
+N49-008
+
+# bad georef need replacement
+O37-019
+O37-020
+O37-021
+O37-022
+O37-031
+O37-032
+O37-033
+O37-034
+O37-043
+O37-044
+O37-045
+O37-046
+
+
+# need replacement
+Q36-025_Q36-026
+

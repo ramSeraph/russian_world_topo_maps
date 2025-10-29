@@ -35,6 +35,7 @@ class GSMapstorProcessor(TopoMapProcessor):
         self.jpeg_export_quality = extra.get('jpeg_export_quality', 50)
         self.warp_jpeg_export_quality = 100
         self.corner_gcps = extra.get('corner_gcps', None)
+        self.other_gcps = extra.get('other_gcps', None)
         self.cutline_override = extra.get('cutline_override', None)
         self.warp_resampling_method = 'lanczos'
         self.export_resampling_method = 'lanczos'
@@ -52,6 +53,10 @@ class GSMapstorProcessor(TopoMapProcessor):
             for gcp in self.corner_gcps:
                 gcps.append([(gcp['x'], gcp['y']),
                              (gcp['lon'], gcp['lat'])])
+            if self.other_gcps is not None:
+                for gcp in self.other_gcps:
+                    gcps.append([(gcp['x'], gcp['y']),
+                                 (gcp['lon'], gcp['lat'])])
             return gcps
 
         self.process_map_file()
@@ -144,7 +149,7 @@ class GSMapstorProcessor(TopoMapProcessor):
 
 
     def get_crs_proj(self):
-        self.process_map_file()
+        #self.process_map_file()
 
         return 'EPSG:4284'
         # copied from https://github.com/wladich/ozi_map/blob/e45c55ca9dd3a7082fe60048a304e5d48d5c2cad/ozi_map/ozi_parser.py#L123
@@ -207,6 +212,7 @@ def process_files():
 
         try:
             processor.process()
+            exit(0)
             #filepath.unlink()
             #filepath.with_suffix('.map').unlink()
             success_count += 1
@@ -214,6 +220,7 @@ def process_files():
             print(f'parsing {filepath} failed with exception: {ex}')
             failed_count += 1
             traceback.print_exc()
+            exit(0)
             raise
             processor.prompt()
         processed_count += 1
