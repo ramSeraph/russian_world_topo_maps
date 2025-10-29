@@ -1,4 +1,8 @@
-# anti-meridian problems
+
+# bad georef
+sheet intersecting with Q37-129_Q37-130 and Q37-127_Q37-128
+
+# anti-meridian slight cutoff
 R60-143_R60-144
 R60-131_R60-132
 P60-035_P60-036
