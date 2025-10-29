@@ -1,0 +1,29 @@
+
+# needs replacement
+R36-19_R36-20
+# truncated needs replacement
+XC33-36
+D37-27
+K51-06
+J52-25
+# patchy needs replacement
+M53-19
+M53-20
+M53-21
+M53-22
+M53-23
+M53-24
+M53-25
+# questionable georeferencing needs replacement
+M53-29
+M53-35
+M53-36
+
+# miscatalogued files
+B30-02 -> B30-05
+B30-03 -> B30-06
+M31-07 -> M31-17
+S53-22_S53-23 -> S53-16_S53-17
+
+# fixed
+M54-34 -> N54-34 # old sheet found
