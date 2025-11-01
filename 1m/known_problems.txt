@@ -1,0 +1,10 @@
+# bad georef
+N30
+
+# anti meridian
+Q59_Q60
+P59_P60
+R59_R60
+
+# slightly cutoff, replacement would be nice
+P59_P60
