@@ -7,6 +7,7 @@
   - [Original Sheets](https://github.com/ramseraph/russian_world_topo_maps/releases/tag/1m-gs-orig)
   - [Georeferenced Sheets](https://github.com/ramseraph/russian_world_topo_maps/releases/tag/1m-gs-georef)
   - [PMTiles](https://github.com/ramseraph/russian_world_topo_maps/releases/tag/1m-gs-pmtiles)
+  - [Index File with sheet bounds and other info](https://github.com/ramseraph/russian_world_topo_maps/releases/download/1m-gs-pmtiles/bounds.geojson)
 
 
 ## Genshtab 1:500,000
@@ -16,6 +17,7 @@
   - [Original Sheets](https://github.com/ramseraph/russian_world_topo_maps/releases/tag/500k-gs-orig)
   - [Georeferenced Sheets](https://github.com/ramseraph/russian_world_topo_maps/releases/tag/500k-gs-georef)
   - [PMTiles](https://github.com/ramseraph/russian_world_topo_maps/releases/tag/500k-gs-pmtiles)
+  - [Index File with sheet bounds and other info](https://github.com/ramseraph/russian_world_topo_maps/releases/download/500k-gs-pmtiles/bounds.geojson)
 
 
 ## Genshtab 1:200,000
@@ -25,6 +27,7 @@
   - [Original Sheets](https://github.com/ramseraph/russian_world_topo_maps/releases/tag/200k-gs-orig)
   - [Georeferenced Sheets](https://github.com/ramseraph/russian_world_topo_maps/releases/tag/200k-gs-georef)
   - [PMTiles](https://github.com/ramseraph/russian_world_topo_maps/releases/tag/200k-gs-pmtiles)
+  - [Index File with sheet bounds and other info](https://github.com/ramseraph/russian_world_topo_maps/releases/download/200k-gs-pmtiles/bounds.geojson)
 
 
 ## Genshtab 1:100,000
@@ -34,6 +37,7 @@
   - [Original Sheets](https://github.com/ramseraph/russian_world_topo_maps/releases/tag/100k-gs-orig)
   - [Georeferenced Sheets](https://github.com/ramseraph/russian_world_topo_maps/releases/tag/100k-gs-georef)
   - [PMTiles](https://github.com/ramseraph/russian_world_topo_maps/releases/tag/100k-gs-pmtiles)
+  - [Index File with sheet bounds and other info](https://github.com/ramseraph/russian_world_topo_maps/releases/download/100k-gs-pmtiles/bounds.geojson)
 
 
 ## Genshtab 1:50,000
@@ -43,6 +47,7 @@
   - [Original Sheets](https://github.com/ramseraph/russian_world_topo_maps/releases/tag/50k-gs-orig)
   - [Georeferenced Sheets](https://github.com/ramseraph/russian_world_topo_maps/releases/tag/50k-gs-georef)
   - [PMTiles](https://github.com/ramseraph/russian_world_topo_maps/releases/tag/50k-gs-pmtiles)
+  - [Index File with sheet bounds and other info](https://github.com/ramseraph/russian_world_topo_maps/releases/download/50k-gs-pmtiles/bounds.geojson)
 
 ## Genshtab 1:25,000
   - Scale: 1:25,000
@@ -51,6 +56,7 @@
   - [Original Sheets](https://github.com/ramseraph/russian_world_topo_maps/releases/tag/25k-gs-orig)
   - [Georeferenced Sheets](https://github.com/ramseraph/russian_world_topo_maps/releases/tag/25k-gs-georef)
   - [PMTiles](https://github.com/ramseraph/russian_world_topo_maps/releases/tag/25k-gs-pmtiles)
+  - [Index File with sheet bounds and other info](https://github.com/ramseraph/russian_world_topo_maps/releases/download/25k-gs-pmtiles/bounds.geojson)
 
 
 # Helpful Pages
