@@ -12,10 +12,12 @@
 
 ## Genshtab 1:500,000
   - Scale: 1:500,000
-  - Coverage: Most of the world except North America and Australia
+  - Coverage: 2,506 scans worldwide, including partial coverage of North America and Australia
   - [Demo](https://ramseraph.github.io/russian_world_topo_maps/500k/)
   - [Original Sheets](https://github.com/ramseraph/russian_world_topo_maps/releases/tag/500k-gs-orig)
   - [Georeferenced Sheets](https://github.com/ramseraph/russian_world_topo_maps/releases/tag/500k-gs-georef)
+  - [STAC collection](https://indianopenmaps.com/stac/collections/world-topo-soviet-500k)
+  - [Sources and edition years for the November 2026 additions](https://github.com/ramSeraph/russian_world_topo_maps/releases/download/500k-gs-orig/500k-provenance.csv)
   - [PMTiles](https://github.com/ramseraph/russian_world_topo_maps/releases/tag/500k-gs-pmtiles)
   - [Index File with sheet bounds and other info](https://github.com/ramseraph/russian_world_topo_maps/releases/download/500k-gs-pmtiles/bounds.geojson)
 
