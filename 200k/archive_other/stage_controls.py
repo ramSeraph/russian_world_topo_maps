@@ -137,10 +137,15 @@ def controls(root, row, edits):
 if __name__=='__main__':
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('root',type=Path)
+    parser.add_argument('--with-red-atlas', action='store_true', help='Include the eight Red Atlas originals')
     args=parser.parse_args()
     root=args.root.resolve()
     edits=read(HERE/'printed_controls.json')
     records=[controls(root,r,edits) for r in read(root/'downloaded.json')]
+    if args.with_red_atlas:
+        from red_atlas_controls import stage
+        records.extend(stage(root, controls))
+        records.sort(key=lambda r: r['scan_id'])
     review=root/'review'
     review.mkdir(exist_ok=True)
     (review/'controls.json').write_text(json.dumps(records,ensure_ascii=False,separators=(',',':')))

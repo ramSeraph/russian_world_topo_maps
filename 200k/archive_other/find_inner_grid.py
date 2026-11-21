@@ -119,6 +119,10 @@ if __name__ == '__main__':
     root = args.root.resolve()
     (root/'grid').mkdir(exist_ok=True)
     cv2.setNumThreads(1)
+    files = sorted((root/'originals').glob('*.jpg'))
+    plan_path = root/'plan.json'
+    if plan_path.is_file():
+        planned = {r['scan_id'] for r in json.loads(plan_path.read_text())}
+        files = [f for f in files if f.stem in planned]
     with ProcessPoolExecutor(4) as pool:
-        list(pool.map(run, ((root, f) for f in (root/'originals').glob('*.jpg')
-                            if not args.ids or f.stem in args.ids)))
+        list(pool.map(run, ((root, f) for f in files if not args.ids or f.stem in args.ids)))
