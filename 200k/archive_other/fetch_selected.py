@@ -16,9 +16,9 @@ from PIL import Image
 HERE = Path(__file__).resolve().parent
 
 
-def selected_scans():
-    mirrors = json.loads((HERE/'archive-mirrors.json').read_text())
-    with (HERE/'selected-scans.csv').open() as stream:
+def selected_scans(inventory_dir=HERE):
+    mirrors = json.loads((inventory_dir/'archive-mirrors.json').read_text())
+    with (inventory_dir/'selected-scans.csv').open() as stream:
         rows = list(csv.DictReader(stream))
     for r in rows:
         if r['source'] == 'Archive.org':
@@ -79,7 +79,7 @@ def satmaps_file(row, key, signature, limit):
     raise ValueError(f"{row['scan_id']}: {key} unavailable") from last_error
 
 
-def retrieve(root, row):
+def retrieve(root, row, inventory_dir=HERE):
     sheet = row['scan_id']
     archive = row['source'] == 'Archive.org'
     path = root / 'originals' / (sheet + ('.jpg' if archive else '.gif'))
@@ -104,17 +104,22 @@ def retrieve(root, row):
     if not archive:
         calibration = root / 'calibration' / (sheet + '.map')
         try:
-            snapshot = HERE/'calibration'/calibration.name
+            snapshot = inventory_dir/'calibration'/calibration.name
             if calibration.exists() or snapshot.exists():
                 ozi = (calibration if calibration.exists() else snapshot).read_bytes()
             else:
                 ozi = satmaps_file(row, 'satmaps_ozi', b'OziExplorer Map Data File', 2_000_000)
         except ValueError as error:
+            if row.get('calibration_sha256'):
+                raise ValueError(f'Cannot verify the selected calibration for {sheet}') from error
             record['calibration_issue'] = str(error)
         else:
+            calibration_hash = hashlib.sha256(ozi).hexdigest()
+            if row.get('calibration_sha256') and calibration_hash != row['calibration_sha256']:
+                raise ValueError(f'Calibration differs from the selected edition for {sheet}')
             if not calibration.exists():
                 save(calibration, ozi)
-            record.update(calibration=calibration.name, calibration_sha256=hashlib.sha256(ozi).hexdigest())
+            record.update(calibration=calibration.name, calibration_sha256=calibration_hash)
     save(receipt, (json.dumps(record, indent=2, ensure_ascii=False) + '\n').encode())
     return record
 
@@ -123,10 +128,12 @@ def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('root', type=Path)
     parser.add_argument('--jobs', type=int, default=5)
+    parser.add_argument('--inventory-dir', type=Path, default=HERE,
+                        help='Directory containing selected-scans.csv and archive-mirrors.json')
     args = parser.parse_args()
     root = args.root.resolve()
     root.mkdir(exist_ok=True, parents=True)
-    plan = selected_scans()
+    plan = selected_scans(args.inventory_dir)
     save(root/'plan.json', json.dumps(plan, ensure_ascii=False).encode())
     for folder in ('originals', 'calibration', 'receipts'):
         (root/folder).mkdir(exist_ok=True)
@@ -134,7 +141,7 @@ def main():
     plan.sort(key=lambda r: r['source'] != 'Satmaps')
     result, failures = [], {}
     with ThreadPoolExecutor(args.jobs) as workers:
-        futures = {workers.submit(retrieve, root, r): r['scan_id'] for r in plan}
+        futures = {workers.submit(retrieve, root, r, args.inventory_dir): r['scan_id'] for r in plan}
         for future in as_completed(futures):
             try:
                 result.append(future.result())
