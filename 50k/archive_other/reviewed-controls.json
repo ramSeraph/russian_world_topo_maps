@@ -1,0 +1,860 @@
+{
+  "I37-061-3": {
+    "sha256": "9b419d5afb651b96d166836cc92d0cac3599bad275aa94b09ccf9675284a0161",
+    "all_corners_checked": true,
+    "pixels": {
+      "SW": [
+        77.41,
+        4708.98
+      ]
+    },
+    "evidence": "The southwest 36°00′ E meridian crosses the 34°00′ N parallel at pixel (77.41, 4708.98). The automatic reading followed the straight interior kilometre line 48 pixels to the east. All four labelled crossings were checked on the native scan."
+  },
+  "I37-073-1": {
+    "sha256": "86090ccaceb886a6b2dba8ca876b9ab53e5251829884e5ba88958ae31083c439",
+    "all_corners_checked": true,
+    "pixels": {
+      "NE": [
+        5608.07,
+        353.78
+      ],
+      "SE": [
+        5601.31,
+        4727.27
+      ]
+    },
+    "original_pixels": {
+      "NE": [
+        5506.24,
+        355.69
+      ],
+      "SE": [
+        5393.35,
+        4729.53
+      ]
+    },
+    "evidence": "The four printed geographic corner labels were inspected in enlarged native-source crops. The earlier detector followed a neighbouring projected grid line or paper marking at the revised corners."
+  },
+  "I37-073-2": {
+    "sha256": "e19ce6955459785e2a8882d689d52d20ba66580bbc34b258e3331cd176739bb0",
+    "all_corners_checked": true,
+    "pixels": {
+      "NW": [
+        176.83,
+        330.92
+      ],
+      "NE": [
+        5641.0,
+        328.4
+      ],
+      "SE": [
+        5642.08,
+        4704.82
+      ],
+      "SW": [
+        169.7,
+        4698.66
+      ]
+    },
+    "original_pixels": {
+      "NW": [
+        200.28,
+        330.33
+      ],
+      "NE": [
+        5531.93,
+        330.12
+      ],
+      "SE": [
+        5394.66,
+        4705.95
+      ],
+      "SW": [
+        311.49,
+        4699.99
+      ]
+    },
+    "evidence": "The four printed geographic corner labels were inspected in enlarged native-source crops. The earlier detector followed a neighbouring projected grid line or paper marking at the revised corners. The user selected candidate B for NE, (5641.0, 328.4), over A (5635.4, 328.4) on 2026-11-22. The earlier NE detection was (5531.93, 330.12).",
+    "user_decision": {
+      "corner": "NE",
+      "choice": "B",
+      "pixel": [
+        5641.0,
+        328.4
+      ],
+      "alternative": [
+        5635.4,
+        328.4
+      ],
+      "original": [
+        5531.93,
+        330.12
+      ],
+      "date": "2026-11-22"
+    }
+  },
+  "J35-045-4": {
+    "sha256": "126cc3a1ff3939122937e6117792535282bd8fbf5081196986d490155f1dae03",
+    "all_corners_checked": false,
+    "pixels": {
+      "NE": [
+        5376.77,
+        378.3
+      ]
+    },
+    "original_pixels": {
+      "NE": [
+        5376.02,
+        413.1
+      ]
+    },
+    "evidence": "The native printed degree/minute labels identify the NE geographic graticule at 28.5000000°, 38.8333333°. The former crossing [5376.02, 413.1] follows the neighbouring kilometre rule. Direct inspection of both strokes and their labels gives [5376.77, 378.3].",
+    "review_basis": "Printed graticule",
+    "printed_lonlat": {
+      "NE": [
+        28.5,
+        38.83333333333333
+      ]
+    }
+  },
+  "J35-057-1": {
+    "sha256": "20e3276b150ba76dd8e4365f4ae8a1bfad7d1a118dce425f65ffc8acad00286d",
+    "all_corners_checked": false,
+    "pixels": {
+      "SE": [
+        5463.09,
+        4771.91
+      ]
+    },
+    "original_pixels": {
+      "SE": [
+        5463.46,
+        4729.89
+      ]
+    },
+    "evidence": "The native printed degree/minute labels identify the SE geographic graticule at 28.2500000°, 38.5000000°. The former crossing [5463.46, 4729.89] follows the neighbouring kilometre rule. Direct inspection of both strokes and their labels gives [5463.09, 4771.91].",
+    "review_basis": "Printed graticule",
+    "printed_lonlat": {
+      "SE": [
+        28.25,
+        38.5
+      ]
+    }
+  },
+  "J35-057-4": {
+    "sha256": "9c72a03e8b99bf783ed61e2c102398230c5166847b09477217c8b105bfea19db",
+    "all_corners_checked": false,
+    "pixels": {
+      "NE": [
+        5421.7,
+        413.45
+      ]
+    },
+    "original_pixels": {
+      "NE": [
+        5421.69,
+        446.33
+      ]
+    },
+    "evidence": "The native printed degree/minute labels identify the NE geographic graticule at 28.5000000°, 38.5000000°. The former crossing [5421.69, 446.33] follows the neighbouring kilometre rule. Direct inspection of both strokes and their labels gives [5421.7, 413.45].",
+    "review_basis": "Printed graticule",
+    "printed_lonlat": {
+      "NE": [
+        28.5,
+        38.5
+      ]
+    }
+  },
+  "J40-053-4": {
+    "sha256": "9eab5470d46bf21958b0493e61e736edfcdf8a4e523ceb28f2c41b3a3b32869f",
+    "all_corners_checked": false,
+    "pixels": {
+      "NE": [
+        5494.67,
+        394.92
+      ]
+    },
+    "original_pixels": {
+      "NE": [
+        5495.11,
+        439.24
+      ]
+    },
+    "evidence": "The native printed degree/minute labels identify the NE geographic graticule at 56.5000000°, 38.5000000°. The former crossing [5495.11, 439.24] follows the neighbouring kilometre rule. Direct inspection of both strokes and their labels gives [5494.67, 394.92].",
+    "review_basis": "Printed graticule",
+    "printed_lonlat": {
+      "NE": [
+        56.5,
+        38.5
+      ]
+    }
+  },
+  "K31-003-1": {
+    "sha256": "cfcad3813f8304d0e387572a6e1c1a4f86253735aa10383028c1c8fe38ac0892",
+    "all_corners_checked": false,
+    "pixels": {
+      "SE": [
+        5019.41,
+        4835.72
+      ]
+    },
+    "original_pixels": {
+      "SE": [
+        5021.12,
+        4807.67
+      ]
+    },
+    "evidence": "The native printed degree/minute labels identify the SE geographic graticule at 1.2500000°, 43.8333333°. The former crossing [5021.12, 4807.67] follows the neighbouring kilometre rule. Direct inspection of both strokes and their labels gives [5019.41, 4835.72].",
+    "review_basis": "Printed graticule",
+    "printed_lonlat": {
+      "SE": [
+        1.25,
+        43.83333333333333
+      ]
+    }
+  },
+  "K31-008-1": {
+    "sha256": "7baf37f8c793476d4ead7a97bc56b23d6db7350247b5beb7311b89f15d4e2281",
+    "all_corners_checked": true,
+    "pixels": {
+      "NE": [
+        5097.54,
+        402.73
+      ]
+    },
+    "original_pixels": {
+      "NE": [
+        5098.45,
+        447.68
+      ]
+    },
+    "evidence": "The four printed geographic corner labels were inspected in enlarged native-source crops. The earlier detector followed a neighbouring projected grid line or paper marking at the revised corners.",
+    "user_feedback": {
+      "corner": "NE",
+      "date": "2026-11-22",
+      "comment": "User flagged the original northeast crossing in the corner gallery."
+    }
+  },
+  "K34-003-2": {
+    "sha256": "4260d2573d0c064cc3de751ff6c57f3eb88ccd0c427ded69c577f29f1668185e",
+    "all_corners_checked": true,
+    "pixels": {
+      "NW": [
+        224.43,
+        427.09
+      ],
+      "SW": [
+        237.34,
+        4809.81
+      ]
+    },
+    "original_pixels": {
+      "NW": [
+        235.68,
+        419.54
+      ],
+      "SW": [
+        236.43,
+        4782.44
+      ]
+    },
+    "evidence": "The four printed geographic corner labels were inspected in enlarged native-source crops. The earlier detector followed a neighbouring projected grid line or paper marking at the revised corners."
+  },
+  "K52-137-3": {
+    "sha256": "e2294b2b29d4b282ea59a760621e8ba391367b9c78c459130c6d793648a95c19",
+    "all_corners_checked": false,
+    "pixels": {
+      "SE": [
+        5335.59,
+        4983.55
+      ]
+    },
+    "original_pixels": {
+      "SE": [
+        5335.97,
+        4956.21
+      ]
+    },
+    "evidence": "The native printed degree/minute labels identify the SE geographic graticule at 128.2500000°, 40.0000000°. The former crossing [5335.97, 4956.21] follows the neighbouring kilometre rule. Direct inspection of both strokes and their labels gives [5335.59, 4983.55].",
+    "review_basis": "Printed graticule",
+    "printed_lonlat": {
+      "SE": [
+        128.25,
+        40.0
+      ]
+    }
+  },
+  "L33-129-4": {
+    "sha256": "5e3708932159ec9631b8ad4b9304df0f23847ee969947c4d33365a9ad7140701",
+    "all_corners_checked": true,
+    "rotation": 0,
+    "original_rotation": 90,
+    "original_pixels": {},
+    "pixels": {
+      "NW": [
+        316.07,
+        323.76
+      ],
+      "NE": [
+        5016.59,
+        310.47
+      ],
+      "SE": [
+        5042.79,
+        4688.02
+      ],
+      "SW": [
+        328.3,
+        4710.17
+      ]
+    },
+    "evidence": "The source title and type are upright. The printed west and east meridians are 16°15′ and 16°30′. North and south are 44°30′ and 44°20′. All four labelled native crossings were checked visually; 290 independently withheld 1 km intersections confirm the recovered frame (median 1.20, 95th percentile 3.01 native pixels)."
+  },
+  "L41-092-2": {
+    "sha256": "fb203a14e36b3c8b6e6303323d6405ba98e59dd96309f90825128779111f1457",
+    "all_corners_checked": false,
+    "pixels": {
+      "SW": [
+        175.8,
+        4741.98
+      ]
+    },
+    "original_pixels": {
+      "SW": [
+        175.87,
+        4710.88
+      ]
+    },
+    "evidence": "The native printed degree/minute labels identify the SW geographic graticule at 63.7500000°, 45.5000000°. The former crossing [175.87, 4710.88] follows the neighbouring kilometre rule. Direct inspection of both strokes and their labels gives [175.8, 4741.98].",
+    "review_basis": "Printed graticule",
+    "printed_lonlat": {
+      "SW": [
+        63.75,
+        45.5
+      ]
+    }
+  },
+  "M32-005-3": {
+    "sha256": "5cca6eaf5f8c1e612fc94928905583a68611709e99b9c948f221ced5addd7a73",
+    "all_corners_checked": false,
+    "pixels": {
+      "NE": [
+        4454.37,
+        366.06
+      ]
+    },
+    "original_pixels": {
+      "NE": [
+        4453.53,
+        406.22
+      ]
+    },
+    "evidence": "The native printed degree/minute labels identify the NE geographic graticule at 8.2500000°, 51.8333333°. The former crossing [4453.53, 406.22] follows the neighbouring kilometre rule. Direct inspection of both strokes and their labels gives [4454.37, 366.06].",
+    "review_basis": "Printed graticule",
+    "printed_lonlat": {
+      "NE": [
+        8.25,
+        51.83333333333333
+      ]
+    }
+  },
+  "M32-107-4": {
+    "sha256": "9225231d5850720467ec1722c3c3f01d06c16329df59e82b519c95ad8c18dcb8",
+    "all_corners_checked": false,
+    "pixels": {
+      "NE": [
+        274.29,
+        5150.54
+      ]
+    },
+    "original_pixels": {
+      "NE": [
+        273.69,
+        5085.84
+      ]
+    },
+    "evidence": "The native printed degree/minute labels identify the NE geographic graticule at 11.5000000°, 49.1666667°. The former crossing [273.69, 5085.84] follows the neighbouring kilometre rule. Direct inspection of both strokes and their labels gives [274.29, 5150.54].",
+    "review_basis": "Printed graticule",
+    "printed_lonlat": {
+      "NE": [
+        11.5,
+        49.16666666666667
+      ]
+    }
+  },
+  "M33-056-1": {
+    "sha256": "7a6372c5290f8be5948fae34568c667b9b8ad6e6cf80d640e963fca93ada323d",
+    "all_corners_checked": false,
+    "pixels": {
+      "NW": [
+        290.91,
+        430.32
+      ]
+    },
+    "original_pixels": {
+      "NW": [
+        290.89,
+        483.11
+      ]
+    },
+    "evidence": "The native printed degree/minute labels identify the NW geographic graticule at 15.5000000°, 50.6666667°. The former crossing [290.89, 483.11] follows the neighbouring kilometre rule. Direct inspection of both strokes and their labels gives [290.91, 430.32].",
+    "review_basis": "Printed graticule",
+    "printed_lonlat": {
+      "NW": [
+        15.5,
+        50.666666666666664
+      ]
+    }
+  },
+  "M33-065-2": {
+    "sha256": "130dc0187881c10133d11a46eb1a3abdb003d3610df0767561b7a0867861354a",
+    "all_corners_checked": false,
+    "pixels": {
+      "NE": [
+        4390.99,
+        362.63
+      ]
+    },
+    "original_pixels": {
+      "NE": [
+        4390.07,
+        396.54
+      ]
+    },
+    "evidence": "The native printed degree/minute labels identify the NE geographic graticule at 14.5000000°, 50.3333333°. The former crossing [4390.07, 396.54] follows the neighbouring kilometre rule. Direct inspection of both strokes and their labels gives [4390.99, 362.63].",
+    "review_basis": "Printed graticule",
+    "printed_lonlat": {
+      "NE": [
+        14.5,
+        50.333333333333336
+      ]
+    }
+  },
+  "M33-068-1": {
+    "sha256": "ac3cc8408ba8153ab94b2da774b3458e122ce5eb2fedbca610f4321c10a85671",
+    "all_corners_checked": true,
+    "pixels": {
+      "NE": [
+        4474.64,
+        352.18
+      ]
+    },
+    "original_pixels": {
+      "NE": [
+        4473.71,
+        422.89
+      ]
+    },
+    "evidence": "The four printed geographic corner labels were inspected in enlarged native-source crops. The earlier detector followed a neighbouring projected grid line or paper marking at the revised corners."
+  },
+  "M33-077-1": {
+    "sha256": "2c08f064ad0c4c0b6763a3e9c6dec44677f44e8de366d1881e120db5aa42dc6b",
+    "all_corners_checked": true,
+    "pixels": {
+      "NE": [
+        4505.28,
+        340.39
+      ]
+    },
+    "original_pixels": {
+      "NE": [
+        4504.42,
+        390.45
+      ]
+    },
+    "evidence": "The four printed geographic corner labels were inspected in enlarged native-source crops. The earlier detector followed a neighbouring projected grid line or paper marking at the revised corners.",
+    "user_feedback": {
+      "corner": "NE",
+      "date": "2026-11-22",
+      "comment": "User flagged the original northeast crossing in the corner gallery."
+    }
+  },
+  "M33-100-4": {
+    "sha256": "e0eeb4908245814ad1ecbff88f6904ba4f50413a5274e9bd484e36b031ecf6c3",
+    "all_corners_checked": false,
+    "pixels": {
+      "NE": [
+        4608.05,
+        438.66
+      ]
+    },
+    "original_pixels": {
+      "NE": [
+        4592.48,
+        439.69
+      ]
+    },
+    "evidence": "The native printed degree/minute labels identify the NE geographic graticule at 14.0000000°, 49.1666667°. The former crossing [4592.48, 439.69] follows the neighbouring kilometre rule. Direct inspection of both strokes and their labels gives [4608.05, 438.66].",
+    "review_basis": "Printed graticule",
+    "printed_lonlat": {
+      "NE": [
+        14.0,
+        49.16666666666667
+      ]
+    }
+  },
+  "M33-111-4": {
+    "sha256": "7a8d6d9073fb1ec0eb8a204e37f3d340d88b53b7e9bdd61cbf4a68e019d6d482",
+    "all_corners_checked": true,
+    "pixels": {
+      "NE": [
+        4640.33,
+        429.86
+      ]
+    },
+    "original_pixels": {
+      "NE": [
+        4641.2,
+        498.99
+      ]
+    },
+    "evidence": "The four printed geographic corner labels were inspected in enlarged native-source crops. The earlier detector followed a neighbouring projected grid line or paper marking at the revised corners."
+  },
+  "M34-012-4": {
+    "sha256": "eaa73bb0795e6b12f033e02dc93ef1b821d88e40c0e01774b5b6669fb6d716ee",
+    "all_corners_checked": false,
+    "pixels": {
+      "NE": [
+        4368.78,
+        436.74
+      ]
+    },
+    "original_pixels": {
+      "NE": [
+        4369.84,
+        474.95
+      ]
+    },
+    "evidence": "The native printed degree/minute labels identify the NE geographic graticule at 24.0000000°, 51.8333333°. The former crossing [4369.84, 474.95] follows the neighbouring kilometre rule. Direct inspection of both strokes and their labels gives [4368.78, 436.74].",
+    "review_basis": "Printed graticule",
+    "printed_lonlat": {
+      "NE": [
+        24.0,
+        51.83333333333333
+      ]
+    }
+  },
+  "M34-086-1": {
+    "sha256": "1e134b7b2d85300a134642d2a66d4ee14e985b42d171b10baa14244bc0de3e70",
+    "all_corners_checked": true,
+    "pixels": {
+      "NE": [
+        4450.14,
+        447.32
+      ]
+    },
+    "original_pixels": {
+      "NE": [
+        4450.72,
+        518.95
+      ]
+    },
+    "evidence": "The four printed geographic corner labels were inspected in enlarged native-source crops. The earlier detector followed a neighbouring projected grid line or paper marking at the revised corners."
+  },
+  "M35-015-2": {
+    "sha256": "90d501ce61565ad32cdafd414532fe8aa3fe68d315c13f43d888416f712c8618",
+    "all_corners_checked": false,
+    "pixels": {
+      "SE": [
+        4419.85,
+        4828.75
+      ]
+    },
+    "original_pixels": {
+      "SE": [
+        4420.52,
+        4797.18
+      ]
+    },
+    "evidence": "The native printed degree/minute labels identify the SE geographic graticule at 25.5000000°, 51.5000000°. The former crossing [4420.52, 4797.18] follows the neighbouring kilometre rule. Direct inspection of both strokes and their labels gives [4419.85, 4828.75].",
+    "review_basis": "Printed graticule",
+    "printed_lonlat": {
+      "SE": [
+        25.5,
+        51.5
+      ]
+    }
+  },
+  "M36-008-3": {
+    "sha256": "432d6059b667ea04862e95921f4318884055aba5c0a69e9133e9c4c72866fec5",
+    "all_corners_checked": false,
+    "pixels": {
+      "NE": [
+        4337.11,
+        369.42
+      ]
+    },
+    "original_pixels": {
+      "NE": [
+        4337.4,
+        411.01
+      ]
+    },
+    "evidence": "The native printed degree/minute labels identify the NE geographic graticule at 33.7500000°, 51.8333333°. The former crossing [4337.4, 411.01] follows the neighbouring kilometre rule. Direct inspection of both strokes and their labels gives [4337.11, 369.42].",
+    "review_basis": "Printed graticule",
+    "printed_lonlat": {
+      "NE": [
+        33.75,
+        51.83333333333333
+      ]
+    }
+  },
+  "M36-057-2": {
+    "sha256": "0f406c270869b984a1abf5d273b226c3eda0afdb1435c15acff4d22a2f222c8d",
+    "all_corners_checked": false,
+    "pixels": {
+      "NE": [
+        4465.21,
+        479.26
+      ]
+    },
+    "original_pixels": {
+      "NE": [
+        4467.22,
+        520.42
+      ]
+    },
+    "evidence": "The native printed degree/minute labels identify the NE geographic graticule at 34.5000000°, 50.6666667°. The former crossing [4467.22, 520.42] follows the neighbouring kilometre rule. Direct inspection of both strokes and their labels gives [4465.21, 479.26].",
+    "review_basis": "Printed graticule",
+    "printed_lonlat": {
+      "NE": [
+        34.5,
+        50.666666666666664
+      ]
+    }
+  },
+  "M37-124-2": {
+    "sha256": "5ca2508a385f0a4afaac4a0c288bf7a2bbf67a7a851a4461bc56d181847f4f5f",
+    "all_corners_checked": false,
+    "pixels": {
+      "NE": [
+        4541.8,
+        315.91
+      ]
+    },
+    "original_pixels": {
+      "NE": [
+        4540.56,
+        350.03
+      ]
+    },
+    "evidence": "The native printed degree/minute labels identify the NE geographic graticule at 38.0000000°, 48.6666667°. The former crossing [4540.56, 350.03] follows the neighbouring kilometre rule. Direct inspection of both strokes and their labels gives [4541.8, 315.91].",
+    "review_basis": "Printed graticule",
+    "printed_lonlat": {
+      "NE": [
+        38.0,
+        48.666666666666664
+      ]
+    }
+  },
+  "N32-067-1": {
+    "sha256": "281126ff45189aac8832057aec908ae0a6fe6d20f5bb255bdeeab552f8d2f527",
+    "all_corners_checked": false,
+    "pixels": {
+      "NE": [
+        4185.94,
+        405.79
+      ]
+    },
+    "original_pixels": {
+      "NE": [
+        4185.95,
+        443.95
+      ]
+    },
+    "evidence": "The native printed degree/minute labels identify the NE geographic graticule at 9.2500000°, 54.3333333°. The former crossing [4185.95, 443.95] follows the neighbouring kilometre rule. Direct inspection of both strokes and their labels gives [4185.94, 405.79].",
+    "review_basis": "Printed graticule",
+    "printed_lonlat": {
+      "NE": [
+        9.25,
+        54.333333333333336
+      ]
+    }
+  },
+  "N33-064-1": {
+    "sha256": "a9e8ec8a1512232b9d030644e73bde7bd8d3ea47cbfbc38e3f234d45484c7044",
+    "all_corners_checked": false,
+    "pixels": {
+      "NW": [
+        168.41,
+        461.8
+      ]
+    },
+    "original_pixels": {
+      "NW": [
+        167.53,
+        501.45
+      ]
+    },
+    "evidence": "The native printed degree/minute labels identify the NW geographic graticule at 13.5000000°, 54.3333333°. The former crossing [167.53, 501.45] follows the neighbouring kilometre rule. Direct inspection of both strokes and their labels gives [168.41, 461.8].",
+    "review_basis": "Printed graticule",
+    "printed_lonlat": {
+      "NW": [
+        13.5,
+        54.333333333333336
+      ]
+    }
+  },
+  "N34-021-1": {
+    "sha256": "f679922855c82cc2091ae4162649ad41e44a2a237e1f351528c0e419a8f95338",
+    "all_corners_checked": false,
+    "pixels": {
+      "NW": [
+        406.13,
+        386.09
+      ]
+    },
+    "original_pixels": {
+      "NW": [
+        423.34,
+        386.16
+      ]
+    },
+    "evidence": "The native printed degree/minute labels identify the NW geographic graticule at 22.0000000°, 55.6666667°. The former crossing [423.34, 386.16] follows the neighbouring kilometre rule. Direct inspection of both strokes and their labels gives [406.13, 386.09].",
+    "review_basis": "Printed graticule",
+    "printed_lonlat": {
+      "NW": [
+        22.0,
+        55.666666666666664
+      ]
+    }
+  },
+  "N45-080-3": {
+    "sha256": "22dc3fd664b84a61167d88a29fb62d44378c650ef7385a6502b538e3e5fa83cb",
+    "all_corners_checked": true,
+    "pixels": {
+      "NW": [
+        225.9,
+        372.73
+      ],
+      "NE": [
+        4109.86,
+        329.81
+      ],
+      "SE": [
+        4174.12,
+        4718.48
+      ],
+      "SW": [
+        273.78,
+        4765.99
+      ]
+    },
+    "original_pixels": {
+      "NW": [
+        4174.12,
+        4718.48
+      ],
+      "NE": [
+        273.78,
+        4765.99
+      ],
+      "SE": [
+        225.9,
+        372.73
+      ],
+      "SW": [
+        4109.86,
+        329.81
+      ]
+    },
+    "evidence": "Printed degree labels and upright type give west 87°30′, east 87°45′, north 53°50′, south 53°40′. Reassigned the four measured source pixels to their true geographic corners.",
+    "rotation": 0
+  },
+  "N57-046-1": {
+    "sha256": "cda44a2470e5a251d55bbf708613fdbb377e76b6c27d81c1b134e3a27f0e1368",
+    "all_corners_checked": false,
+    "pixels": {
+      "SW": [
+        403.27,
+        4829.77
+      ]
+    },
+    "original_pixels": {
+      "SW": [
+        403.09,
+        4785.96
+      ]
+    },
+    "evidence": "The native printed degree/minute labels identify the SW geographic graticule at 160.5000000°, 54.8333333°. The former crossing [403.09, 4785.96] follows the neighbouring kilometre rule. Direct inspection of both strokes and their labels gives [403.27, 4829.77].",
+    "review_basis": "Printed graticule",
+    "printed_lonlat": {
+      "SW": [
+        160.5,
+        54.83333333333333
+      ]
+    }
+  },
+  "O35-081-2": {
+    "sha256": "21aaefdb15ae82cb056d8776ef9c9ed22a58322fa1d0e9055816cc3ab9a2b619",
+    "all_corners_checked": false,
+    "pixels": {
+      "NW": [
+        418.13,
+        529.51
+      ]
+    },
+    "original_pixels": {
+      "NW": [
+        438.3,
+        527.73
+      ]
+    },
+    "evidence": "The native printed degree/minute labels identify the NW geographic graticule at 28.2500000°, 58.0000000°. The former crossing [438.3, 527.73] follows the neighbouring kilometre rule. Direct inspection of both strokes and their labels gives [418.13, 529.51].",
+    "review_basis": "Printed graticule",
+    "printed_lonlat": {
+      "NW": [
+        28.25,
+        58.0
+      ]
+    }
+  },
+  "O36-118-2": {
+    "sha256": "e612789aea1ae51481d9c8372162fbe3a967cce80cf204ebbbd1ed1ebe7c0d80",
+    "all_corners_checked": false,
+    "pixels": {
+      "SW": [
+        161.23,
+        4715.58
+      ]
+    },
+    "original_pixels": {
+      "SW": [
+        160.21,
+        4676.43
+      ]
+    },
+    "evidence": "The native printed degree/minute labels identify the SW geographic graticule at 34.7500000°, 56.8333333°. The former crossing [160.21, 4676.43] follows the neighbouring kilometre rule. Direct inspection of both strokes and their labels gives [161.23, 4715.58].",
+    "review_basis": "Printed graticule",
+    "printed_lonlat": {
+      "SW": [
+        34.75,
+        56.83333333333333
+      ]
+    }
+  },
+  "O38-123-3": {
+    "sha256": "6f2c5bb23fab157ed27215493cb2d7ebe268f69d7d37490515fecb1055f57749",
+    "all_corners_checked": false,
+    "pixels": {
+      "NW": [
+        305.51,
+        429.63
+      ]
+    },
+    "original_pixels": {
+      "NW": [
+        303.85,
+        463.7
+      ]
+    },
+    "evidence": "The native printed degree/minute labels identify the NW geographic graticule at 43.0000000°, 56.5000000°. The former crossing [303.85, 463.7] follows the neighbouring kilometre rule. Direct inspection of both strokes and their labels gives [305.51, 429.63].",
+    "review_basis": "Printed graticule",
+    "printed_lonlat": {
+      "NW": [
+        43.0,
+        56.5
+      ]
+    }
+  }
+}

@@ -1,0 +1,1691 @@
+{
+  "M30-034-4": {
+    "sha256": "06e8a0809f2ed98b6868cbffc7af5c7567b6a40af84a1bb09ead7202e651bf5b",
+    "all_corners_checked": true,
+    "other_gcps": [
+      {
+        "pixel": [
+          281.69,
+          2211.26
+        ],
+        "lonlat": [
+          -1.23307749478,
+          51.01194239626
+        ],
+        "native_grid_m": [
+          624000,
+          5655000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          292.97,
+          1617.66
+        ],
+        "lonlat": [
+          -1.23136782867,
+          51.05686446873
+        ],
+        "native_grid_m": [
+          624000,
+          5660000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          306.22,
+          905.55
+        ],
+        "lonlat": [
+          -1.22931042342,
+          51.11077044281
+        ],
+        "native_grid_m": [
+          624000,
+          5666000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          318.88,
+          312.85
+        ],
+        "lonlat": [
+          -1.22759106331,
+          51.15569166044
+        ],
+        "native_grid_m": [
+          624000,
+          5671000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          869.02,
+          2222.89
+        ],
+        "lonlat": [
+          -1.16186909311,
+          51.01084357083
+        ],
+        "native_grid_m": [
+          629000,
+          5655000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          880.45,
+          1629.25
+        ],
+        "lonlat": [
+          -1.16009061896,
+          51.05576389129
+        ],
+        "native_grid_m": [
+          629000,
+          5660000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          894.94,
+          917.1
+        ],
+        "lonlat": [
+          -1.15795041074,
+          51.10966775849
+        ],
+        "native_grid_m": [
+          629000,
+          5666000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          906.92,
+          323.05
+        ],
+        "lonlat": [
+          -1.15616185303,
+          51.15458721666
+        ],
+        "native_grid_m": [
+          629000,
+          5671000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          1459.03,
+          2233.96
+        ],
+        "lonlat": [
+          -1.09066525016,
+          51.00970137095
+        ],
+        "native_grid_m": [
+          634000,
+          5655000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          1470.78,
+          1640.8
+        ],
+        "lonlat": [
+          -1.08881798337,
+          51.05461987031
+        ],
+        "native_grid_m": [
+          634000,
+          5660000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          1484.65,
+          928.56
+        ],
+        "lonlat": [
+          -1.08659499078,
+          51.10852154758
+        ],
+        "native_grid_m": [
+          634000,
+          5666000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          1496.3,
+          334.75
+        ],
+        "lonlat": [
+          -1.08473725104,
+          51.15343917692
+        ],
+        "native_grid_m": [
+          634000,
+          5671000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          2051.77,
+          2124.96
+        ],
+        "lonlat": [
+          -1.01908332669,
+          51.01749915703
+        ],
+        "native_grid_m": [
+          639000,
+          5656000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          2063.65,
+          1533.35
+        ],
+        "lonlat": [
+          -1.01716629913,
+          51.06241568645
+        ],
+        "native_grid_m": [
+          639000,
+          5661000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          2075.14,
+          940.29
+        ],
+        "lonlat": [
+          -1.01524434089,
+          51.10733181678
+        ],
+        "native_grid_m": [
+          639000,
+          5666000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          2086.82,
+          346.63
+        ],
+        "lonlat": [
+          -1.01331743528,
+          51.15224754796
+        ],
+        "native_grid_m": [
+          639000,
+          5671000
+        ],
+        "method": "Printed 1 km grid intersection"
+      }
+    ],
+    "evidence": "The four printed geographic corner intersections were visually checked. 16 spatially distributed printed 1 km grid intersections constrain the interior. On 249 other printed crossings the 95th-percentile discrepancy improved from 3.02 to 1.22 native pixels."
+  },
+  "M30-056-1": {
+    "sha256": "e8fd6671c91a5303d7126aacda1d6a21956341393e6d1375fbb20d97bf5b7133",
+    "all_corners_checked": true,
+    "other_gcps": [
+      {
+        "pixel": [
+          368.95,
+          2247.9
+        ],
+        "lonlat": [
+          -2.47837971798,
+          50.51175524933
+        ],
+        "native_grid_m": [
+          537000,
+          5598000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          376.09,
+          1654.93
+        ],
+        "lonlat": [
+          -2.47788383419,
+          50.55670074275
+        ],
+        "native_grid_m": [
+          537000,
+          5603000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          383.98,
+          942.98
+        ],
+        "lonlat": [
+          -2.47728710382,
+          50.61063486984
+        ],
+        "native_grid_m": [
+          537000,
+          5609000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          391.27,
+          349.31
+        ],
+        "lonlat": [
+          -2.47678843203,
+          50.65557958837
+        ],
+        "native_grid_m": [
+          537000,
+          5614000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          957.47,
+          2253.83
+        ],
+        "lonlat": [
+          -2.40789425881,
+          50.51141811474
+        ],
+        "native_grid_m": [
+          542000,
+          5598000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          964.85,
+          1660.85
+        ],
+        "lonlat": [
+          -2.40733137627,
+          50.55636307227
+        ],
+        "native_grid_m": [
+          542000,
+          5603000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          973.66,
+          949.31
+        ],
+        "lonlat": [
+          -2.40665402182,
+          50.61029655497
+        ],
+        "native_grid_m": [
+          542000,
+          5609000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          980.81,
+          355.15
+        ],
+        "lonlat": [
+          -2.40608797465,
+          50.65524073537
+        ],
+        "native_grid_m": [
+          542000,
+          5614000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          1546.93,
+          2259.91
+        ],
+        "lonlat": [
+          -2.33741023046,
+          50.511038311
+        ],
+        "native_grid_m": [
+          547000,
+          5598000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          1554.33,
+          1666.62
+        ],
+        "lonlat": [
+          -2.33678035394,
+          50.55598266483
+        ],
+        "native_grid_m": [
+          547000,
+          5603000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          1563.23,
+          955.73
+        ],
+        "lonlat": [
+          -2.33602238116,
+          50.60991542157
+        ],
+        "native_grid_m": [
+          547000,
+          5609000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          1570.22,
+          360.96
+        ],
+        "lonlat": [
+          -2.33538896343,
+          50.65485899575
+        ],
+        "native_grid_m": [
+          547000,
+          5614000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          2137.15,
+          2266.49
+        ],
+        "lonlat": [
+          -2.26692780318,
+          50.51061584028
+        ],
+        "native_grid_m": [
+          552000,
+          5598000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          2144.61,
+          1673.21
+        ],
+        "lonlat": [
+          -2.26623093802,
+          50.5555595226
+        ],
+        "native_grid_m": [
+          552000,
+          5603000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          2153.78,
+          962.57
+        ],
+        "lonlat": [
+          -2.26539235336,
+          50.60949147185
+        ],
+        "native_grid_m": [
+          552000,
+          5609000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          2160.95,
+          366.94
+        ],
+        "lonlat": [
+          -2.26469157046,
+          50.65443437171
+        ],
+        "native_grid_m": [
+          552000,
+          5614000
+        ],
+        "method": "Printed 1 km grid intersection"
+      }
+    ],
+    "evidence": "The four printed geographic corner intersections were visually checked. 16 spatially distributed printed 1 km grid intersections constrain the interior. On 255 other printed crossings the 95th-percentile discrepancy improved from 2.76 to 1.46 native pixels."
+  },
+  "M30-092-2": {
+    "sha256": "102bbeb2fb71e8948a8458b456d38c4d3bd695ecfb5b284da3bc941d20747c0e",
+    "all_corners_checked": true,
+    "other_gcps": [
+      {
+        "pixel": [
+          397.76,
+          2942.73
+        ],
+        "lonlat": [
+          -2.2267232061,
+          49.51241835421
+        ],
+        "native_grid_m": [
+          556000,
+          5487000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          405.79,
+          2468.61
+        ],
+        "lonlat": [
+          -2.22629768863,
+          49.53938901987
+        ],
+        "native_grid_m": [
+          556000,
+          5490000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          413.7,
+          1993.15
+        ],
+        "lonlat": [
+          -2.22587153147,
+          49.56635955647
+        ],
+        "native_grid_m": [
+          556000,
+          5493000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          424.12,
+          1366.03
+        ],
+        "lonlat": [
+          -2.22530232471,
+          49.6023200712
+        ],
+        "native_grid_m": [
+          556000,
+          5497000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          432.3,
+          891.06
+        ],
+        "lonlat": [
+          -2.2248746701,
+          49.6292903067
+        ],
+        "native_grid_m": [
+          556000,
+          5500000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          440.26,
+          420.74
+        ],
+        "lonlat": [
+          -2.22444637164,
+          49.6562604132
+        ],
+        "native_grid_m": [
+          556000,
+          5503000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          712.44,
+          2948.36
+        ],
+        "lonlat": [
+          -2.19910897,
+          49.51223048693
+        ],
+        "native_grid_m": [
+          558000,
+          5487000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          720.4,
+          2474.64
+        ],
+        "lonlat": [
+          -2.19866826091,
+          49.53920097459
+        ],
+        "native_grid_m": [
+          558000,
+          5490000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          728.19,
+          1998.94
+        ],
+        "lonlat": [
+          -2.1982268893,
+          49.56617133298
+        ],
+        "native_grid_m": [
+          558000,
+          5493000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          738.64,
+          1371.94
+        ],
+        "lonlat": [
+          -2.197637361,
+          49.6021316098
+        ],
+        "native_grid_m": [
+          558000,
+          5497000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          746.55,
+          896.93
+        ],
+        "lonlat": [
+          -2.1971944385,
+          49.62910166665
+        ],
+        "native_grid_m": [
+          558000,
+          5500000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          754.45,
+          426.58
+        ],
+        "lonlat": [
+          -2.19675084916,
+          49.65607159428
+        ],
+        "native_grid_m": [
+          558000,
+          5503000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          1339.98,
+          2959.9
+        ],
+        "lonlat": [
+          -2.14388138957,
+          49.51183498207
+        ],
+        "native_grid_m": [
+          562000,
+          5487000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          1348.03,
+          2486.34
+        ],
+        "lonlat": [
+          -2.14341029897,
+          49.53880509497
+        ],
+        "native_grid_m": [
+          562000,
+          5490000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          1355.89,
+          2010.17
+        ],
+        "lonlat": [
+          -2.14293850019,
+          49.56577507821
+        ],
+        "native_grid_m": [
+          562000,
+          5493000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          1366.22,
+          1383.29
+        ],
+        "lonlat": [
+          -2.14230833116,
+          49.60173485418
+        ],
+        "native_grid_m": [
+          562000,
+          5497000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          1374.34,
+          908.3
+        ],
+        "lonlat": [
+          -2.14183487461,
+          49.62870453491
+        ],
+        "native_grid_m": [
+          562000,
+          5500000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          1382.13,
+          438.22
+        ],
+        "lonlat": [
+          -2.14136070526,
+          49.65567408602
+        ],
+        "native_grid_m": [
+          562000,
+          5503000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          1810.11,
+          2968.21
+        ],
+        "lonlat": [
+          -2.10246152442,
+          49.51152105509
+        ],
+        "native_grid_m": [
+          565000,
+          5487000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          1818.29,
+          2495.08
+        ],
+        "lonlat": [
+          -2.10196764929,
+          49.53849087055
+        ],
+        "native_grid_m": [
+          565000,
+          5490000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          1826.21,
+          2018.28
+        ],
+        "lonlat": [
+          -2.10147303173,
+          49.56546055602
+        ],
+        "native_grid_m": [
+          565000,
+          5493000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          1836.69,
+          1392.0
+        ],
+        "lonlat": [
+          -2.10081238429,
+          49.60141993445
+        ],
+        "native_grid_m": [
+          565000,
+          5497000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          1844.89,
+          916.96
+        ],
+        "lonlat": [
+          -2.10031602881,
+          49.62838931665
+        ],
+        "native_grid_m": [
+          565000,
+          5500000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          1852.89,
+          446.89
+        ],
+        "lonlat": [
+          -2.09981892607,
+          49.65535856889
+        ],
+        "native_grid_m": [
+          565000,
+          5503000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          2281.13,
+          2976.85
+        ],
+        "lonlat": [
+          -2.06104240025,
+          49.51119230167
+        ],
+        "native_grid_m": [
+          568000,
+          5487000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          2289.33,
+          2504.05
+        ],
+        "lonlat": [
+          -2.06052574202,
+          49.53816180564
+        ],
+        "native_grid_m": [
+          568000,
+          5490000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          2297.11,
+          2026.43
+        ],
+        "lonlat": [
+          -2.06000830713,
+          49.56513117928
+        ],
+        "native_grid_m": [
+          568000,
+          5493000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          2307.59,
+          1400.8
+        ],
+        "lonlat": [
+          -2.05931718321,
+          49.6010901414
+        ],
+        "native_grid_m": [
+          568000,
+          5497000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          2315.59,
+          925.79
+        ],
+        "lonlat": [
+          -2.05879793025,
+          49.62805921097
+        ],
+        "native_grid_m": [
+          568000,
+          5500000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          2323.18,
+          455.54
+        ],
+        "lonlat": [
+          -2.05827789559,
+          49.65502815024
+        ],
+        "native_grid_m": [
+          568000,
+          5503000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          2753.24,
+          2985.01
+        ],
+        "lonlat": [
+          -2.01962405123,
+          49.51084872246
+        ],
+        "native_grid_m": [
+          571000,
+          5487000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          2760.97,
+          2512.2
+        ],
+        "lonlat": [
+          -2.0190846114,
+          49.5378179009
+        ],
+        "native_grid_m": [
+          571000,
+          5490000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          2768.69,
+          2034.25
+        ],
+        "lonlat": [
+          -2.0185443607,
+          49.56478694865
+        ],
+        "native_grid_m": [
+          571000,
+          5493000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          2778.79,
+          1409.03
+        ],
+        "lonlat": [
+          -2.01782276232,
+          49.6007454757
+        ],
+        "native_grid_m": [
+          571000,
+          5497000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          2786.88,
+          933.76
+        ],
+        "lonlat": [
+          -2.0172806134,
+          49.62771421855
+        ],
+        "native_grid_m": [
+          571000,
+          5500000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          2794.75,
+          463.73
+        ],
+        "lonlat": [
+          -2.01673764833,
+          49.65468283073
+        ],
+        "native_grid_m": [
+          571000,
+          5503000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          337.92,
+          230.08
+        ],
+        "lonlat": [
+          -2.2333333333333334,
+          49.666666666666664
+        ],
+        "method": "Printed one-minute division of longitude on 49°40′ N"
+      },
+      {
+        "pixel": [
+          527.12,
+          230.99
+        ],
+        "lonlat": [
+          -2.216666666666667,
+          49.666666666666664
+        ],
+        "method": "Printed one-minute division of longitude on 49°40′ N"
+      },
+      {
+        "pixel": [
+          717.14,
+          232.0
+        ],
+        "lonlat": [
+          -2.2,
+          49.666666666666664
+        ],
+        "method": "Printed one-minute division of longitude on 49°40′ N"
+      },
+      {
+        "pixel": [
+          905.98,
+          232.8
+        ],
+        "lonlat": [
+          -2.183333333333333,
+          49.666666666666664
+        ],
+        "method": "Printed one-minute division of longitude on 49°40′ N"
+      },
+      {
+        "pixel": [
+          1094.92,
+          233.74
+        ],
+        "lonlat": [
+          -2.1666666666666665,
+          49.666666666666664
+        ],
+        "method": "Printed one-minute division of longitude on 49°40′ N"
+      },
+      {
+        "pixel": [
+          1284.09,
+          234.31
+        ],
+        "lonlat": [
+          -2.15,
+          49.666666666666664
+        ],
+        "method": "Printed one-minute division of longitude on 49°40′ N"
+      },
+      {
+        "pixel": [
+          1472.17,
+          235.16
+        ],
+        "lonlat": [
+          -2.1333333333333333,
+          49.666666666666664
+        ],
+        "method": "Printed one-minute division of longitude on 49°40′ N"
+      },
+      {
+        "pixel": [
+          1661.02,
+          236.04
+        ],
+        "lonlat": [
+          -2.1166666666666667,
+          49.666666666666664
+        ],
+        "method": "Printed one-minute division of longitude on 49°40′ N"
+      },
+      {
+        "pixel": [
+          1851.08,
+          237.0
+        ],
+        "lonlat": [
+          -2.1,
+          49.666666666666664
+        ],
+        "method": "Printed one-minute division of longitude on 49°40′ N"
+      },
+      {
+        "pixel": [
+          2039.12,
+          237.99
+        ],
+        "lonlat": [
+          -2.0833333333333335,
+          49.666666666666664
+        ],
+        "method": "Printed one-minute division of longitude on 49°40′ N"
+      },
+      {
+        "pixel": [
+          2228.85,
+          238.95
+        ],
+        "lonlat": [
+          -2.066666666666667,
+          49.666666666666664
+        ],
+        "method": "Printed one-minute division of longitude on 49°40′ N"
+      },
+      {
+        "pixel": [
+          2417.27,
+          239.94
+        ],
+        "lonlat": [
+          -2.05,
+          49.666666666666664
+        ],
+        "method": "Printed one-minute division of longitude on 49°40′ N"
+      },
+      {
+        "pixel": [
+          2606.2,
+          240.82
+        ],
+        "lonlat": [
+          -2.033333333333333,
+          49.666666666666664
+        ],
+        "method": "Printed one-minute division of longitude on 49°40′ N"
+      },
+      {
+        "pixel": [
+          2796.41,
+          241.29
+        ],
+        "lonlat": [
+          -2.0166666666666666,
+          49.666666666666664
+        ],
+        "method": "Printed one-minute division of longitude on 49°40′ N"
+      }
+    ],
+    "evidence": "The four printed corners and 14 one-minute longitude ticks on the 49°40′ N northern border identify the actual frame. Thirty-six independently located printed 1 km intersections constrain the distorted interior. On 230 held-out crossings the 95th-percentile discrepancy improved from 9.40 to 2.13 native pixels."
+  },
+  "M30-092-4": {
+    "sha256": "239cf1e53e4b9add4840dd1e7fd0293dbaa09e5e84dcb9476423f2c74ea2e1bc",
+    "all_corners_checked": true,
+    "other_gcps": [
+      {
+        "pixel": [
+          393.21,
+          2939.9
+        ],
+        "lonlat": [
+          -2.22926294675,
+          49.3505916491
+        ],
+        "native_grid_m": [
+          556000,
+          5469000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          410.36,
+          2150.77
+        ],
+        "lonlat": [
+          -2.22855975339,
+          49.39554397792
+        ],
+        "native_grid_m": [
+          556000,
+          5474000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          426.8,
+          1362.76
+        ],
+        "lonlat": [
+          -2.22785480141,
+          49.44049594802
+        ],
+        "native_grid_m": [
+          556000,
+          5479000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          442.55,
+          573.69
+        ],
+        "lonlat": [
+          -2.22714808512,
+          49.48544755947
+        ],
+        "native_grid_m": [
+          556000,
+          5484000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          1178.34,
+          2957.98
+        ],
+        "lonlat": [
+          -2.16045458615,
+          49.35011235433
+        ],
+        "native_grid_m": [
+          561000,
+          5469000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          1195.83,
+          2169.08
+        ],
+        "lonlat": [
+          -2.15968863173,
+          49.39506392662
+        ],
+        "native_grid_m": [
+          561000,
+          5474000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          1212.58,
+          1380.58
+        ],
+        "lonlat": [
+          -2.15892076177,
+          49.44001513883
+        ],
+        "native_grid_m": [
+          561000,
+          5479000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          1228.6,
+          591.2
+        ],
+        "lonlat": [
+          -2.15815097008,
+          49.484965991
+        ],
+        "native_grid_m": [
+          561000,
+          5484000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          1963.38,
+          2975.16
+        ],
+        "lonlat": [
+          -2.09164813492,
+          49.34959210589
+        ],
+        "native_grid_m": [
+          566000,
+          5469000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          1980.33,
+          2186.24
+        ],
+        "lonlat": [
+          -2.0908194256,
+          49.39454285704
+        ],
+        "native_grid_m": [
+          566000,
+          5474000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          1996.27,
+          1397.3
+        ],
+        "lonlat": [
+          -2.08998864385,
+          49.43949324661
+        ],
+        "native_grid_m": [
+          566000,
+          5479000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          2011.65,
+          607.91
+        ],
+        "lonlat": [
+          -2.08915578298,
+          49.48444327465
+        ],
+        "native_grid_m": [
+          566000,
+          5484000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          2748.23,
+          2991.38
+        ],
+        "lonlat": [
+          -2.02284374944,
+          49.34903090667
+        ],
+        "native_grid_m": [
+          571000,
+          5469000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          2765.94,
+          2201.97
+        ],
+        "lonlat": [
+          -2.02195229189,
+          49.39398077206
+        ],
+        "native_grid_m": [
+          571000,
+          5474000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          2782.25,
+          1413.2
+        ],
+        "lonlat": [
+          -2.02105860506,
+          49.43893027426
+        ],
+        "native_grid_m": [
+          571000,
+          5479000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          2798.15,
+          624.37
+        ],
+        "lonlat": [
+          -2.02016268174,
+          49.48387941332
+        ],
+        "native_grid_m": [
+          571000,
+          5484000
+        ],
+        "method": "Printed 1 km grid intersection"
+      }
+    ],
+    "evidence": "The four printed geographic corner intersections were visually checked. 16 spatially distributed printed 1 km grid intersections constrain the interior. On 240 other printed crossings the 95th-percentile discrepancy improved from 3.41 to 1.53 native pixels."
+  },
+  "N31-112-4": {
+    "sha256": "eb24bb575bf2362372168b9f64b901de9b2200d473ecad1a82fcd6c8377a76be",
+    "all_corners_checked": true,
+    "other_gcps": [
+      {
+        "pixel": [
+          430.69,
+          2978.27
+        ],
+        "lonlat": [
+          1.77273035296,
+          52.68162446965
+        ],
+        "native_grid_m": [
+          417000,
+          5840000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          419.37,
+          2189.14
+        ],
+        "lonlat": [
+          1.77146938929,
+          52.72654480479
+        ],
+        "native_grid_m": [
+          417000,
+          5845000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          408.83,
+          1401.67
+        ],
+        "lonlat": [
+          1.77020507725,
+          52.77146477647
+        ],
+        "native_grid_m": [
+          417000,
+          5850000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          397.8,
+          614.33
+        ],
+        "lonlat": [
+          1.76893740494,
+          52.81638438476
+        ],
+        "native_grid_m": [
+          417000,
+          5855000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          1059.24,
+          2969.93
+        ],
+        "lonlat": [
+          1.83186215433,
+          52.68222198767
+        ],
+        "native_grid_m": [
+          421000,
+          5840000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          1204.57,
+          2177.94
+        ],
+        "lonlat": [
+          1.84546036456,
+          52.72728829501
+        ],
+        "native_grid_m": [
+          422000,
+          5845000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          1194.01,
+          1390.69
+        ],
+        "lonlat": [
+          1.8442721559,
+          52.77220946991
+        ],
+        "native_grid_m": [
+          422000,
+          5850000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          1183.14,
+          602.88
+        ],
+        "lonlat": [
+          1.8430807891,
+          52.81713028389
+        ],
+        "native_grid_m": [
+          422000,
+          5855000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          1843.67,
+          2960.18
+        ],
+        "lonlat": [
+          1.90577975236,
+          52.68292741147
+        ],
+        "native_grid_m": [
+          426000,
+          5840000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          1831.78,
+          2169.1
+        ],
+        "lonlat": [
+          1.90465542025,
+          52.72784985434
+        ],
+        "native_grid_m": [
+          426000,
+          5845000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          1978.02,
+          1380.98
+        ],
+        "lonlat": [
+          1.91834239266,
+          52.77290793168
+        ],
+        "native_grid_m": [
+          427000,
+          5850000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          1967.24,
+          592.93
+        ],
+        "lonlat": [
+          1.91722734261,
+          52.81782987654
+        ],
+        "native_grid_m": [
+          427000,
+          5855000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          2630.29,
+          2950.0
+        ],
+        "lonlat": [
+          1.97970032561,
+          52.6835867493
+        ],
+        "native_grid_m": [
+          431000,
+          5840000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          2618.46,
+          2158.31
+        ],
+        "lonlat": [
+          1.97865191496,
+          52.72851025881
+        ],
+        "native_grid_m": [
+          431000,
+          5845000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          2607.28,
+          1373.12
+        ],
+        "lonlat": [
+          1.97760072005,
+          52.77343341136
+        ],
+        "native_grid_m": [
+          431000,
+          5850000
+        ],
+        "method": "Printed 1 km grid intersection"
+      },
+      {
+        "pixel": [
+          2595.91,
+          585.06
+        ],
+        "lonlat": [
+          1.97654673099,
+          52.81835620705
+        ],
+        "native_grid_m": [
+          431000,
+          5855000
+        ],
+        "method": "Printed 1 km grid intersection"
+      }
+    ],
+    "evidence": "The four printed geographic corner intersections were visually checked. 16 spatially distributed printed 1 km grid intersections constrain the interior. On 224 other printed crossings the 95th-percentile discrepancy improved from 2.94 to 2.02 native pixels."
+  }
+}
