@@ -43,7 +43,7 @@ def build(row, root):
     w, s, e, n = row["bounds"]
     mid = (w + e) / 2
     tm = row["source_crs"]
-    native_geo = CRS.from_proj4("+proj=longlat " + DATUM + " +type=crs")
+    native_geo = CRS.from_user_input(row.get("native_geographic_crs", "+proj=longlat " + DATUM + " +type=crs"))
     to_tm = Transformer.from_crs(native_geo, tm, always_xy=True)
     to_web = Transformer.from_crs(native_geo, 3857, always_xy=True)
     corners = row["corners"]
@@ -78,7 +78,7 @@ def build(row, root):
                 raise ValueError(f"Unsupported source mode {image.mode} on {sheet}")
         run("gdal_translate", "-q", "-of", "GTiff", "-co", "TILED=YES",
             *bands, "-a_srs", tm, *gcp_args, source, georef)
-        run("gdalwarp", "-q", "-of", "VRT", "-tps", "-et", "0", "-r", "bilinear",
+        run("gdalwarp", "-q", "-of", "VRT", "-tps", "-et", row.get("warp_tolerance_px", 0), "-r", "bilinear",
             "-t_srs", "EPSG:3857", "-tr", res, res, "-tap", "-dstalpha",
             "-cutline", cutline, "-crop_to_cutline", "-wo", "CUTLINE_ALL_TOUCHED=TRUE", georef, warped)
         run("gdal_translate", "-q", "-of", "COG", "-b", "1", "-b", "2", "-b", "3", "-mask", "4",

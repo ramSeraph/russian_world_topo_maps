@@ -14,7 +14,8 @@ import build_cogs
 
 
 def geometry(row):
-    return (row['sha256'], row['width'], row['height'], row['source_crs'], row['bounds'], row['footprint'],
+    return (row['sha256'], row['width'], row['height'], row['source_crs'], row.get('native_geographic_crs'),
+            row.get('warp_tolerance_px', 0), row['bounds'], row['footprint'],
             [(p['pixel'],p['lonlat']) for p in [*row['corners'].values(), *row['other_gcps']]])
 
 
