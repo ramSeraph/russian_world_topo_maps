@@ -62,3 +62,27 @@ python3 "$scripts/build_warps.py" "$replay" C48-046
 ```
 
 The November mosaic recipe records the exact retile inputs, rendering and packaging scripts, and public verification results. Its `BUILD.txt` describes the original host layout. [PMTiles recipe](../../new/genshtab-audit/100k-retile-recipe.tar.gz)
+
+## M34-028 and O34-103 Mapstor corrections
+
+These two 1:100,000 scans have cropped edges. M34-028 includes a strip west of its nominal Polish grid cell. O34-103 contains a narrow strip of the Latvian coast. Both warps use the printed 2 km grid and follow the surviving map edges. The 95th-percentile error at withheld grid crossings was 23.1 m for M34-028 (276 crossings) and 20.9 m for O34-103 (57 crossings).
+
+The correction archive contains the source URLs and checksums, measurement scripts, fitted control points, crop outlines and withheld observations. [Download the correction archive](https://github.com/ramSeraph/russian_world_topo_maps/releases/download/100k-gs-georef/100k-M34-028-O34-103-controls.zip)
+
+To rebuild both COGs, extract the archive into an empty work directory on the build host. Run the following there with `repo` set to the repository checkout. The GIF URLs in `assets.json` refer to the original release.
+
+```sh
+mkdir -p published
+for sheet in M34-028 O34-103; do
+    url=$(jq -r --arg name "$sheet.gif" '.[$name].url' assets.json)
+    curl -fL "$url" -o "published/$sheet.gif"
+    expected=$(jq -r '.sha256' "$sheet-controls.json")
+    echo "$expected  published/$sheet.gif" | sha256sum --check
+done
+ln -s "$repo" method
+python3 grid_reads.py
+python3 make_redos.py
+python3 "$repo/100k/archive_other/build_warps.py" stage M34-028 O34-103
+```
+
+For the mosaic update, supply the two former footprints to `topo_map_processor` through `--force-redo-bounds-file` along with the corrected bounds. This also regenerates the affected tiles offshore from O34-103.
