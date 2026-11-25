@@ -1,0 +1,65 @@
+{
+  "scale": "1:50,000",
+  "date": "2026-11-22",
+  "accepted_other_corners": "The user accepted the other corners they inspected in the ambiguity gallery. This records a visual review of those frames.",
+  "confirmed_alternative": {
+    "sheet": "I37-073-2",
+    "corner": "NE",
+    "choice": "B",
+    "source_sha256": "e19ce6955459785e2a8882d689d52d20ba66580bbc34b258e3331cd176739bb0",
+    "source_pixel": [
+      5641.0,
+      328.4
+    ]
+  },
+  "requested_review": {
+    "K31-008-1": {
+      "sha256": "7baf37f8c793476d4ead7a97bc56b23d6db7350247b5beb7311b89f15d4e2281",
+      "corners": [
+        "NE"
+      ]
+    },
+    "M33-077-1": {
+      "sha256": "2c08f064ad0c4c0b6763a3e9c6dec44677f44e8de366d1881e120db5aa42dc6b",
+      "corners": [
+        "NE"
+      ]
+    }
+  },
+  "verified_corrections": {
+    "I37-073-2": {
+      "NE": [
+        5641.0,
+        328.4
+      ],
+      "cog_sha256": "941a3523cefa86aee32f95fea650f98b29137e062c5a96f2fffb4ddd9a5c7f49",
+      "bytes": 5863146,
+      "independent_grid_crossings": 349,
+      "grid_p95_px": 2.2,
+      "native_image_sample_count": 1587
+    },
+    "K31-008-1": {
+      "NE": [
+        5097.54,
+        402.73
+      ],
+      "cog_sha256": "2f00e18a9ba3d258ea66a20ad568f3ac471aa2a13e9e10e612872f86f7a242b9",
+      "bytes": 6613437,
+      "independent_grid_crossings": 283,
+      "grid_p95_px": 2.93,
+      "native_image_sample_count": 1587
+    },
+    "M33-077-1": {
+      "NE": [
+        4505.28,
+        340.39
+      ],
+      "cog_sha256": "fadea957ed56c7c09709b2e7cf7eae0071b77f42659c33032d371f250e3ab45d",
+      "bytes": 6566589,
+      "independent_grid_crossings": 238,
+      "grid_p95_px": 1.56,
+      "native_image_sample_count": 1587
+    }
+  },
+  "status": "reviewed corrections staged"
+}

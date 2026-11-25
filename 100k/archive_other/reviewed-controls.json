@@ -1,0 +1,6118 @@
+{
+  "D38-029": {
+    "sha256": "b81cd95a81855d09e95c2c17204301a4a7b470b8d318d23c649905d141248d8f",
+    "rotation": 0,
+    "evidence": "Printed title and scale bar inspected on opposite margins; the original scan is upright."
+  },
+  "D38-053": {
+    "sha256": "13a8cfb9007824b016ad651f4a20891c7e99b54454db6dd52e55be2eaab3b7ba",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "D38-065": {
+    "sha256": "624872f77a29dcf4a02d03d22a5ed16b7491a8544c4bc3c223738dd4fc87f0c6",
+    "rotation": 0,
+    "evidence": "Printed title and scale bar inspected on opposite margins; the original scan is upright. All four oriented crops were independently checked against the printed corners.",
+    "all_corners_checked": true
+  },
+  "E38-100": {
+    "sha256": "1737e3f422e0f07bb331388724fcb71111fd4770fc7d7963d22b51f31ff5d87d",
+    "rotation": 0,
+    "evidence": "Printed title and scale bar inspected on opposite margins; the original scan is upright."
+  },
+  "F47-042": {
+    "sha256": "74438a1938a1bad05113cf60259e4abb488199003c18ea559c85c3c77d1535ff",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections. The SE control was moved from an interior kilometre-grid line to the labelled graticule crossing.",
+    "pixels": {
+      "SE": [
+        6290.67,
+        4838.91
+      ]
+    }
+  },
+  "G36-039": {
+    "sha256": "fc7d187d03f1ac16056a3e4a2f49a06ac5088a0be4d952ccfff5d346e533607b",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "G36-069": {
+    "sha256": "ed0a5eef46824be4140af69dfdb9f671262b4b18daa0dd5809a21b98ae6cdb1d",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "G36-138": {
+    "sha256": "5cacfa31c7d055d68eb9b6af5337e05c0b5050f9cfcbf85631fd3b623404088e",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "G40-029": {
+    "sha256": "25cedbf2535d29b513ffc4254e306ad28d0d1559423eefe13caa2a8e18beb571",
+    "rotation": 0,
+    "evidence": "Printed title and scale bar inspected on opposite margins; the original scan is upright."
+  },
+  "G46-007": {
+    "sha256": "f25b2a4b44cee42b25714df414aa47c4c9b9efcb4038dc73eb506c54d5b9638e",
+    "rotation": 0,
+    "evidence": "Printed title and scale bar inspected on opposite margins; the original scan is upright."
+  },
+  "G46-008": {
+    "sha256": "f230be2ee403cf856481ac418c9ab724fdb83833c313426e8998db708272a8c2",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "G46-009": {
+    "sha256": "ba11c5c9b7c766b63605f4d3504eabe7dbd2fd893c5896246f2ba0f335be4809",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "G46-012": {
+    "sha256": "18e455a049f18c3d664366af18bffd75816fdd8e3dec7b96f580501508671dff",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "G46-017": {
+    "sha256": "8a620d4af7c7a7b50eab07c7f2fc783dd8c2a0bf5c1be5ad62987acedd36e5f2",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "G46-018": {
+    "sha256": "5f1d68b1be482e5f0e238df65a4f1cfcb56c7e0fd56c2349723da339d3ebc910",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "G46-019": {
+    "sha256": "7fa3d7c2263dc8502998b6a27be67232ef0b06a54489b0f124e3c695d1030284",
+    "rotation": 0,
+    "evidence": "Printed title and scale bar inspected on opposite margins; the original scan is upright. All four oriented crops were independently checked against the printed corners.",
+    "all_corners_checked": true
+  },
+  "G46-020": {
+    "sha256": "7202d17825f2eda87b4269c762dd6ea8a10f63bee94aa82572bcf244282a34d5",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "G46-032": {
+    "sha256": "be4983a45d07b7b728cd408c621b61757bd37d521d1adc6be303a2389bbfa166",
+    "rotation": 180,
+    "evidence": "Printed title and scale bar inspected on opposite margins; the original scan is upside down. All four oriented crops were independently checked against the printed corners.",
+    "all_corners_checked": true
+  },
+  "G46-041": {
+    "sha256": "32f6ec2d66b754425c08d29ec89f619e821d44921d52129d00c24a918940d306",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "G46-042": {
+    "sha256": "f27c3c0edd09d28c8adb6d4a7cdc3f29bf72ec36a7eae7099ac59aa07832692a",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "G46-043": {
+    "sha256": "fb954428db0e9fe4965cf646ca716008a08e8c1b5171e6d1b3d342f04369298f",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "G46-044": {
+    "sha256": "b9bab0ebccef64b5f296b6132fa8c7f8938e9b4b28110ca103f8ad17579223b0",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "G48-144": {
+    "sha256": "2193818559e8aa4ada71a660c342b989c9e837d18f6b5565bfb63c0f622ad20d",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "H36-011": {
+    "sha256": "6f2288044b9fadfdaac27344f3737402c0cebe0126189a1bf5388f12396fbdee",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "H36-016": {
+    "sha256": "c28916185758da13692d91f0f4af2a0fbe6f22fbd61133891f70e45975c083fe",
+    "rotation": 0,
+    "evidence": "Printed title and scale bar inspected on opposite margins; the original scan is upright."
+  },
+  "H36-032": {
+    "sha256": "b371e6ef3f94e3986f1c4c476b72d5bc9f8375d74ec114e862e91e3e3fe65052",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "H36-050": {
+    "sha256": "d1054ec9fcfbb2667a826e7afaf0150294e6e5b74ebc4e784d4c64140133162b",
+    "rotation": 0,
+    "evidence": "Printed title and scale bar inspected on opposite margins; the original scan is upright."
+  },
+  "H36-053": {
+    "sha256": "c37f63669b559ad95df2cd2c669ddf02e15b2dfdc5d39f2de6e8c97207e57d5a",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "H36-078": {
+    "sha256": "c89880d3db9702559c5f7908e8a4226b62f1a8f7083eca2e42c32a18ea18c913",
+    "rotation": 0,
+    "evidence": "Printed title and scale bar inspected on opposite margins; the original scan is upright."
+  },
+  "H36-115": {
+    "sha256": "68cbf156f43c344a3bb973f6a6225d05d8098cec065278b4a8cd27872347104e",
+    "rotation": 0,
+    "evidence": "Printed title and scale bar inspected on opposite margins; the original scan is upright."
+  },
+  "H37-087": {
+    "sha256": "016589e5f632c8c79ace8f34616bb612c3041a303ced177d5c84073859cab344",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "H42-005": {
+    "sha256": "4893ffa8cb79d0653914069531e1e2be56e8a82c6b4b0444ee2bc96bc138d1c7",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "H47-133": {
+    "sha256": "0b7db388fdf15f3323d0aae0d31f1c50c35bdd3b70cfa3c45be4c93f7ef0b4e4",
+    "rotation": 180,
+    "evidence": "Printed title and scale bar inspected on opposite margins; the original scan is upside down."
+  },
+  "I33-006": {
+    "sha256": "affe42ed52ef73bccbdc0f5f507ff89127a466dfa6ac487a2ee13297740acb4c",
+    "pixels": {
+      "NW": [
+        95.2,
+        348.52
+      ],
+      "NE": [
+        5445.84,
+        345.74
+      ],
+      "SW": [
+        92.56,
+        4723.36
+      ],
+      "SE": [
+        5469.6,
+        4691.07
+      ]
+    },
+    "all_corners_checked": true,
+    "method": "Printed graticule",
+    "evidence": "The labelled latitude and longitude were read at the native printed intersections. The local lines were fitted from both sides of each corrected point."
+  },
+  "I42-101": {
+    "sha256": "171c5ef66e41c70450f54062e9529e0a303e742a048c08cd4ce86ece89ac9583",
+    "rotation": 0,
+    "evidence": "Printed title and scale bar inspected on opposite margins; the original scan is upright."
+  },
+  "I42-115": {
+    "sha256": "f1a5c8843530c24c1ab1c031a72131f9f35362573fbe23f59af0fd36f6fe4053",
+    "rotation": 0,
+    "evidence": "Printed title and scale bar inspected on opposite margins; the original scan is upright."
+  },
+  "I42-124": {
+    "sha256": "6573234d8a7b6821f8cc859a27f0475e62da04e1578ce39747fbcc5302c1eff0",
+    "rotation": 0,
+    "evidence": "Printed title and scale bar inspected on opposite margins; the original scan is upright. All four oriented crops were independently checked against the printed corners.",
+    "all_corners_checked": true
+  },
+  "I42-125": {
+    "sha256": "dfce0ef872f89abc2546ef1bf1957bd5044c2295155f17655ce8ed063f0743e5",
+    "rotation": 0,
+    "evidence": "Printed title and scale bar inspected on opposite margins; the original scan is upright. All four oriented crops were independently checked against the printed corners.",
+    "all_corners_checked": true
+  },
+  "I42-127": {
+    "sha256": "b492752fbd97d3f6e9f378255198639a2d8a67184d9969e4cd597be1916d5b7f",
+    "rotation": 0,
+    "evidence": "Printed title and scale bar inspected on opposite margins; the original scan is upright."
+  },
+  "I42-139": {
+    "sha256": "412d4833061e8d413b3e5daba1d544b0613a12405cd2092c16b7f2cf56cbfdea",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "J29-010": {
+    "sha256": "2512c5bceedb44c1a59c936f2891fe79c527d47815f36a7b17b55f88cf3feba8",
+    "rotation": 0,
+    "evidence": "Printed title and scale bar inspected on opposite margins; the original scan is upright."
+  },
+  "J29-019": {
+    "sha256": "3d5121bd98cd3737e9ca9f1d0497f2ae8ac7e3bd2683b8757a8d1efd5e9e0066",
+    "rotation": 0,
+    "evidence": "Printed title and scale bar inspected on opposite margins; the original scan is upright."
+  },
+  "J29-091": {
+    "sha256": "f44c3f74649d4eedc5c2e17701d74430d64d638df9fdec79a6265f9e5df81d4e",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "J29-105": {
+    "sha256": "db2acbdcdd6e3738dc5c7b36245b4b7a191c3a5903fe0629991f209fc1f80d99",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "J29-132": {
+    "sha256": "0fb7180c52f37500decca3a6548de8a672e3c3641a6eab3914626c06874ad143",
+    "all_corners_checked": true,
+    "evidence": "All four proposed native pixels were checked against the labelled printed latitude and longitude intersections; the shape residual reflects the scan geometry."
+  },
+  "J32-018": {
+    "sha256": "e62cbd37fd1eb5258b38bfc3bb0f8f2760b89f7b391bf3fa2f20a2781dab6203",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "J32-020": {
+    "sha256": "711dd679c2a1888f4fc359875e6e43f40ace0a59d9b2975b51f25852a743619a",
+    "rotation": 0,
+    "evidence": "Printed title and scale bar inspected on opposite margins; the original scan is upright."
+  },
+  "J32-029": {
+    "sha256": "c6b6959ce886846de6f5f02307ddab0e4a7f4ec483a39aa0dfb54d18367fead1",
+    "rotation": 0,
+    "evidence": "Printed title and scale bar inspected on opposite margins; the original scan is upright."
+  },
+  "J32-031": {
+    "sha256": "89a75760ee339f66cde17c275bc97fca3388bd779e7cc400a5817b77ce3bea28",
+    "rotation": 0,
+    "evidence": "Printed title and scale bar inspected on opposite margins; the original scan is upright."
+  },
+  "J32-043": {
+    "sha256": "aaa57fee8b9e1d243259e17466e11151825c9bf550d342ecd51c61ad89084442",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "J33-007": {
+    "sha256": "1885b8721c9b7246a573098bf8267160221bcf065b74a9ccd8c2f2f2241a3200",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "J33-008": {
+    "sha256": "9b2c93947784e905d9f3defc7b6a67769f1bfb6dffd919b855f46c402afb0685",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "J33-020": {
+    "sha256": "cdc8dc0d2f7d75ca8dffcc7185c2df0d15ecdb02730ab655a1cbbe9e6a3c5e9a",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "J33-022": {
+    "sha256": "acb05f8dd1bad7858d6879a05d7a830a4c9077e6ce5b522b37f104da047c1446",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "J33-035": {
+    "sha256": "e914b6b066d7872bddf32782c6a7f48e779352561a3c75f58eef05b1bfb49c3f",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "J33-039": {
+    "sha256": "6107684d25ef6c6d688a4cf0542428beefdc2119811f1a88d4a3f9eb009a3ef4",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "J33-043": {
+    "sha256": "35d07bc3a5bb75d2913e818ac499a5e97eb4bbeed3601f4a7841c55be5eb5f85",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "J33-044": {
+    "sha256": "9fdf3a886c8effa822d764f0a790426dc3e99921bf477e51bd24b358b24b1872",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "J33-045": {
+    "sha256": "484d6473555a14b06ec8f6c97982c09afd9ef19f33d5a21610ee15275f28d3e9",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "J33-046": {
+    "sha256": "db9cd4bb31cbd28e434b3d9b672d11b892bb0fed013ed809a9055fcf91909254",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "J33-054": {
+    "sha256": "ec602dfb5294982f47fea22b2a34ab0b326560a130b2f157bb05c1090e6dff94",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "J33-062": {
+    "sha256": "c30202ec8adfe8ac66546a37ab7a205c0511964870e104246eee453dc7b7a5e8",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "J33-065": {
+    "sha256": "8a02b780c00c7e02e706fd0e001af288da2c1c9c8cf2814fd95483a8f1358ab3",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "J33-066": {
+    "sha256": "027abd45c57300a15f0c6e69f9f1d9595a1b9175b95ce7803455cc30d1241eab",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "J33-067": {
+    "sha256": "79ad6ac0c0b7bdb113be20142f83a44fbb6e4b7f65aee64e995ff63b20710240",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "J33-068": {
+    "sha256": "311479fd6c070bf50ee5667cb567a0ea712f9ea7abf5ddd62793a980d594219a",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "J33-069": {
+    "sha256": "e8860df53995d6f1aa25e2f9874bbacfb5f913dd3e20950ab907a1fc68023622",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "J33-079": {
+    "sha256": "614c80f08a2c633115d898fe52e687940fe25eaf6f28d1488c2edbd699276c4b",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "J33-080": {
+    "sha256": "97d145b100e7d38dcc96af48f631addda53ff0277aec142e9d45a55fff08ff7e",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "J33-081": {
+    "sha256": "6db7b0147b0cdda955a583a4fddf1e230c9eb4da9da2a14455f7fe5cf5a871eb",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "J33-087": {
+    "sha256": "40e79690ed6c9f50872f2c44ec636664982bfd74d10c75fc555be9b5bcd2416a",
+    "rotation": 0,
+    "evidence": "Printed title and scale bar inspected on opposite margins; the original scan is upright."
+  },
+  "J33-091": {
+    "sha256": "d86932576a4341eb34b07270dabff16309663d8fa2077cfc62eabac5f05ca1f0",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "J33-103": {
+    "sha256": "b52d04af94410fb6a69c205defb637d22589a47c0ecf0979afd7794944e99831",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "J33-109": {
+    "sha256": "ea0a86527aca350e4d71b025c45842b88eaffbc92db1e5af1a17a43714b06f35",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections. The SW control was moved from an interior kilometre-grid line to the labelled graticule crossing.",
+    "pixels": {
+      "SW": [
+        315.48,
+        4657.34
+      ]
+    }
+  },
+  "J33-113": {
+    "sha256": "e19ec6863702fbb3d8f7a2b96ec18cce5c77d06f409366c5a4a86578f6667f53",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "J34-001": {
+    "sha256": "0a7fc6ca1d9f8403090600a8f729b62b853c4168eaec4df261285fb3f4334a88",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "K32-069": {
+    "sha256": "9b5d45f397f6cb7227332950ec3aeb1fa86101aaeee6c4f8c7e64fcd45f880c0",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "K32-070": {
+    "sha256": "2859af3630460d2a96241366a97766a9e1c9864eb896285d3219e139e47ee25d",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "K33-001": {
+    "sha256": "f7fc64dd6907d9245f4792ef68a345c8e431621d40e7d342736fd0af4a2c4dc0",
+    "rotation": 0,
+    "evidence": "Printed title and scale bar inspected on opposite margins; the original scan is upright. All four oriented crops were independently checked against the printed corners.",
+    "all_corners_checked": true
+  },
+  "K33-002": {
+    "sha256": "1dc0eeccd782cd70e738459e07160e1ab388dfc5ce68c192528adf0b9ea997f0",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "K33-003": {
+    "sha256": "c04350883554d480556a82132b9184e9b0693911c7619b312195857b756d46ab",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "K33-013": {
+    "sha256": "181c755d49f52fab7dd41ee661919c9fb9e268a425b33388a3ee0077ff4a797e",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "K33-027": {
+    "sha256": "ccf7308e60730c1642345773b606eee2e9b0c5bbcfeac416ab3adf618546d078",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "K33-040": {
+    "sha256": "ee5ecc05f6b1e6da655e146067726504b127bb2bece65dad65b9faee8b674a09",
+    "rotation": 0,
+    "evidence": "Printed title and scale bar inspected on opposite margins; the original scan is upright. All four oriented crops were independently checked against the printed corners.",
+    "all_corners_checked": true
+  },
+  "K33-049": {
+    "sha256": "63e5453461d4c56ec86859f9ec7224c81c602589805af1e9b8779fa8c28fb4fd",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "K33-051": {
+    "sha256": "f02e4d5802ea5c560c9b1924b58817bf1d7c1ef950599f5f37597162da46fb23",
+    "rotation": 0,
+    "evidence": "Printed title and scale bar inspected on opposite margins; the original scan is upright."
+  },
+  "K33-053": {
+    "sha256": "f26b846809db0b037ab420497c7a92b3ca0f81597783b4d65275f9a66647b1e5",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "K33-063": {
+    "sha256": "677d90b687994931218431f34bf7d90894f0a1ef8f3fc6a533e114cbf3b45253",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "K33-064": {
+    "sha256": "7b8bca9761b534e737999d134a78300c7f06450cabde6ac26ea38f618398b8c0",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "K33-076": {
+    "sha256": "22b5ac22698838521ca55e9994a88bf4598cbae631d6b38321f0c0165d295ea6",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "K33-079": {
+    "sha256": "2b5d567c1681f693d0e7fa3b96c5042d8b2c4995797f41e15c106d48ee63e861",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "K33-089": {
+    "sha256": "6ac1c02c9cb520882f5fa7fc5019105505d8168dd2c2f172c8e775195ba5697b",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "K33-090": {
+    "sha256": "777158847df26cd5777522167c7c03cdbfd2004a3b5c6a058d47ab633cc67315",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "K33-091": {
+    "sha256": "c9c5ca094b889175020605ac6c04dcf8937700e43284a1e1d19dddb569a076f3",
+    "rotation": 0,
+    "evidence": "Printed title and scale bar inspected on opposite margins; the original scan is upright."
+  },
+  "K33-093": {
+    "sha256": "74a6434d9b6a07551c4f78c18b04565c9ff16b589e210a6207a304a375c230b2",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "K33-100": {
+    "sha256": "5eee3b6f8ba32c2b7555518bd5b5382e43a169401f4800826683201fc148eada",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "K33-101": {
+    "sha256": "4961dafd02c62252657485db079a338ec8e26fc5aafe0c91fffee0e4211eab63",
+    "rotation": 0,
+    "evidence": "Printed title and scale bar inspected on opposite margins; the original scan is upright. All four oriented crops were independently checked against the printed corners.",
+    "all_corners_checked": true
+  },
+  "K33-102": {
+    "sha256": "ad68853e59df1ee31cc2418f9d197d84a2bf053533773056829d96e6f6c9c6f0",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "K33-103": {
+    "sha256": "5243aa687e9a1d5c904c7a167424cb79942ce5cd106663f0c9283bfc25f8b762",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "K33-113": {
+    "sha256": "450a61387dc45fbb170077c976bc759ee9cf2b22f902bd9c732238087a47194c",
+    "rotation": 0,
+    "evidence": "Printed title and scale bar inspected on opposite margins; the original scan is upright."
+  },
+  "K33-119": {
+    "sha256": "70d8985051c5fb059cd45a2d0842fbe3a142d3394f59be6eb02902862fdb78a1",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "K33-120": {
+    "sha256": "dbda38698e3884b7851ab3ed4023816c4d0daec05dd88d9b5bcd7d1a9502bc63",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "K33-126": {
+    "sha256": "12f70f524578f685c8f4a76ed51ffe91428d59331560116400b8149f2caf9d1f",
+    "rotation": 0,
+    "evidence": "Printed title and scale bar inspected on opposite margins; the original scan is upright."
+  },
+  "K33-127": {
+    "sha256": "3034dc4523f366eecb77607aabae55ea086afa3b1abfeb7a80039e35df8400c2",
+    "rotation": 0,
+    "evidence": "Printed title and scale bar inspected on opposite margins; the original scan is upright."
+  },
+  "K33-132": {
+    "sha256": "19a2d546b77196f66f5a57f7e3a061ba1e05cc8b14967ede27bcb2298019f9fd",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "K33-143": {
+    "sha256": "8b8707a0e9be4e49e3116d2e3a7464a672b2a269e14126a9cd77fad85070605f",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "K40-100": {
+    "sha256": "794a4b77dd629e66dd28cf68be6a4499e9e3f157c0c377f0f5429a844ce3047e",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "K41-003": {
+    "sha256": "9328118bd4fe7196bb6d835c7377a4cba7e16e2cf6e7234a33f9be3021bb0b4e",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "K41-011": {
+    "sha256": "c805488f0927057a4000b5dba4f22fd6c9564230fd2858144901627d4cf65e33",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "K41-020": {
+    "sha256": "c966664ab5d45d8182741b0d087ea5b20dc288c787aab12525e62063b88bc429",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "K42-037": {
+    "sha256": "bc83599ebde2a962999c6085458ee909533184428a6e6411040df827506954c4",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "K42-049": {
+    "sha256": "6db04396f96c0598835817a67ce30a37e1ed70acf9410784f966893327577d42",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "K48-005": {
+    "sha256": "7ba641ef3e6905bd1e46a283a8701d322d1737af439f5e51334508a961704f44",
+    "rotation": 0,
+    "evidence": "Printed title and scale bar inspected on opposite margins; the original scan is upright. All four oriented crops were independently checked against the printed corners.",
+    "all_corners_checked": true
+  },
+  "K48-108": {
+    "sha256": "a57e25421321382035723b9020f1ec516defe5549d363f2d05187f166645dec7",
+    "rotation": 0,
+    "evidence": "Printed title and scale bar inspected on opposite margins; the original scan is upright."
+  },
+  "K51-096": {
+    "sha256": "4673b8d5bc3ec9b77e8c582f04ce9d7f664b5209dd242d689e9b427e40f69b00",
+    "rotation": 0,
+    "evidence": "Printed title and scale bar inspected on opposite margins; the original scan is upright. All four oriented crops were independently checked against the printed corners.",
+    "all_corners_checked": true
+  },
+  "K51-108": {
+    "sha256": "b83c1b0d9fb0d87f306aa7d316642a168f9f21e84f36aa61a9b4e0310bd952a1",
+    "rotation": 0,
+    "evidence": "Printed title and scale bar inspected on opposite margins; the original scan is upright."
+  },
+  "K51-117": {
+    "sha256": "9d1325f1911430ebf85a8e4aa4f6586c302d2558764de5c4d6c3e38675b0bcc3",
+    "rotation": 0,
+    "evidence": "Printed title and scale bar inspected on opposite margins; the original scan is upright. All four oriented crops were independently checked against the printed corners.",
+    "all_corners_checked": true
+  },
+  "K51-129": {
+    "sha256": "f0af01a72653a78962e9da819f71e4882331ab298602a6169e71c3406de5e886",
+    "rotation": 0,
+    "evidence": "Printed title and scale bar inspected on opposite margins; the original scan is upright."
+  },
+  "K51-131": {
+    "sha256": "9fe57e21084b0e64742df5e7e6fba73033e0ea44c6277dcc09055c3f4029f885",
+    "pixels": {
+      "NW": [
+        90.99,
+        337.8
+      ],
+      "NE": [
+        5080.92,
+        336.03
+      ],
+      "SW": [
+        68.05,
+        4715.21
+      ],
+      "SE": [
+        5089.85,
+        4713.2
+      ]
+    },
+    "all_corners_checked": true,
+    "method": "Printed graticule",
+    "evidence": "The labelled latitude and longitude were read at the native printed intersections. The local lines were fitted from both sides of each corrected point."
+  },
+  "L30-044": {
+    "sha256": "8f449d3f79fb49af9aa217ab833859a8bf0e406a53b8e0a641a662c69de79fad",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "L31-069": {
+    "sha256": "34f26c8b7878a9ff3e5588107774a17b67ce22746e007fdb6a2be5cd2a61e7dd",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "L32-017": {
+    "sha256": "0550525275a8ac198798f8e66e7ce7149c207802d0b673b6649364236fd9c04f",
+    "rotation": 0,
+    "evidence": "Printed title and scale bar inspected on opposite margins; the original scan is upright."
+  },
+  "L32-021": {
+    "sha256": "9b04f711342401374157b4a5756ff39e3b9dbdd67c48c4ba8ab656b43656fda8",
+    "rotation": 0,
+    "evidence": "Printed title and scale bar inspected on opposite margins; the original scan is upright."
+  },
+  "L32-023": {
+    "sha256": "a26cf29a2362812645e8e54c1e34f471fb36fbcbc526937036fcf89d3e5ae173",
+    "rotation": 0,
+    "evidence": "Printed title and scale bar inspected on opposite margins; the original scan is upright."
+  },
+  "L32-055": {
+    "sha256": "d3200dffb64754d56666d4926960abacc914cedb3185c5dd603b40de1190b656",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "L32-057": {
+    "sha256": "f6eec9cb2777ac4e428e83c42de552a2c459a8cfd10138d038d5a719da25e489",
+    "rotation": 0,
+    "evidence": "Printed title and scale bar inspected on opposite margins; the original scan is upright."
+  },
+  "L32-060": {
+    "sha256": "caaeeb7689effbc0d8574925e187e50648297ecf89451fa50ec8eae843a46aae",
+    "rotation": 0,
+    "evidence": "Printed title and scale bar inspected on opposite margins; the original scan is upright."
+  },
+  "L32-069": {
+    "sha256": "7bf1f2e54cc341959dfcd8ceb2380d2fe666a1d126d5383d4e176a1b4db3616b",
+    "rotation": 0,
+    "evidence": "Printed title and scale bar inspected on opposite margins; the original scan is upright."
+  },
+  "L32-071": {
+    "sha256": "1681a55c4ef5a02e22c699eaf9a78153a222a84280c3bcfecf2caa55307123c9",
+    "rotation": 0,
+    "evidence": "Printed title and scale bar inspected on opposite margins; the original scan is upright."
+  },
+  "L32-078": {
+    "sha256": "a250eb79efaffcae557d27d10e8a19593dc58b1596350207d7e57d688ec3d737",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "L32-079": {
+    "sha256": "2861332ee09ae7d59a729e77037024c7cc2a35f03aef34f87cb485381cfa0bdb",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "L32-081": {
+    "sha256": "8f4f0cbcc0f702b83bc3803ca6e221e032265289ff5fc170d619ab9a793fc6c1",
+    "rotation": 0,
+    "evidence": "Printed title and scale bar inspected on opposite margins; the original scan is upright."
+  },
+  "L32-091": {
+    "sha256": "d5a53d1299a58d2750dfa4a641bf95d51451e3e7563cc15aa255ef268d58845a",
+    "rotation": 0,
+    "evidence": "Printed title and scale bar inspected on opposite margins; the original scan is upright."
+  },
+  "L32-095": {
+    "sha256": "b719c2c5416e33608eadadd1edb8c37d9c4d0da21ba867cefeccf530fb0f874c",
+    "rotation": 0,
+    "evidence": "Printed title and scale bar inspected on opposite margins; the original scan is upright."
+  },
+  "L32-103": {
+    "sha256": "151b433a15e7dbb1ce3816422266bac01369ed7d4dfd6e104196866bd7244ec6",
+    "rotation": 0,
+    "evidence": "Printed title and scale bar inspected on opposite margins; the original scan is upright."
+  },
+  "L32-108": {
+    "sha256": "f6c63c76418fb927b08ebe33d53359f71da2ddc4031fbbcc2fd870c6959bba6f",
+    "rotation": 0,
+    "evidence": "Printed title and scale bar inspected on opposite margins; the original scan is upright."
+  },
+  "L32-126": {
+    "sha256": "f08865ead9a096122f656321d78effbc4f34be713688bdea3b1b84a0f1eba4bd",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "L32-127": {
+    "sha256": "3da3f4e137e7ae24d331caa9fb6045adba0c0308e6f18763538c719776a1f926",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "L32-130": {
+    "sha256": "36c054cd0671fd7248c86d3906810b08173e12cb4107515b6f868be78fef7913",
+    "rotation": 0,
+    "evidence": "Printed title and scale bar inspected on opposite margins; the original scan is upright."
+  },
+  "L32-132": {
+    "sha256": "9b0d01af25b2cd50a72bbde69650e3839c874be1ccaeb1c75bc0db116c8b22d5",
+    "rotation": 0,
+    "evidence": "Printed title and scale bar inspected on opposite margins; the original scan is upright."
+  },
+  "L32-137": {
+    "sha256": "4c584cb86517a324581fe9a3121b13e7426107bf011009ade80897333d4b4840",
+    "rotation": 0,
+    "evidence": "Printed title and scale bar inspected on opposite margins; the original scan is upright."
+  },
+  "L32-143": {
+    "sha256": "7448ef83979b472656dbbf174569fbb80e65b9c320c5858a311db25ce73c022e",
+    "rotation": 0,
+    "evidence": "Printed title and scale bar inspected on opposite margins; the original scan is upright. All four oriented crops were independently checked against the printed corners.",
+    "all_corners_checked": true
+  },
+  "L33-086": {
+    "sha256": "e409a8865dd55b4505004bdbc8c311377d29218ea53747721386f41634721a70",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "L33-087": {
+    "sha256": "1afac4cf7266883873a1cd252eb1436c63b28ad235a922ee1a1cd46bef2c5589",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "L33-134": {
+    "sha256": "9aff9930a58871c74d9818b192ded026899fafddf28b30a0c97a2681dc6ffce8",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "L41-078": {
+    "sha256": "4288267ad047c9bd5fa88d443aa528c357d0c34dd407470320a11286a7b1854d",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "M30-008": {
+    "sha256": "ebaef0155e39769d50db0cb610fd6fddb418883dc95d49daa0fde2ad644ebeff",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "M30-009": {
+    "sha256": "92d7fc3d24609db014d0a648a57a0cc25291b158823ecdf1a48318d7920d6f50",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "M30-022": {
+    "sha256": "396fc2d6ff2e5e83cf825f5662d351d8376ef817a8e2f9f1ddf12cee1e8e38bc",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "M30-035": {
+    "sha256": "c0cc765623c71cce93b7b32c276a125cc0c54239e504743433a4fd487333cf9f",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "M30-042": {
+    "sha256": "c5712d4ab652fe9c6974961cd4f4542381ad83ce81e00b6ccdacbe68aeca0332",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "M30-043": {
+    "sha256": "e7843a8e6bb382260f10433515a5dbc151bb428facf9036bd93a485cc2eab4e0",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "M30-092": {
+    "sha256": "159d542582b09b08d9dbb95860edb773f683b3a696f379f86c41280a8f53443e",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "M31-002": {
+    "sha256": "b70eda8f90d7cf8ce1d3f98bf585eb583fc76cbe2ee01fb142fecf19a99c96fb",
+    "pixels": {
+      "NW": [
+        300.16,
+        307.09
+      ]
+    },
+    "all_corners_checked": true,
+    "method": "Printed graticule",
+    "evidence": "The labelled latitude and longitude were read at the native printed intersections. The local lines were fitted from both sides of each corrected point."
+  },
+  "M31-090": {
+    "sha256": "0633c2f4095218115e7e89764b7a62b51a24c040ff0372d69486f0f490056742",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "M31-091": {
+    "sha256": "033e7e864b3a655cefcf1a9b40214acb8366c991f6fca66c0f339ad09af7a6a8",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "M32-074": {
+    "sha256": "09ffd52405565ccce6ade7edc094a6ccbbb2df8d6c2b9362fb9d71244ed5ca52",
+    "all_corners_checked": true,
+    "evidence": "All four proposed native pixels were checked against the labelled printed latitude and longitude intersections; the shape residual reflects the scan geometry."
+  },
+  "M32-115": {
+    "sha256": "639080b8e2c266afc6da36320ec7d578c8f1c371062f087cf84276c8c2344724",
+    "rotation": 0,
+    "evidence": "Printed title and scale bar inspected on opposite margins; the original scan is upright."
+  },
+  "M33-123": {
+    "sha256": "13dc353419107a49b817f84e071b06d69360187bebe39f5a2f517180342ededf",
+    "rotation": 0,
+    "evidence": "Printed title and scale bar inspected on opposite margins; the original scan is upright."
+  },
+  "M33-133": {
+    "sha256": "031a322a2a1db7dfb1a1a3c3cb5e416a3766bf08bfbdf858dc26f3ee4b83ef32",
+    "rotation": 0,
+    "evidence": "Printed title and scale bar inspected on opposite margins; the original scan is upright."
+  },
+  "M42-018": {
+    "sha256": "b89d32a0509a6b116c0c946b502134854e630391405c535e86ae7932bb3bf06c",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "N30-020": {
+    "sha256": "6ca7c115df5d67f8b40c2d5ac7f4c193d6c2829d67245234ffa932d9c9ccde53",
+    "pixels": {
+      "NE": [
+        3039.87,
+        286.85
+      ]
+    },
+    "all_corners_checked": true,
+    "evidence": "All four printed corners were inspected. The northeast point was moved to the horizontal rule between the printed latitude degrees and minutes."
+  },
+  "N30-034": {
+    "sha256": "5d7c52b6982dd5b2ff2d6b880d45a3ddceb3aa0888c81353b20004bb6a88a4e1",
+    "pixels": {
+      "NE": [
+        2855.94,
+        331.36
+      ]
+    },
+    "all_corners_checked": true,
+    "evidence": "All four printed corners were inspected. The northeast point was moved to the horizontal rule between the printed latitude degrees and minutes."
+  },
+  "N30-039": {
+    "sha256": "b83644dfdc81c9e647d1d2897710b321b5f6484cb0c19353b6ee5e98adc05bd3",
+    "pixels": {
+      "NE": [
+        2964.93,
+        317.38
+      ]
+    },
+    "all_corners_checked": true,
+    "evidence": "All four printed corners were inspected. The northeast point was moved to the horizontal rule between the printed latitude degrees and minutes."
+  },
+  "N30-055": {
+    "sha256": "9cace3df84ed2cdb9932525214e878f8c128c060200f8941f88ab9aac2f12d11",
+    "pixels": {
+      "NE": [
+        2932.12,
+        251.3
+      ]
+    },
+    "all_corners_checked": true,
+    "evidence": "All four printed corners were inspected. The northeast point was moved to the horizontal rule between the printed latitude degrees and minutes."
+  },
+  "N30-081": {
+    "sha256": "8718f3d92e141410a55c7e4b92a449dc0a72f8e2945c9688d874477454799bcb",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "N30-140": {
+    "sha256": "b3c2d8ef25d086686f8e93e8cf37840bd00387c9cd9c6ebff5897a2c56ec2696",
+    "all_corners_checked": true,
+    "evidence": "All four proposed intersections were checked against the degree ticks printed on the original scan."
+  },
+  "N31-109": {
+    "sha256": "8db9fc9287ceeea6ff94272556bf2c5af665ba50cfcd23fa2d6b0bb542aadf7d",
+    "all_corners_checked": true,
+    "evidence": "All four proposed intersections were checked against the degree ticks printed on the original scan."
+  },
+  "N31-136": {
+    "sha256": "19b984e1eaba3bc54f8a9e15d13031d0a6fed3f47c4aad143733441805b1dfbf",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "N32-101": {
+    "sha256": "5de0d1941b6956519266777c2c00f9c3964d1d786956d93c54301b17e906fd32",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "N32-104": {
+    "sha256": "fced531558d227f3e10cb104626df75179b1604b0e149c6998f5f0f7efcbf610",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "N33-081": {
+    "sha256": "0049cf6fcf9401da55c7dc5edd87ed1bc35a7fde95f9364739580b72611a0e3a",
+    "pixels": {
+      "NE": [
+        2022.34,
+        84.82
+      ],
+      "SE": [
+        2021.39,
+        2271.61
+      ]
+    },
+    "seam_easting_references": {
+      "NE": {
+        "grid_x": [
+          1884.09,
+          2001.16
+        ],
+        "easting_km": [
+          596,
+          598
+        ],
+        "target_easting_km": 598.36183
+      },
+      "SE": {
+        "grid_x": [
+          1953.65,
+          2071.87
+        ],
+        "easting_km": [
+          598,
+          600
+        ],
+        "target_easting_km": 599.14607
+      }
+    },
+    "other_gcps": [],
+    "method": "Printed graticule and kilometre grid",
+    "all_corners_checked": true,
+    "evidence": "This scan overlaps the adjoining half of the printed map. On each printed north/south parallel the nominal seam longitude was located by interpolating between two labelled Gauss–Krüger easting lines. The opposite corners retain the calibrated outer frame. The individual kilometre-line readings are retained with this correction."
+  },
+  "N33-082": {
+    "sha256": "f0647659ceea4f8f65896bc6dd53943372d5f922c5590836c436d89499326dc3",
+    "pixels": {
+      "NW": [
+        204.37,
+        84.82
+      ],
+      "SW": [
+        203.43,
+        2271.65
+      ]
+    },
+    "seam_easting_references": {
+      "NW": {
+        "grid_x": [
+          66.01,
+          183.17
+        ],
+        "easting_km": [
+          596,
+          598
+        ],
+        "target_easting_km": 598.36183
+      },
+      "SW": {
+        "grid_x": [
+          135.83,
+          253.8
+        ],
+        "easting_km": [
+          598,
+          600
+        ],
+        "target_easting_km": 599.14607
+      }
+    },
+    "other_gcps": [],
+    "method": "Printed graticule and kilometre grid",
+    "all_corners_checked": true,
+    "evidence": "This scan overlaps the adjoining half of the printed map. On each printed north/south parallel the nominal seam longitude was located by interpolating between two labelled Gauss–Krüger easting lines. The opposite corners retain the calibrated outer frame. The individual kilometre-line readings are retained with this correction."
+  },
+  "N33-121": {
+    "sha256": "7fe6b653683d3ca12200a2d33f8c97a0d2c0c02af99145fc0ed0ccefc03ff56e",
+    "rotation": 0,
+    "evidence": "Printed title and scale bar inspected on opposite margins; the original scan is upright."
+  },
+  "N33-137": {
+    "sha256": "aacbafe3046610ffec9ca84ea255d5feefb08c3c4dbeb1cf4a106042c52c571c",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "N34-008": {
+    "sha256": "5f00ab0c1a8817a9c6b36ce7f3eaafc851fbc57189370ac7cdd19eeff60f28ce",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "N34-037": {
+    "sha256": "92e18c8b4472cb61b1025587b8999efa68a4b53e102ba1815773f2e6e1629818",
+    "pixels": {
+      "NE": [
+        2096.44,
+        88.68
+      ],
+      "SE": [
+        2095.88,
+        2435.19
+      ]
+    },
+    "seam_easting_references": {
+      "NE": {
+        "grid_x": [
+          1966.32,
+          2094.56
+        ],
+        "easting_km": [
+          338,
+          340
+        ],
+        "target_easting_km": 340.02936
+      },
+      "SE": {
+        "grid_x": [
+          2051.56,
+          2177.23
+        ],
+        "easting_km": [
+          338,
+          340
+        ],
+        "target_easting_km": 338.70535
+      }
+    },
+    "other_gcps": [],
+    "method": "Printed graticule and kilometre grid",
+    "all_corners_checked": true,
+    "evidence": "This scan overlaps the adjoining half of the printed map. On each printed north/south parallel the nominal seam longitude was located by interpolating between two labelled Gauss–Krüger easting lines. The opposite corners retain the calibrated outer frame. The individual kilometre-line readings are retained with this correction."
+  },
+  "N34-038": {
+    "sha256": "5f2e6a79faf972b11715c80d35759f498c9313b035ed571052a6eaf8f1d7da92",
+    "pixels": {
+      "NW": [
+        206.42,
+        88.6
+      ],
+      "SW": [
+        205.88,
+        2435.03
+      ]
+    },
+    "seam_easting_references": {
+      "NW": {
+        "grid_x": [
+          76.3,
+          204.54
+        ],
+        "easting_km": [
+          338,
+          340
+        ],
+        "target_easting_km": 340.02936
+      },
+      "SW": {
+        "grid_x": [
+          161.58,
+          287.19
+        ],
+        "easting_km": [
+          338,
+          340
+        ],
+        "target_easting_km": 338.70535
+      }
+    },
+    "other_gcps": [],
+    "method": "Printed graticule and kilometre grid",
+    "all_corners_checked": true,
+    "evidence": "This scan overlaps the adjoining half of the printed map. On each printed north/south parallel the nominal seam longitude was located by interpolating between two labelled Gauss–Krüger easting lines. The opposite corners retain the calibrated outer frame. The individual kilometre-line readings are retained with this correction."
+  },
+  "N34-049": {
+    "sha256": "07a886bde28bae4517991b4da2afd03091d24b327b7ca2f3554c96873574a887",
+    "pixels": {
+      "NE": [
+        1979.29,
+        69.69
+      ],
+      "SE": [
+        1974.76,
+        2254.57
+      ]
+    },
+    "seam_easting_references": {
+      "NE": {
+        "grid_x": [
+          1819.31,
+          1937.58
+        ],
+        "easting_km": [
+          336,
+          338
+        ],
+        "target_easting_km": 338.70535
+      },
+      "SE": {
+        "grid_x": [
+          1893.24,
+          2010.8
+        ],
+        "easting_km": [
+          336,
+          338
+        ],
+        "target_easting_km": 337.38684
+      }
+    },
+    "other_gcps": [],
+    "method": "Printed graticule and kilometre grid",
+    "all_corners_checked": true,
+    "evidence": "This scan overlaps the adjoining half of the printed map. On each printed north/south parallel the nominal seam longitude was located by interpolating between two labelled Gauss–Krüger easting lines. The opposite corners retain the calibrated outer frame. The individual kilometre-line readings are retained with this correction."
+  },
+  "N34-050": {
+    "sha256": "75f5c8c1805ecb72780a9fd4d4e69f22444abe16a0d0779d64647be83e018f98",
+    "pixels": {
+      "NW": [
+        201.75,
+        69.68
+      ],
+      "SW": [
+        197.28,
+        2255.16
+      ]
+    },
+    "seam_easting_references": {
+      "NW": {
+        "grid_x": [
+          41.24,
+          159.9
+        ],
+        "easting_km": [
+          336,
+          338
+        ],
+        "target_easting_km": 338.70535
+      },
+      "SW": {
+        "grid_x": [
+          115.4,
+          233.48
+        ],
+        "easting_km": [
+          336,
+          338
+        ],
+        "target_easting_km": 337.38684
+      }
+    },
+    "other_gcps": [],
+    "method": "Printed graticule and kilometre grid",
+    "all_corners_checked": true,
+    "evidence": "This scan overlaps the adjoining half of the printed map. On each printed north/south parallel the nominal seam longitude was located by interpolating between two labelled Gauss–Krüger easting lines. The opposite corners retain the calibrated outer frame. The individual kilometre-line readings are retained with this correction."
+  },
+  "N34-069": {
+    "sha256": "b854cabe9be9e47b7974f4b62423f41c37d18184ba81e80c2f54b367895e6274",
+    "pixels": {
+      "NE": [
+        2595.71,
+        90.7
+      ],
+      "SE": [
+        2594.76,
+        3001.58
+      ]
+    },
+    "seam_easting_references": {
+      "NE": {
+        "grid_x": [
+          2473.76,
+          2628.69
+        ],
+        "easting_km": [
+          596,
+          598
+        ],
+        "target_easting_km": 597.57423
+      },
+      "SE": {
+        "grid_x": [
+          2566.72,
+          2721.71
+        ],
+        "easting_km": [
+          598,
+          600
+        ],
+        "target_easting_km": 598.36183
+      }
+    },
+    "other_gcps": [],
+    "method": "Printed graticule and kilometre grid",
+    "all_corners_checked": true,
+    "evidence": "This scan overlaps the adjoining half of the printed map. On each printed north/south parallel the nominal seam longitude was located by interpolating between two labelled Gauss–Krüger easting lines. The opposite corners retain the calibrated outer frame. The individual kilometre-line readings are retained with this correction."
+  },
+  "N34-070": {
+    "sha256": "8eda6f6a0a66dcadcf3eba08f182a751ae14420592e6942cd8ee8c6cfa6c367b",
+    "pixels": {
+      "NW": [
+        260.11,
+        90.23
+      ],
+      "SW": [
+        258.67,
+        3001.71
+      ]
+    },
+    "seam_easting_references": {
+      "NW": {
+        "grid_x": [
+          137.88,
+          293.17
+        ],
+        "easting_km": [
+          596,
+          598
+        ],
+        "target_easting_km": 597.57423
+      },
+      "SW": {
+        "grid_x": [
+          230.62,
+          385.65
+        ],
+        "easting_km": [
+          598,
+          600
+        ],
+        "target_easting_km": 598.36183
+      }
+    },
+    "other_gcps": [],
+    "method": "Printed graticule and kilometre grid",
+    "all_corners_checked": true,
+    "evidence": "This scan overlaps the adjoining half of the printed map. On each printed north/south parallel the nominal seam longitude was located by interpolating between two labelled Gauss–Krüger easting lines. The opposite corners retain the calibrated outer frame. The individual kilometre-line readings are retained with this correction."
+  },
+  "N34-075": {
+    "sha256": "9ae005001ff74771ae16c653beb176f838acb8fae1370603201215f458556e43",
+    "pixels": {
+      "NE": [
+        2013.13,
+        87.08
+      ],
+      "SE": [
+        2012.26,
+        2279.81
+      ]
+    },
+    "seam_easting_references": {
+      "NE": {
+        "grid_x": [
+          1917.35,
+          2034.29
+        ],
+        "easting_km": [
+          400,
+          402
+        ],
+        "target_easting_km": 401.63817
+      },
+      "SE": {
+        "grid_x": [
+          1962.33,
+          2079.28
+        ],
+        "easting_km": [
+          400,
+          402
+        ],
+        "target_easting_km": 400.85393
+      }
+    },
+    "other_gcps": [],
+    "method": "Printed graticule and kilometre grid",
+    "all_corners_checked": true,
+    "evidence": "This scan overlaps the adjoining half of the printed map. On each printed north/south parallel the nominal seam longitude was located by interpolating between two labelled Gauss–Krüger easting lines. The opposite corners retain the calibrated outer frame. The individual kilometre-line readings are retained with this correction."
+  },
+  "N34-076": {
+    "sha256": "f3ffc31d3839aab102a77b337ce5000e9eab03533bb9422069bab057f9e5b1c3",
+    "pixels": {
+      "NW": [
+        199.51,
+        87.14
+      ],
+      "SW": [
+        198.48,
+        2279.71
+      ]
+    },
+    "seam_easting_references": {
+      "NW": {
+        "grid_x": [
+          104.14,
+          220.57
+        ],
+        "easting_km": [
+          400,
+          402
+        ],
+        "target_easting_km": 401.63817
+      },
+      "SW": {
+        "grid_x": [
+          148.49,
+          265.57
+        ],
+        "easting_km": [
+          400,
+          402
+        ],
+        "target_easting_km": 400.85393
+      }
+    },
+    "other_gcps": [],
+    "method": "Printed graticule and kilometre grid",
+    "all_corners_checked": true,
+    "evidence": "This scan overlaps the adjoining half of the printed map. On each printed north/south parallel the nominal seam longitude was located by interpolating between two labelled Gauss–Krüger easting lines. The opposite corners retain the calibrated outer frame. The individual kilometre-line readings are retained with this correction."
+  },
+  "N34-092": {
+    "sha256": "4fb97301e496dccb4f1d7985e6189e408da8414abf6b93afa06804bdf7ff2e26",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "N34-107": {
+    "sha256": "3c79c614620becae96817dcef5a7afb663f53378dc5b7887b2d39e7d37cf8f96",
+    "pixels": {
+      "NE": [
+        2047.42,
+        75.29
+      ],
+      "SE": [
+        2048.07,
+        2260.98
+      ]
+    },
+    "seam_easting_references": {
+      "NE": {
+        "grid_x": [
+          1897.81,
+          2015.84
+        ],
+        "easting_km": [
+          664,
+          666
+        ],
+        "target_easting_km": 666.53518
+      },
+      "SE": {
+        "grid_x": [
+          1938.88,
+          2058.14
+        ],
+        "easting_km": [
+          666,
+          668
+        ],
+        "target_easting_km": 667.83121
+      }
+    },
+    "other_gcps": [],
+    "method": "Printed graticule and kilometre grid",
+    "all_corners_checked": true,
+    "evidence": "This scan overlaps the adjoining half of the printed map. On each printed north/south parallel the nominal seam longitude was located by interpolating between two labelled Gauss–Krüger easting lines. The opposite corners retain the calibrated outer frame. The individual kilometre-line readings are retained with this correction."
+  },
+  "N34-109": {
+    "sha256": "4563641b49842b74e6c9bb1e5a9b5fb22d9f5f8c72474c821f179e89e93d4d3d",
+    "pixels": {
+      "NE": [
+        2761.7,
+        101.32
+      ],
+      "SE": [
+        2761.7,
+        3029.4
+      ]
+    },
+    "other_gcps": [
+      {
+        "pixel": [
+          2689.36,
+          2918.44
+        ],
+        "lonlat": [
+          18.4862867036,
+          52.6792927794
+        ],
+        "method": "Shared printed 2 km grid crossing"
+      },
+      {
+        "pixel": [
+          2830.76,
+          2439.82
+        ],
+        "lonlat": [
+          18.5127666153,
+          52.7337819441
+        ],
+        "method": "Shared printed 2 km grid crossing"
+      },
+      {
+        "pixel": [
+          2814.46,
+          1967.23
+        ],
+        "lonlat": [
+          18.509694116,
+          52.7876473185
+        ],
+        "method": "Shared printed 2 km grid crossing"
+      },
+      {
+        "pixel": [
+          2798.3,
+          1494.76
+        ],
+        "lonlat": [
+          18.5066118188,
+          52.8415120752
+        ],
+        "method": "Shared printed 2 km grid crossing"
+      },
+      {
+        "pixel": [
+          2781.85,
+          1021.78
+        ],
+        "lonlat": [
+          18.5035196818,
+          52.8953762141
+        ],
+        "method": "Shared printed 2 km grid crossing"
+      },
+      {
+        "pixel": [
+          2771.02,
+          706.74
+        ],
+        "lonlat": [
+          18.5014527698,
+          52.9312852967
+        ],
+        "method": "Shared printed 2 km grid crossing"
+      },
+      {
+        "pixel": [
+          2754.14,
+          233.06
+        ],
+        "lonlat": [
+          18.4983441397,
+          52.9851484052
+        ],
+        "method": "Shared printed 2 km grid crossing"
+      },
+      {
+        "pixel": [
+          620.82,
+          2515.63
+        ],
+        "lonlat": [
+          18.0987653075,
+          52.7243700351
+        ],
+        "method": "Printed 2 km grid crossing"
+      },
+      {
+        "pixel": [
+          588.14,
+          1570.78
+        ],
+        "lonlat": [
+          18.0915893076,
+          52.8320635897
+        ],
+        "method": "Printed 2 km grid crossing"
+      },
+      {
+        "pixel": [
+          554.79,
+          625.13
+        ],
+        "lonlat": [
+          18.0843674424,
+          52.9397544923
+        ],
+        "method": "Printed 2 km grid crossing"
+      },
+      {
+        "pixel": [
+          1409.74,
+          2488.29
+        ],
+        "lonlat": [
+          18.246596317,
+          52.7278971891
+        ],
+        "method": "Printed 2 km grid crossing"
+      },
+      {
+        "pixel": [
+          1376.78,
+          1543.25
+        ],
+        "lonlat": [
+          18.2397848054,
+          52.8356044491
+        ],
+        "method": "Printed 2 km grid crossing"
+      },
+      {
+        "pixel": [
+          1506.91,
+          749.82
+        ],
+        "lonlat": [
+          18.263779207,
+          52.9260467385
+        ],
+        "method": "Printed 2 km grid crossing"
+      },
+      {
+        "pixel": [
+          2198.96,
+          2461.1
+        ],
+        "lonlat": [
+          18.3944573092,
+          52.7312401898
+        ],
+        "method": "Printed 2 km grid crossing"
+      },
+      {
+        "pixel": [
+          2166.07,
+          1516.08
+        ],
+        "lonlat": [
+          18.388010542,
+          52.8389604416
+        ],
+        "method": "Printed 2 km grid crossing"
+      },
+      {
+        "pixel": [
+          2296.77,
+          722.88
+        ],
+        "lonlat": [
+          18.4123165676,
+          52.9293765035
+        ],
+        "method": "Printed 2 km grid crossing"
+      }
+    ],
+    "method": "Printed graticule and kilometre grid",
+    "all_corners_checked": true,
+    "evidence": "The top and bottom minute marks printed at 18°30′ E identify the split between these overlapping native scans. Seven printed 2 km grid crossings common to both halves and nine interior crossings fix the thin-plate spline. The four outer geographic corners across the pair retain their source readings. On 249 independent internal crossings the 95th-percentile error was 0.86 source pixels. All 150 sampled outer-border positions are within two native pixels of the print.",
+    "seam_easting_references_initial": {
+      "NE": {
+        "grid_x": [
+          2590.84,
+          2906.82
+        ],
+        "easting_km": [
+          330,
+          334
+        ],
+        "target_easting_km": 332.16879
+      },
+      "SE": {
+        "grid_x": [
+          2533.79,
+          2850.53
+        ],
+        "easting_km": [
+          328,
+          332
+        ],
+        "target_easting_km": 330.87849
+      }
+    },
+    "pixels_before_shared_grid_review": {
+      "NE": [
+        2762.16,
+        101.28
+      ],
+      "SE": [
+        2761.72,
+        3029.26
+      ]
+    },
+    "shared_sheet": {
+      "adjacent_half": "N34-110",
+      "native_horizontal_offset_to_western_scan_px": 0,
+      "shared_meridian_deg": 18.5,
+      "shared_grid_crossings": 7,
+      "interior_grid_crossings": 9
+    },
+    "printed_grid_holdout": {
+      "count": 249,
+      "previous_p95_px": 1.87,
+      "refined_p95_px": 0.86,
+      "printed_outer_edge_checks": 150,
+      "refined_outer_edge_max_px": 1.62
+    }
+  },
+  "N34-110": {
+    "sha256": "280ab58d92c4ce6493fb8b9c6151d450c6cefc405dc0a3c7c432bea9a5944c04",
+    "pixels": {
+      "NW": [
+        277.7,
+        101.32
+      ],
+      "SW": [
+        277.7,
+        3029.4
+      ]
+    },
+    "other_gcps": [
+      {
+        "pixel": [
+          205.36,
+          2918.44
+        ],
+        "lonlat": [
+          18.4862867036,
+          52.6792927794
+        ],
+        "method": "Shared printed 2 km grid crossing"
+      },
+      {
+        "pixel": [
+          346.76,
+          2439.82
+        ],
+        "lonlat": [
+          18.5127666153,
+          52.7337819441
+        ],
+        "method": "Shared printed 2 km grid crossing"
+      },
+      {
+        "pixel": [
+          330.46,
+          1967.23
+        ],
+        "lonlat": [
+          18.509694116,
+          52.7876473185
+        ],
+        "method": "Shared printed 2 km grid crossing"
+      },
+      {
+        "pixel": [
+          314.3,
+          1494.76
+        ],
+        "lonlat": [
+          18.5066118188,
+          52.8415120752
+        ],
+        "method": "Shared printed 2 km grid crossing"
+      },
+      {
+        "pixel": [
+          297.85,
+          1021.78
+        ],
+        "lonlat": [
+          18.5035196818,
+          52.8953762141
+        ],
+        "method": "Shared printed 2 km grid crossing"
+      },
+      {
+        "pixel": [
+          287.02,
+          706.74
+        ],
+        "lonlat": [
+          18.5014527698,
+          52.9312852967
+        ],
+        "method": "Shared printed 2 km grid crossing"
+      },
+      {
+        "pixel": [
+          270.14,
+          233.06
+        ],
+        "lonlat": [
+          18.4983441397,
+          52.9851484052
+        ],
+        "method": "Shared printed 2 km grid crossing"
+      },
+      {
+        "pixel": [
+          819.16,
+          2424.09
+        ],
+        "lonlat": [
+          18.6015100221,
+          52.7356108563
+        ],
+        "method": "Printed 2 km grid crossing"
+      },
+      {
+        "pixel": [
+          793.04,
+          1636.18
+        ],
+        "lonlat": [
+          18.5965662156,
+          52.8253920591
+        ],
+        "method": "Printed 2 km grid crossing"
+      },
+      {
+        "pixel": [
+          761.26,
+          690.22
+        ],
+        "lonlat": [
+          18.590598882,
+          52.9331272695
+        ],
+        "method": "Printed 2 km grid crossing"
+      },
+      {
+        "pixel": [
+          1606.87,
+          2398.1
+        ],
+        "lonlat": [
+          18.7494364403,
+          52.7385115597
+        ],
+        "method": "Printed 2 km grid crossing"
+      },
+      {
+        "pixel": [
+          1580.07,
+          1609.78
+        ],
+        "lonlat": [
+          18.7447968919,
+          52.828302156
+        ],
+        "method": "Printed 2 km grid crossing"
+      },
+      {
+        "pixel": [
+          1547.66,
+          662.9
+        ],
+        "lonlat": [
+          18.7391968024,
+          52.9360486896
+        ],
+        "method": "Printed 2 km grid crossing"
+      },
+      {
+        "pixel": [
+          2395.31,
+          2372.34
+        ],
+        "lonlat": [
+          18.8973873927,
+          52.7412278467
+        ],
+        "method": "Printed 2 km grid crossing"
+      },
+      {
+        "pixel": [
+          2526.9,
+          1578.73
+        ],
+        "lonlat": [
+          18.9227061768,
+          52.8315500498
+        ],
+        "method": "Printed 2 km grid crossing"
+      },
+      {
+        "pixel": [
+          2336.44,
+          636.57
+        ],
+        "lonlat": [
+          18.8878196432,
+          52.9387843787
+        ],
+        "method": "Printed 2 km grid crossing"
+      }
+    ],
+    "method": "Printed graticule and kilometre grid",
+    "all_corners_checked": true,
+    "evidence": "The top and bottom minute marks printed at 18°30′ E identify the split between these overlapping native scans. Seven printed 2 km grid crossings common to both halves and nine interior crossings fix the thin-plate spline. The four outer geographic corners across the pair retain their source readings. On 254 independent internal crossings the 95th-percentile error was 1.26 source pixels. All 150 sampled outer-border positions are within two native pixels of the print.",
+    "seam_easting_references_initial": {
+      "NW": {
+        "grid_x": [
+          105.12,
+          420.77
+        ],
+        "easting_km": [
+          330,
+          334
+        ],
+        "target_easting_km": 332.16879
+      },
+      "SW": {
+        "grid_x": [
+          49.98,
+          366.87
+        ],
+        "easting_km": [
+          328,
+          332
+        ],
+        "target_easting_km": 330.87849
+      }
+    },
+    "pixels_before_shared_grid_review": {
+      "NW": [
+        276.26,
+        101.28
+      ],
+      "SW": [
+        278.02,
+        3032.3
+      ]
+    },
+    "shared_sheet": {
+      "adjacent_half": "N34-109",
+      "native_horizontal_offset_to_western_scan_px": 2484,
+      "shared_meridian_deg": 18.5,
+      "shared_grid_crossings": 7,
+      "interior_grid_crossings": 9
+    },
+    "printed_grid_holdout": {
+      "count": 254,
+      "previous_p95_px": 3.15,
+      "refined_p95_px": 1.26,
+      "printed_outer_edge_checks": 150,
+      "refined_outer_edge_max_px": 1.95
+    }
+  },
+  "N34-119": {
+    "sha256": "81882fc15803afdb4810d364cba6c50bea3b069a6d4300ded980c188a506b084",
+    "pixels": {
+      "NE": [
+        2671.87,
+        85.59
+      ],
+      "SE": [
+        2666.54,
+        2989.21
+      ]
+    },
+    "seam_easting_references": {
+      "NE": {
+        "grid_x": [
+          2530.17,
+          2684.93
+        ],
+        "easting_km": [
+          666,
+          668
+        ],
+        "target_easting_km": 667.83121
+      },
+      "SE": {
+        "grid_x": [
+          2579.94,
+          2734.37
+        ],
+        "easting_km": [
+          668,
+          670
+        ],
+        "target_easting_km": 669.12151
+      }
+    },
+    "other_gcps": [],
+    "method": "Printed graticule and kilometre grid",
+    "all_corners_checked": true,
+    "evidence": "This scan overlaps the adjoining half of the printed map. On each printed north/south parallel the nominal seam longitude was located by interpolating between two labelled Gauss–Krüger easting lines. The opposite corners retain the calibrated outer frame. The individual kilometre-line readings are retained with this correction."
+  },
+  "N34-123": {
+    "sha256": "9fc45af1e2a57ed709ce0306454770eabcdb72afbefe49e59bdd0142b009c005",
+    "pixels": {
+      "NE": [
+        2068.86,
+        79.63
+      ],
+      "SE": [
+        2066.3,
+        2265.79
+      ]
+    },
+    "seam_easting_references": {
+      "NE": {
+        "grid_x": [
+          1919.93,
+          2038.05
+        ],
+        "easting_km": [
+          396,
+          398
+        ],
+        "target_easting_km": 398.52166
+      },
+      "SE": {
+        "grid_x": [
+          1963.08,
+          2080.97
+        ],
+        "easting_km": [
+          396,
+          398
+        ],
+        "target_easting_km": 397.75113
+      }
+    },
+    "other_gcps": [],
+    "method": "Printed graticule and kilometre grid",
+    "all_corners_checked": true,
+    "evidence": "This scan overlaps the adjoining half of the printed map. On each printed north/south parallel the nominal seam longitude was located by interpolating between two labelled Gauss–Krüger easting lines. The opposite corners retain the calibrated outer frame. The individual kilometre-line readings are retained with this correction."
+  },
+  "N34-124": {
+    "sha256": "4e6f45ccbb58a505ca698aa5d11c35b7dfed69b98300b6c2dac77d43930e9402",
+    "pixels": {
+      "NW": [
+        204.78,
+        80.04
+      ],
+      "SW": [
+        202.62,
+        2265.79
+      ]
+    },
+    "seam_easting_references": {
+      "NW": {
+        "grid_x": [
+          55.94,
+          173.99
+        ],
+        "easting_km": [
+          396,
+          398
+        ],
+        "target_easting_km": 398.52166
+      },
+      "SW": {
+        "grid_x": [
+          99.56,
+          217.27
+        ],
+        "easting_km": [
+          396,
+          398
+        ],
+        "target_easting_km": 397.75113
+      }
+    },
+    "other_gcps": [],
+    "method": "Printed graticule and kilometre grid",
+    "all_corners_checked": true,
+    "evidence": "This scan overlaps the adjoining half of the printed map. On each printed north/south parallel the nominal seam longitude was located by interpolating between two labelled Gauss–Krüger easting lines. The opposite corners retain the calibrated outer frame. The individual kilometre-line readings are retained with this correction."
+  },
+  "N34-125": {
+    "sha256": "2c7e15ecadd51c24d0f8b2cb59932a5d0f463943b79259da8447995207900132",
+    "pixels": {
+      "NE": [
+        2065.98,
+        70.73
+      ],
+      "SE": [
+        2060.7,
+        2253.19
+      ]
+    },
+    "seam_easting_references": {
+      "NE": {
+        "grid_x": [
+          1937.97,
+          2055.79
+        ],
+        "easting_km": [
+          464,
+          466
+        ],
+        "target_easting_km": 466.17298
+      },
+      "SE": {
+        "grid_x": [
+          1949.85,
+          2065.55
+        ],
+        "easting_km": [
+          464,
+          466
+        ],
+        "target_easting_km": 465.91617
+      }
+    },
+    "other_gcps": [],
+    "method": "Printed graticule and kilometre grid",
+    "all_corners_checked": true,
+    "evidence": "This scan overlaps the adjoining half of the printed map. On each printed north/south parallel the nominal seam longitude was located by interpolating between two labelled Gauss–Krüger easting lines. The opposite corners retain the calibrated outer frame. The individual kilometre-line readings are retained with this correction."
+  },
+  "N34-126": {
+    "sha256": "8525dacae176241bf2ad991fcbcd93f7d7d6ad017f253f8a50caa6a0353ffddd",
+    "pixels": {
+      "NW": [
+        207.36,
+        69.85
+      ],
+      "SW": [
+        202.09,
+        2253.2
+      ]
+    },
+    "seam_easting_references": {
+      "NW": {
+        "grid_x": [
+          79.07,
+          197.15
+        ],
+        "easting_km": [
+          464,
+          466
+        ],
+        "target_easting_km": 466.17298
+      },
+      "SW": {
+        "grid_x": [
+          90.83,
+          206.96
+        ],
+        "easting_km": [
+          464,
+          466
+        ],
+        "target_easting_km": 465.91617
+      }
+    },
+    "other_gcps": [],
+    "method": "Printed graticule and kilometre grid",
+    "all_corners_checked": true,
+    "evidence": "This scan overlaps the adjoining half of the printed map. On each printed north/south parallel the nominal seam longitude was located by interpolating between two labelled Gauss–Krüger easting lines. The opposite corners retain the calibrated outer frame. The individual kilometre-line readings are retained with this correction."
+  },
+  "N34-133": {
+    "sha256": "8a1cd26245543ed38d3a4dee4756f47e23e2083eaca8cb3900c1391b5cb5100d",
+    "pixels": {
+      "NE": [
+        2099.92,
+        80.09
+      ],
+      "SE": [
+        2100.07,
+        2268.91
+      ]
+    },
+    "seam_easting_references": {
+      "NE": {
+        "grid_x": [
+          2007.04,
+          2123.58
+        ],
+        "easting_km": [
+          328,
+          330
+        ],
+        "target_easting_km": 329.59396
+      },
+      "SE": {
+        "grid_x": [
+          1964.01,
+          2081.54
+        ],
+        "easting_km": [
+          326,
+          328
+        ],
+        "target_easting_km": 328.31525
+      }
+    },
+    "other_gcps": [],
+    "method": "Printed graticule and kilometre grid",
+    "all_corners_checked": true,
+    "evidence": "This scan overlaps the adjoining half of the printed map. On each printed north/south parallel the nominal seam longitude was located by interpolating between two labelled Gauss–Krüger easting lines. The opposite corners retain the calibrated outer frame. The individual kilometre-line readings are retained with this correction."
+  },
+  "N34-134": {
+    "sha256": "eabce2f76a11a5ce2a4adc2447b0257ff77cca64ba6c635a3b5b492c061b525f",
+    "pixels": {
+      "NW": [
+        214.8,
+        79.88
+      ],
+      "SW": [
+        215.1,
+        2268.92
+      ]
+    },
+    "seam_easting_references": {
+      "NW": {
+        "grid_x": [
+          122.06,
+          238.42
+        ],
+        "easting_km": [
+          328,
+          330
+        ],
+        "target_easting_km": 329.59396
+      },
+      "SW": {
+        "grid_x": [
+          78.85,
+          196.55
+        ],
+        "easting_km": [
+          326,
+          328
+        ],
+        "target_easting_km": 328.31525
+      }
+    },
+    "other_gcps": [],
+    "method": "Printed graticule and kilometre grid",
+    "all_corners_checked": true,
+    "evidence": "This scan overlaps the adjoining half of the printed map. On each printed north/south parallel the nominal seam longitude was located by interpolating between two labelled Gauss–Krüger easting lines. The opposite corners retain the calibrated outer frame. The individual kilometre-line readings are retained with this correction."
+  },
+  "N34-135": {
+    "sha256": "0052a9ac115e427e25d62f36433a88db9ad8c15965366436b33cc8d5497d336d",
+    "pixels": {
+      "NE": [
+        2103.01,
+        77.64
+      ],
+      "SE": [
+        2105.7,
+        2269.07
+      ]
+    },
+    "seam_easting_references": {
+      "NE": {
+        "grid_x": [
+          2000.72,
+          2117.55
+        ],
+        "easting_km": [
+          396,
+          398
+        ],
+        "target_easting_km": 397.75113
+      },
+      "SE": {
+        "grid_x": [
+          2048.15,
+          2165.1
+        ],
+        "easting_km": [
+          396,
+          398
+        ],
+        "target_easting_km": 396.9841
+      }
+    },
+    "other_gcps": [],
+    "method": "Printed graticule and kilometre grid",
+    "all_corners_checked": true,
+    "evidence": "This scan overlaps the adjoining half of the printed map. On each printed north/south parallel the nominal seam longitude was located by interpolating between two labelled Gauss–Krüger easting lines. The opposite corners retain the calibrated outer frame. The individual kilometre-line readings are retained with this correction."
+  },
+  "N34-136": {
+    "sha256": "720c1eea9cd81e387a377310bf05f8076bcec73943f31479c2654d210eb50758",
+    "pixels": {
+      "NW": [
+        217.88,
+        77.74
+      ],
+      "SW": [
+        220.61,
+        2269.43
+      ]
+    },
+    "seam_easting_references": {
+      "NW": {
+        "grid_x": [
+          115.52,
+          232.43
+        ],
+        "easting_km": [
+          396,
+          398
+        ],
+        "target_easting_km": 397.75113
+      },
+      "SW": {
+        "grid_x": [
+          163.03,
+          280.05
+        ],
+        "easting_km": [
+          396,
+          398
+        ],
+        "target_easting_km": 396.9841
+      }
+    },
+    "other_gcps": [],
+    "method": "Printed graticule and kilometre grid",
+    "all_corners_checked": true,
+    "evidence": "This scan overlaps the adjoining half of the printed map. On each printed north/south parallel the nominal seam longitude was located by interpolating between two labelled Gauss–Krüger easting lines. The opposite corners retain the calibrated outer frame. The individual kilometre-line readings are retained with this correction."
+  },
+  "N34-137": {
+    "sha256": "4964358515f929d04e49a26f47451ccffb5c9c40eb4bd4701df67466591e730a",
+    "pixels": {
+      "NE": [
+        2087.4,
+        80.29
+      ],
+      "SE": [
+        2082.71,
+        2269.34
+      ]
+    },
+    "seam_easting_references": {
+      "NE": {
+        "grid_x": [
+          1975.03,
+          2092.32
+        ],
+        "easting_km": [
+          464,
+          466
+        ],
+        "target_easting_km": 465.91617
+      },
+      "SE": {
+        "grid_x": [
+          1985.39,
+          2102.61
+        ],
+        "easting_km": [
+          464,
+          466
+        ],
+        "target_easting_km": 465.66053
+      }
+    },
+    "other_gcps": [],
+    "method": "Printed graticule and kilometre grid",
+    "all_corners_checked": true,
+    "evidence": "This scan overlaps the adjoining half of the printed map. On each printed north/south parallel the nominal seam longitude was located by interpolating between two labelled Gauss–Krüger easting lines. The opposite corners retain the calibrated outer frame. The individual kilometre-line readings are retained with this correction."
+  },
+  "N34-138": {
+    "sha256": "2b27ec1bc8ec49d4b34b6387736779b768f1b457c68618ad4ae2307a2de5c36e",
+    "pixels": {
+      "NW": [
+        215.21,
+        80.2
+      ],
+      "SW": [
+        210.65,
+        2268.6
+      ]
+    },
+    "seam_easting_references": {
+      "NW": {
+        "grid_x": [
+          102.98,
+          220.12
+        ],
+        "easting_km": [
+          464,
+          466
+        ],
+        "target_easting_km": 465.91617
+      },
+      "SW": {
+        "grid_x": [
+          113.89,
+          230.43
+        ],
+        "easting_km": [
+          464,
+          466
+        ],
+        "target_easting_km": 465.66053
+      }
+    },
+    "other_gcps": [],
+    "method": "Printed graticule and kilometre grid",
+    "all_corners_checked": true,
+    "evidence": "This scan overlaps the adjoining half of the printed map. On each printed north/south parallel the nominal seam longitude was located by interpolating between two labelled Gauss–Krüger easting lines. The opposite corners retain the calibrated outer frame. The individual kilometre-line readings are retained with this correction."
+  },
+  "N34-139": {
+    "sha256": "67dfa4521246c56111faf3108f0418eff8b02546784a897985e35e1dffc6d694",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "N35-037": {
+    "sha256": "ad8c36052c00cd6a68ff3602cc99b05c9e165fda152bc16784ccb365d708ca47",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "N35-055": {
+    "sha256": "01cf41c939d48c12e7df49d2a00775dc4c8d7de9c8e5dd58bc8c5892246dc8e6",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "N36-007": {
+    "sha256": "1b73504887bee9567a449e63a3476ea3dc80068d0d5224705b766efee84be900",
+    "bounds": [
+      33.031781465,
+      55.666666666666664,
+      33.480819058,
+      56
+    ],
+    "corner_lonlat": {
+      "NW": [
+        33.032054464,
+        56
+      ],
+      "NE": [
+        33.480819058,
+        56
+      ],
+      "SE": [
+        33.476723959,
+        55.666666666666664
+      ],
+      "SW": [
+        33.031781465,
+        55.666666666666664
+      ]
+    },
+    "pixels": {
+      "NW": [
+        80.82,
+        67.4
+      ],
+      "NE": [
+        1730.62,
+        65.63
+      ],
+      "SE": [
+        1725.46,
+        2258.38
+      ],
+      "SW": [
+        77.19,
+        2260.51
+      ]
+    },
+    "other_gcps": [
+      {
+        "pixel": [
+          880,
+          68
+        ],
+        "lonlat": [
+          33.25,
+          56
+        ]
+      },
+      {
+        "pixel": [
+          882,
+          1166
+        ],
+        "lonlat": [
+          33.25,
+          55.833333333333336
+        ]
+      },
+      {
+        "pixel": [
+          884,
+          2263
+        ],
+        "lonlat": [
+          33.25,
+          55.666666666666664
+        ]
+      }
+    ],
+    "method": "Printed graticule and kilometre grid",
+    "all_corners_checked": true,
+    "evidence": "Partial east and west margins. The printed 502 km and 530 km easting guides intersect both remaining latitude borders at 56°00′ and 55°40′ N. The four selected intersections bound the georeferenced crop. Longitudes were solved on Pulkovo 1942 Gauss–Krüger zone 6 (33°E central meridian). Three enabled Ozi points independently place the central 33°15′ meridian. The printed terrain date is 1980 and the lower margin reads V–84. The edition number is cut off.",
+    "year": "",
+    "partial_extent": true
+  },
+  "N36-016": {
+    "sha256": "95df4aa1cc978f8c35b416d03e0b341a96d4b74ddf27e3ab03fd2a2e5e898b6c",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "N36-075": {
+    "sha256": "1482232c988bfe20e9edde881dafed9a6e57ded5dc39f129fb340f9a9f9676ef",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "N36-087": {
+    "sha256": "7b2c72fd4a2cd2d9b58fb53458855b0cb5cf93efa2faefd8a252742b30f0d1d7",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "N37-096": {
+    "sha256": "5427767c788ee030bab6e11471f9bbe017392996f74569e04974e76cb87c60bd",
+    "bounds": [
+      41.75,
+      53.333333333333336,
+      42,
+      53.5
+    ],
+    "pixels": {
+      "NW": [
+        611,
+        112
+      ],
+      "NE": [
+        1393,
+        119
+      ],
+      "SE": [
+        1391,
+        987
+      ],
+      "SW": [
+        606,
+        989
+      ]
+    },
+    "other_gcps": [],
+    "method": "Source Ozi, partial sheet",
+    "all_corners_checked": true,
+    "evidence": "Only the southeast quarter is supported by the four enabled points in the source calibration. Their affine residual in the native grid projection is at most 2.3 pixels. The georeferenced crop spans those four points. The original retains the surrounding margins and uncalibrated map slivers.",
+    "partial_extent": true
+  },
+  "N39-018": {
+    "sha256": "d169983a899926016eb625bc78b4e86ceb7a536c6e955a42b079a395cb813560",
+    "pixels": {
+      "SE": [
+        2838,
+        3262
+      ],
+      "SW": [
+        98,
+        3262
+      ]
+    },
+    "corner_lonlat": {
+      "NW": [
+        50.5,
+        55.666666666666664
+      ],
+      "NE": [
+        51.0,
+        55.666666666666664
+      ],
+      "SE": [
+        51.0,
+        55.33897195
+      ],
+      "SW": [
+        50.5,
+        55.3366607
+      ]
+    },
+    "other_gcps": [
+      {
+        "pixel": [
+          1490,
+          101
+        ],
+        "lonlat": [
+          50.75,
+          55.666666666666664
+        ],
+        "enabled": true
+      },
+      {
+        "pixel": [
+          114,
+          1694
+        ],
+        "lonlat": [
+          50.5,
+          55.5
+        ],
+        "enabled": true
+      },
+      {
+        "pixel": [
+          1479,
+          1706
+        ],
+        "lonlat": [
+          50.75,
+          55.5
+        ],
+        "enabled": true
+      },
+      {
+        "pixel": [
+          2843,
+          1712
+        ],
+        "lonlat": [
+          51.0,
+          55.5
+        ],
+        "enabled": true
+      },
+      {
+        "pixel": [
+          256.15,
+          405.83
+        ],
+        "lonlat": [
+          50.5236753659,
+          55.6337832628
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          252.56,
+          1618.84
+        ],
+        "lonlat": [
+          50.5251947183,
+          55.5080419812
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          246.76,
+          2997.95
+        ],
+        "lonlat": [
+          50.5269165214,
+          55.3643344441
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          1465.69,
+          407.65
+        ],
+        "lonlat": [
+          50.745956673,
+          55.6344448175
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          1461.72,
+          1619.72
+        ],
+        "lonlat": [
+          50.7467670322,
+          55.5087004481
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          1455.66,
+          3002.95
+        ],
+        "lonlat": [
+          50.7476853697,
+          55.364989406
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          2673.96,
+          408.7
+        ],
+        "lonlat": [
+          50.9682444118,
+          55.6347036921
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          2670.95,
+          1622.17
+        ],
+        "lonlat": [
+          50.9683457086,
+          55.5089581144
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          2666.15,
+          3007.74
+        ],
+        "lonlat": [
+          50.9684605029,
+          55.3652457007
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      }
+    ],
+    "all_corners_checked": true,
+    "method": "Printed graticule and kilometre grid",
+    "evidence": "The original has cropped graticule corners. Their native source edge pixels were geolocated against the nearest printed 2 km Gauss–Krüger rules. Other listed intersections were verified on the scan. The retained source footprint clips the nominal sheet against the transformed scan boundary. A check on 271 additional printed grid crossings gave a median error of 1.4 pixels and a 95th-percentile error of 3.7 pixels.",
+    "footprint_lonlat": [
+      [
+        51.0,
+        55.338919893
+      ],
+      [
+        50.940144633,
+        55.338650499
+      ],
+      [
+        50.798720319,
+        55.338116972
+      ],
+      [
+        50.71550148,
+        55.337775408
+      ],
+      [
+        50.673857616,
+        55.337591754
+      ],
+      [
+        50.636362826,
+        55.337408039
+      ],
+      [
+        50.598851678,
+        55.337205197
+      ],
+      [
+        50.552969823,
+        55.336936384
+      ],
+      [
+        50.5,
+        55.336608542
+      ],
+      [
+        50.5,
+        55.666666667
+      ],
+      [
+        51.0,
+        55.666666667
+      ],
+      [
+        51.0,
+        55.338919893
+      ]
+    ],
+    "edge_grid_measurements": {
+      "SE": {
+        "n": [
+          [
+            6136000.0,
+            3181.68,
+            0.0067,
+            100.0
+          ],
+          [
+            6138000.0,
+            3008.12,
+            0.0016,
+            104.7
+          ],
+          [
+            6140000.0,
+            2834.62,
+            -0.0043,
+            108.5
+          ]
+        ]
+      },
+      "SW": {
+        "n": [
+          [
+            6136000.0,
+            3169.82,
+            0.0046,
+            93.5
+          ],
+          [
+            6138000.0,
+            2997.36,
+            0.0039,
+            95.0
+          ],
+          [
+            6140000.0,
+            2824.38,
+            0.006,
+            94.0
+          ]
+        ]
+      }
+    },
+    "printed_grid_holdout": {
+      "count": 271,
+      "p95_px": 3.7,
+      "median_px": 1.4,
+      "max_px": 4.6
+    },
+    "bounds": [
+      50.5,
+      55.336608542,
+      51.0,
+      55.666666667
+    ],
+    "partial_extent": true
+  },
+  "N39-058": {
+    "sha256": "0cd51e47fbb50e6b0aced44b63756c17d380e74cd555e907cdde054cfe6bfbd3",
+    "all_corners_checked": true,
+    "grid_offsets_px": {
+      "eastings": {
+        "whole": -1,
+        "NW": -1,
+        "NE": -1,
+        "SE": 0,
+        "SW": -1
+      },
+      "northings": {
+        "whole": 1,
+        "NW": -2,
+        "NE": -2,
+        "SE": 2,
+        "SW": 1
+      }
+    },
+    "evidence": "The scan extends to the digital sheet edges. The printed 2 km grid was compared with the projected Pulkovo 1942 lattice across the full image and separately in four quadrants. The largest quadrant offset was 2 source pixels."
+  },
+  "N39-069": {
+    "sha256": "052f4301040d278e53077a8e07c0d0d644bf9eb2dafde154bd043fd8c71bc154",
+    "all_corners_checked": true,
+    "grid_offsets_px": {
+      "eastings": {
+        "whole": 0,
+        "NW": 0,
+        "NE": 0,
+        "SE": 0,
+        "SW": 0
+      },
+      "northings": {
+        "whole": 0,
+        "NW": 0,
+        "NE": 1,
+        "SE": -1,
+        "SW": 0
+      }
+    },
+    "evidence": "The scan extends to the digital sheet edges. The printed 2 km grid was compared with the projected Pulkovo 1942 lattice across the full image and separately in four quadrants. The largest quadrant offset was 1 source pixel."
+  },
+  "N39-070": {
+    "sha256": "15dad18e7d41e48a2f046f9fe5b3516adb6e28d7901968ae001dcb9fbef9ab2f",
+    "all_corners_checked": true,
+    "grid_offsets_px": {
+      "eastings": {
+        "whole": -1,
+        "NW": -1,
+        "NE": 0,
+        "SE": -1,
+        "SW": -2
+      },
+      "northings": {
+        "whole": 2,
+        "NW": 2,
+        "NE": 1,
+        "SE": 4,
+        "SW": 2
+      }
+    },
+    "evidence": "The scan extends to the digital sheet edges. The printed 2 km grid was compared with the projected Pulkovo 1942 lattice across the full image and separately in four quadrants. The largest quadrant offset was 4 source pixels."
+  },
+  "N39-081": {
+    "sha256": "d4b55c34884c429a980d185c430dcc3011a51aec9db5b4bf49001d04c49c164e",
+    "all_corners_checked": true,
+    "grid_offsets_px": {
+      "eastings": {
+        "whole": -1,
+        "NW": 0,
+        "NE": 0,
+        "SE": -1,
+        "SW": -1
+      },
+      "northings": {
+        "whole": -1,
+        "NW": -2,
+        "NE": -1,
+        "SE": -1,
+        "SW": 0
+      }
+    },
+    "evidence": "The scan extends to the digital sheet edges. The printed 2 km grid was compared with the projected Pulkovo 1942 lattice across the full image and separately in four quadrants. The largest quadrant offset was 2 source pixels."
+  },
+  "N39-082": {
+    "sha256": "2bda5e4fb873472273fc801079a639d9e3a1c10d6aaf1228405264d9f94ad6cc",
+    "all_corners_checked": true,
+    "grid_offsets_px": {
+      "eastings": {
+        "whole": -1,
+        "NW": -1,
+        "NE": -1,
+        "SE": -1,
+        "SW": -1
+      },
+      "northings": {
+        "whole": -1,
+        "NW": -1,
+        "NE": -1,
+        "SE": -1,
+        "SW": -1
+      }
+    },
+    "evidence": "The scan extends to the digital sheet edges. The printed 2 km grid was compared with the projected Pulkovo 1942 lattice across the full image and separately in four quadrants. The largest quadrant offset was 1 source pixel."
+  },
+  "N39-093": {
+    "sha256": "764c8854c9884c09480bf0b00b30d46973a0f0e7aef8e29e8a19d9cf5ae9f0eb",
+    "all_corners_checked": true,
+    "grid_offsets_px": {
+      "eastings": {
+        "whole": -1,
+        "NW": -1,
+        "NE": 0,
+        "SE": 0,
+        "SW": -1
+      },
+      "northings": {
+        "whole": -1,
+        "NW": -4,
+        "NE": -2,
+        "SE": -1,
+        "SW": 0
+      }
+    },
+    "evidence": "The scan extends to the digital sheet edges. The printed 2 km grid was compared with the projected Pulkovo 1942 lattice across the full image and separately in four quadrants. The largest quadrant offset was 4 source pixels."
+  },
+  "N39-094": {
+    "sha256": "0bbace3e6047db6be1ceb3a6975b51ef945c759091a4f9b79bf0fac42fc5344d",
+    "all_corners_checked": true,
+    "grid_offsets_px": {
+      "eastings": {
+        "whole": -2,
+        "NW": -2,
+        "NE": -1,
+        "SE": -1,
+        "SW": -2
+      },
+      "northings": {
+        "whole": -1,
+        "NW": -2,
+        "NE": -1,
+        "SE": 3,
+        "SW": 0
+      }
+    },
+    "evidence": "The scan extends to the digital sheet edges. The printed 2 km grid was compared with the projected Pulkovo 1942 lattice across the full image and separately in four quadrants. The largest quadrant offset was 3 source pixels."
+  },
+  "N39-095": {
+    "sha256": "d223cccd5aa38ef425bb6e2acca7793d01ef58acb1f78f0405438259df9a1171",
+    "all_corners_checked": true,
+    "grid_offsets_px": {
+      "eastings": {
+        "whole": 1,
+        "NW": 1,
+        "NE": 1,
+        "SE": 1,
+        "SW": 0
+      },
+      "northings": {
+        "whole": -4,
+        "NW": -4,
+        "NE": -4,
+        "SE": -3,
+        "SW": -3
+      }
+    },
+    "evidence": "The scan extends to the digital sheet edges. The printed 2 km grid was compared with the projected Pulkovo 1942 lattice across the full image and separately in four quadrants. The largest quadrant offset was 4 source pixels."
+  },
+  "N39-105": {
+    "sha256": "d816affa40996842e4dcd3edda3c0bcd6e028f6901396a88435c839aad5677c5",
+    "all_corners_checked": true,
+    "grid_offsets_px": {
+      "eastings": {
+        "whole": -1,
+        "NW": -1,
+        "NE": -1,
+        "SE": 0,
+        "SW": -1
+      },
+      "northings": {
+        "whole": 0,
+        "NW": 0,
+        "NE": 0,
+        "SE": 0,
+        "SW": 0
+      }
+    },
+    "evidence": "The scan extends to the digital sheet edges. The printed 2 km grid was compared with the projected Pulkovo 1942 lattice across the full image and separately in four quadrants. The largest quadrant offset was 1 source pixel."
+  },
+  "N39-106": {
+    "sha256": "c6dc959ce65a78e88d93fa9aeed6ef733577c9ad60e3a57c1ee5be5048965bd8",
+    "all_corners_checked": true,
+    "grid_offsets_px": {
+      "eastings": {
+        "whole": 0,
+        "NW": 0,
+        "NE": 0,
+        "SE": 0,
+        "SW": 0
+      },
+      "northings": {
+        "whole": 1,
+        "NW": 1,
+        "NE": 1,
+        "SE": 0,
+        "SW": 0
+      }
+    },
+    "evidence": "The scan extends to the digital sheet edges. The printed 2 km grid was compared with the projected Pulkovo 1942 lattice across the full image and separately in four quadrants. The largest quadrant offset was 1 source pixel."
+  },
+  "N39-107": {
+    "sha256": "965c707609156ddc7d39261e712cbc68c6abe428d1338546b2b1226321d1cafb",
+    "all_corners_checked": true,
+    "grid_offsets_px": {
+      "eastings": {
+        "whole": 0,
+        "NW": 1,
+        "NE": 1,
+        "SE": -1,
+        "SW": -1
+      },
+      "northings": {
+        "whole": 0,
+        "NW": 0,
+        "NE": 0,
+        "SE": -1,
+        "SW": 0
+      }
+    },
+    "evidence": "The scan extends to the digital sheet edges. The printed 2 km grid was compared with the projected Pulkovo 1942 lattice across the full image and separately in four quadrants. The largest quadrant offset was 1 source pixel."
+  },
+  "N39-108": {
+    "sha256": "e16437ea4c17fd3921a25eaf8a41f79492b374a0f3dff1f18083616b9c35164e",
+    "all_corners_checked": true,
+    "grid_offsets_px": {
+      "eastings": {
+        "whole": 0,
+        "NW": 0,
+        "NE": 0,
+        "SE": 1,
+        "SW": 0
+      },
+      "northings": {
+        "whole": -1,
+        "NW": 0,
+        "NE": 0,
+        "SE": -1,
+        "SW": -1
+      }
+    },
+    "evidence": "The scan extends to the digital sheet edges. The printed 2 km grid was compared with the projected Pulkovo 1942 lattice across the full image and separately in four quadrants. The largest quadrant offset was 1 source pixel."
+  },
+  "N39-110": {
+    "sha256": "5a30fb63023a2661c37fe59f0a48a95c6f698b365c1c954e12889299f36e6338",
+    "pixels": {
+      "NW": [
+        108,
+        0
+      ],
+      "SE": [
+        2659,
+        2904
+      ]
+    },
+    "corner_lonlat": {
+      "NW": [
+        48.5,
+        52.99357798
+      ],
+      "NE": [
+        49.0,
+        53.0
+      ],
+      "SE": [
+        49.0,
+        52.67019979
+      ],
+      "SW": [
+        48.5,
+        52.666666666666664
+      ]
+    },
+    "other_gcps": [
+      {
+        "pixel": [
+          68,
+          1400
+        ],
+        "lonlat": [
+          48.5,
+          52.833333333333336
+        ],
+        "enabled": true
+      },
+      {
+        "pixel": [
+          1381,
+          1437
+        ],
+        "lonlat": [
+          48.75,
+          52.833333333333336
+        ],
+        "enabled": true
+      },
+      {
+        "pixel": [
+          2701,
+          1467
+        ],
+        "lonlat": [
+          49.0,
+          52.833333333333336
+        ],
+        "enabled": true
+      },
+      {
+        "pixel": [
+          252.62,
+          71.99
+        ],
+        "lonlat": [
+          48.5280953042,
+          52.98577103
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          256.93,
+          856.25
+        ],
+        "lonlat": [
+          48.5332094489,
+          52.8959968263
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          105.96,
+          1488.14
+        ],
+        "lonlat": [
+          48.5076403424,
+          52.8235572249
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          108.17,
+          2118.96
+        ],
+        "lonlat": [
+          48.5117435349,
+          52.7517371375
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          109.68,
+          2748.1
+        ],
+        "lonlat": [
+          48.5158293581,
+          52.6799159526
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          721.07,
+          226.07
+        ],
+        "lonlat": [
+          48.618343384,
+          52.9696383802
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          724.1,
+          853.04
+        ],
+        "lonlat": [
+          48.6222852084,
+          52.8978141672
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          727.9,
+          1485.96
+        ],
+        "lonlat": [
+          48.6262102966,
+          52.8259888761
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          729.08,
+          2117.88
+        ],
+        "lonlat": [
+          48.6301187434,
+          52.7541625074
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          730.11,
+          2749.86
+        ],
+        "lonlat": [
+          48.634010643,
+          52.6823350617
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          1340.72,
+          233.04
+        ],
+        "lonlat": [
+          48.7373221463,
+          52.9719636716
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          1346.62,
+          849.04
+        ],
+        "lonlat": [
+          48.7410674711,
+          52.900133443
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          1350.62,
+          1481.68
+        ],
+        "lonlat": [
+          48.7447968919,
+          52.828302156
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          1352.86,
+          2116.33
+        ],
+        "lonlat": [
+          48.7485104989,
+          52.7564698112
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          1354.08,
+          2750.95
+        ],
+        "lonlat": [
+          48.7522083816,
+          52.6846364089
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          1963.75,
+          221.44
+        ],
+        "lonlat": [
+          48.8563169033,
+          52.9741699412
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          1969.82,
+          845.21
+        ],
+        "lonlat": [
+          48.8598656376,
+          52.9023340043
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          1973.35,
+          1476.53
+        ],
+        "lonlat": [
+          48.8633993009,
+          52.8304970279
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          1975.11,
+          2114.84
+        ],
+        "lonlat": [
+          48.8669179787,
+          52.7586590122
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          1976.63,
+          2747.84
+        ],
+        "lonlat": [
+          48.8704217556,
+          52.6868199575
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          2584.98,
+          210.53
+        ],
+        "lonlat": [
+          48.9753268173,
+          52.9762571538
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          2595.83,
+          842.67
+        ],
+        "lonlat": [
+          48.9786788751,
+          52.9044158161
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          2606.14,
+          1474.93
+        ],
+        "lonlat": [
+          48.9820166954,
+          52.8325734567
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          2588.89,
+          2109.04
+        ],
+        "lonlat": [
+          48.9853403591,
+          52.7607300756
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          2601.13,
+          2743.36
+        ],
+        "lonlat": [
+          48.9886499461,
+          52.6888856732
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          2275.96,
+          2579.02
+        ],
+        "lonlat": [
+          48.9286837308,
+          52.7058280848
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          1499.8,
+          374.27
+        ],
+        "lonlat": [
+          48.7679948915,
+          52.9545685763
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          2279.68,
+          1963.58
+        ],
+        "lonlat": [
+          48.9252734241,
+          52.7776695939
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          1188.04,
+          375.91
+        ],
+        "lonlat": [
+          48.7085260537,
+          52.9534364169
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          2120.99,
+          2591.05
+        ],
+        "lonlat": [
+          48.89911501,
+          52.7053076366
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          2122.86,
+          2107.6
+        ],
+        "lonlat": [
+          48.896522209,
+          52.7591878547
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          2283.7,
+          1470.07
+        ],
+        "lonlat": [
+          48.9227061768,
+          52.8315500498
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          2431.95,
+          2587.88
+        ],
+        "lonlat": [
+          48.9582533533,
+          52.7063411626
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          1975.5,
+          2428.65
+        ],
+        "lonlat": [
+          48.8686717245,
+          52.7227396147
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          2448.47,
+          1320.21
+        ],
+        "lonlat": [
+          48.9515156398,
+          52.8500258121
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          1663.95,
+          2429.98
+        ],
+        "lonlat": [
+          48.8095146537,
+          52.7216611745
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          2588.07,
+          2422.21
+        ],
+        "lonlat": [
+          48.9869969072,
+          52.724808002
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      }
+    ],
+    "all_corners_checked": true,
+    "method": "Printed graticule and kilometre grid",
+    "evidence": "The original has cropped graticule corners. Their native source edge pixels were geolocated against the nearest printed 2 km Gauss–Krüger rules. Other listed intersections were verified on the scan. The retained source footprint clips the nominal sheet against the transformed scan boundary. A check on 240 additional printed grid crossings gave a median error of 1.5 pixels and a 95th-percentile error of 4.0 pixels.",
+    "footprint_lonlat": [
+      [
+        48.5,
+        52.993636016
+      ],
+      [
+        48.527666008,
+        52.994185181
+      ],
+      [
+        48.555889328,
+        52.994795003
+      ],
+      [
+        48.584101458,
+        52.995442468
+      ],
+      [
+        48.612348626,
+        52.996131004
+      ],
+      [
+        48.632563861,
+        52.996659705
+      ],
+      [
+        48.652810369,
+        52.997228877
+      ],
+      [
+        48.669022753,
+        52.997716498
+      ],
+      [
+        48.701456124,
+        52.998744295
+      ],
+      [
+        48.713608492,
+        52.999107601
+      ],
+      [
+        48.721702553,
+        52.999323568
+      ],
+      [
+        48.729788787,
+        52.999508881
+      ],
+      [
+        48.737866334,
+        52.999657756
+      ],
+      [
+        48.741901857,
+        52.999717876
+      ],
+      [
+        48.749967034,
+        52.999810906
+      ],
+      [
+        48.762053681,
+        52.999894309
+      ],
+      [
+        48.774133834,
+        52.999935434
+      ],
+      [
+        48.803035008,
+        53.0
+      ],
+      [
+        49.0,
+        53.0
+      ],
+      [
+        49.0,
+        52.670142202
+      ],
+      [
+        48.987427429,
+        52.670138838
+      ],
+      [
+        48.979538372,
+        52.670121388
+      ],
+      [
+        48.971671351,
+        52.670083134
+      ],
+      [
+        48.963813523,
+        52.67002266
+      ],
+      [
+        48.952011514,
+        52.669896449
+      ],
+      [
+        48.928222398,
+        52.669594893
+      ],
+      [
+        48.895966119,
+        52.669212816
+      ],
+      [
+        48.883753117,
+        52.669044748
+      ],
+      [
+        48.831289679,
+        52.668257597
+      ],
+      [
+        48.763683131,
+        52.667321691
+      ],
+      [
+        48.743812502,
+        52.667001453
+      ],
+      [
+        48.725685265,
+        52.666666667
+      ],
+      [
+        48.5,
+        52.666666667
+      ],
+      [
+        48.5,
+        52.993636016
+      ]
+    ],
+    "edge_grid_measurements": {
+      "NW": {
+        "n": [
+          [
+            5876000.0,
+            73.36,
+            -0.0135,
+            104.5
+          ],
+          [
+            5874000.0,
+            230.45,
+            -0.0153,
+            101.3
+          ],
+          [
+            5872000.0,
+            389.43,
+            -0.0216,
+            88.3
+          ]
+        ]
+      },
+      "SE": {
+        "n": [
+          [
+            5840000.0,
+            2896.3,
+            -0.0056,
+            98.2
+          ],
+          [
+            5842000.0,
+            2742.98,
+            -0.0082,
+            94.9
+          ],
+          [
+            5844000.0,
+            2580.68,
+            0.0075,
+            93.4
+          ]
+        ]
+      }
+    },
+    "printed_grid_holdout": {
+      "count": 240,
+      "p95_px": 4.0,
+      "median_px": 1.5,
+      "max_px": 7.9
+    },
+    "bounds": [
+      48.5,
+      52.666666667,
+      49.0,
+      53.0
+    ],
+    "partial_extent": true
+  },
+  "N39-118": {
+    "sha256": "fa241918e2618ec4cd80e0e39ca42bf42b3e3e1770b4969ad2862e1a71aebb72",
+    "all_corners_checked": true,
+    "grid_offsets_px": {
+      "eastings": {
+        "whole": 0,
+        "NW": 0,
+        "NE": 1,
+        "SE": 1,
+        "SW": -1
+      },
+      "northings": {
+        "whole": -1,
+        "NW": -1,
+        "NE": -1,
+        "SE": -1,
+        "SW": -1
+      }
+    },
+    "evidence": "The scan extends to the digital sheet edges. The printed 2 km grid was compared with the projected Pulkovo 1942 lattice across the full image and separately in four quadrants. The largest quadrant offset was 1 source pixel."
+  },
+  "N39-119": {
+    "sha256": "a4fcbad06a605f49d8d3bbf3b67b802cef29e5feeddece674142126b508a74e5",
+    "all_corners_checked": true,
+    "grid_offsets_px": {
+      "eastings": {
+        "whole": 0,
+        "NW": 0,
+        "NE": 0,
+        "SE": 0,
+        "SW": 0
+      },
+      "northings": {
+        "whole": -1,
+        "NW": 0,
+        "NE": -1,
+        "SE": -2,
+        "SW": -1
+      }
+    },
+    "evidence": "The scan extends to the digital sheet edges. The printed 2 km grid was compared with the projected Pulkovo 1942 lattice across the full image and separately in four quadrants. The largest quadrant offset was 2 source pixels."
+  },
+  "N39-120": {
+    "sha256": "31cb0a63895082c1bfef65313baca462933733a0a96b799830d8d51828924ff3",
+    "all_corners_checked": true,
+    "grid_offsets_px": {
+      "eastings": {
+        "whole": 1,
+        "NW": 1,
+        "NE": 0,
+        "SE": 1,
+        "SW": 1
+      },
+      "northings": {
+        "whole": -1,
+        "NW": -1,
+        "NE": -2,
+        "SE": 0,
+        "SW": -2
+      }
+    },
+    "evidence": "The scan extends to the digital sheet edges. The printed 2 km grid was compared with the projected Pulkovo 1942 lattice across the full image and separately in four quadrants. The largest quadrant offset was 2 source pixels."
+  },
+  "N39-122": {
+    "sha256": "9d4e5c01bcab4764ff6ac0c3b4e86c7ae13a0acb6bd9d11d620e466cca83a12b",
+    "pixels": {
+      "NE": [
+        2687,
+        103
+      ],
+      "SW": [
+        0,
+        2960
+      ]
+    },
+    "corner_lonlat": {
+      "NW": [
+        48.5,
+        52.666666666666664
+      ],
+      "NE": [
+        48.9927164,
+        52.66666667
+      ],
+      "SE": [
+        49.0,
+        52.333333333333336
+      ],
+      "SW": [
+        48.50778186,
+        52.33333333
+      ]
+    },
+    "other_gcps": [
+      {
+        "pixel": [
+          10,
+          1478
+        ],
+        "lonlat": [
+          48.5,
+          52.5
+        ],
+        "enabled": true
+      },
+      {
+        "pixel": [
+          1344,
+          1530
+        ],
+        "lonlat": [
+          48.75,
+          52.5
+        ],
+        "enabled": true
+      },
+      {
+        "pixel": [
+          2679,
+          1559
+        ],
+        "lonlat": [
+          49.0,
+          52.5
+        ],
+        "enabled": true
+      },
+      {
+        "pixel": [
+          1296,
+          3006
+        ],
+        "lonlat": [
+          48.75,
+          52.333333333333336
+        ],
+        "enabled": true
+      },
+      {
+        "pixel": [
+          151.6,
+          216.99
+        ],
+        "lonlat": [
+          48.5178657869,
+          52.6440049487
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          151.35,
+          851.14
+        ],
+        "lonlat": [
+          48.5219257396,
+          52.5721821187
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          149.25,
+          1484.9
+        ],
+        "lonlat": [
+          48.5259685667,
+          52.5003581929
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          149.71,
+          2284.94
+        ],
+        "lonlat": [
+          48.530998164,
+          52.4105767455
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          304.0,
+          2920.94
+        ],
+        "lonlat": [
+          48.5643190721,
+          52.3393586723
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          779.22,
+          215.77
+        ],
+        "lonlat": [
+          48.6359504169,
+          52.6464209352
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          778.84,
+          852.84
+        ],
+        "lonlat": [
+          48.6398176706,
+          52.574591875
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          777.85,
+          1485.89
+        ],
+        "lonlat": [
+          48.6436686094,
+          52.5027617392
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          777.24,
+          2284.39
+        ],
+        "lonlat": [
+          48.6484594794,
+          52.4129725577
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          775.76,
+          2921.69
+        ],
+        "lonlat": [
+          48.6522740433,
+          52.3411400038
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          1407.81,
+          215.96
+        ],
+        "lonlat": [
+          48.7540514541,
+          52.6487193113
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          1406.93,
+          853.58
+        ],
+        "lonlat": [
+          48.7577259165,
+          52.5768843236
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          1405.78,
+          1478.13
+        ],
+        "lonlat": [
+          48.7613848753,
+          52.5050482796
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          1405.35,
+          2283.79
+        ],
+        "lonlat": [
+          48.7659369044,
+          52.4152517397
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          1404.89,
+          2921.04
+        ],
+        "lonlat": [
+          48.7695612974,
+          52.3434133204
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          2035.91,
+          217.16
+        ],
+        "lonlat": [
+          48.8721680826,
+          52.6509000407
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          2034.87,
+          853.88
+        ],
+        "lonlat": [
+          48.875649666,
+          52.5790594284
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          1876.8,
+          1479.73
+        ],
+        "lonlat": [
+          48.849682236,
+          52.5066863779
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          1876.76,
+          2283.16
+        ],
+        "lonlat": [
+          48.8540550633,
+          52.4168845659
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          1719.22,
+          2918.93
+        ],
+        "lonlat": [
+          48.8282106829,
+          52.3445063435
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          2512.0,
+          221.44
+        ],
+        "lonlat": [
+          48.9607652946,
+          52.6524583614
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          2509.19,
+          849.35
+        ],
+        "lonlat": [
+          48.9641021638,
+          52.5806137294
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          2505.88,
+          1478.16
+        ],
+        "lonlat": [
+          48.9674249509,
+          52.5087680723
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          2382.62,
+          2427.64
+        ],
+        "lonlat": [
+          48.9430175587,
+          52.4004901857
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          2550.81,
+          2894.05
+        ],
+        "lonlat": [
+          48.9748501427,
+          52.3471115976
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          2182.3,
+          2103.67
+        ],
+        "lonlat": [
+          48.9119562474,
+          52.4358978225
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          1876.99,
+          1807.02
+        ],
+        "lonlat": [
+          48.8514341349,
+          52.4707658485
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          2036.56,
+          1177.87
+        ],
+        "lonlat": [
+          48.8773849431,
+          52.5431387329
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          2188.91,
+          1162.92
+        ],
+        "lonlat": [
+          48.9068441676,
+          52.5436634923
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          2232.35,
+          2900.83
+        ],
+        "lonlat": [
+          48.9161916789,
+          52.346091322
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          1562.29,
+          1327.69
+        ],
+        "lonlat": [
+          48.7899150744,
+          52.5235610953
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          1877.23,
+          1170.94
+        ],
+        "lonlat": [
+          48.8479266344,
+          52.5426066468
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          149.63,
+          1811.31
+        ],
+        "lonlat": [
+          48.5279835882,
+          52.4644458192
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          1248.68,
+          1475.92
+        ],
+        "lonlat": [
+          48.731954332,
+          52.5044876158
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          1091.85,
+          1171.61
+        ],
+        "lonlat": [
+          48.700649268,
+          52.5398363344
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          1405.78,
+          1805.99
+        ],
+        "lonlat": [
+          48.7632085681,
+          52.4691298615
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          1876.22,
+          2441.18
+        ],
+        "lonlat": [
+          48.854926866,
+          52.3989240082
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          2222.99,
+          2430.16
+        ],
+        "lonlat": [
+          48.9136530974,
+          52.3999754159
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          2385.13,
+          2583.6
+        ],
+        "lonlat": [
+          48.943852742,
+          52.382528554
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      }
+    ],
+    "all_corners_checked": true,
+    "method": "Printed graticule and kilometre grid",
+    "evidence": "The original has cropped graticule corners. Their native source edge pixels were geolocated against the nearest printed 2 km Gauss–Krüger rules. Other listed intersections were verified on the scan. The retained source footprint clips the nominal sheet against the transformed scan boundary. A check on 227 additional printed grid crossings gave a median error of 1.4 pixels and a 95th-percentile error of 4.4 pixels.",
+    "footprint_lonlat": [
+      [
+        48.992809571,
+        52.666666667
+      ],
+      [
+        48.993530268,
+        52.651082497
+      ],
+      [
+        48.994191917,
+        52.637368322
+      ],
+      [
+        48.995018196,
+        52.620895658
+      ],
+      [
+        48.995876825,
+        52.604399205
+      ],
+      [
+        48.996473366,
+        52.593380829
+      ],
+      [
+        48.996938688,
+        52.585102152
+      ],
+      [
+        48.998401336,
+        52.560226174
+      ],
+      [
+        48.998874635,
+        52.551958485
+      ],
+      [
+        48.999470089,
+        52.540978557
+      ],
+      [
+        49.0,
+        52.530623297
+      ],
+      [
+        49.0,
+        52.333333333
+      ],
+      [
+        48.507688445,
+        52.333333333
+      ],
+      [
+        48.506485,
+        52.353242217
+      ],
+      [
+        48.503944494,
+        52.394019734
+      ],
+      [
+        48.502952689,
+        52.410367786
+      ],
+      [
+        48.502316507,
+        52.421292503
+      ],
+      [
+        48.501546927,
+        52.434945218
+      ],
+      [
+        48.500800231,
+        52.448533505
+      ],
+      [
+        48.5,
+        52.463423336
+      ],
+      [
+        48.5,
+        52.666666667
+      ],
+      [
+        48.992809571,
+        52.666666667
+      ]
+    ],
+    "edge_grid_measurements": {
+      "NE": {
+        "e": [
+          [
+            364000.0,
+            2670.69,
+            0.0074,
+            89.8
+          ],
+          [
+            362000.0,
+            2512.36,
+            0.0069,
+            51.2
+          ],
+          [
+            360000.0,
+            2354.12,
+            -0.0028,
+            103.5
+          ]
+        ]
+      },
+      "SW": {
+        "e": [
+          [
+            332000.0,
+            147.27,
+            -0.0014,
+            71.5
+          ],
+          [
+            334000.0,
+            304.3,
+            0.0001,
+            81.1
+          ],
+          [
+            336000.0,
+            461.54,
+            0.0009,
+            99.1
+          ]
+        ]
+      }
+    },
+    "printed_grid_holdout": {
+      "count": 227,
+      "p95_px": 4.4,
+      "median_px": 1.4,
+      "max_px": 5.8
+    },
+    "bounds": [
+      48.5,
+      52.333333333,
+      49.0,
+      52.666666667
+    ],
+    "partial_extent": true
+  },
+  "N39-123": {
+    "sha256": "feb04f0c9c0ae47c6411c35962ee1a8494a8ddd9a473a01254800f9d1af06c36",
+    "pixels": {
+      "NE": [
+        2700,
+        272
+      ],
+      "SE": [
+        2688,
+        3145
+      ],
+      "SW": [
+        0,
+        3145
+      ]
+    },
+    "corner_lonlat": {
+      "NW": [
+        49.0,
+        52.666666666666664
+      ],
+      "NE": [
+        49.4972785,
+        52.66666667
+      ],
+      "SE": [
+        49.5,
+        52.34149106
+      ],
+      "SW": [
+        49.00136733,
+        52.33674175
+      ]
+    },
+    "other_gcps": [
+      {
+        "pixel": [
+          1385,
+          253
+        ],
+        "lonlat": [
+          49.25,
+          52.666666666666664
+        ],
+        "enabled": true
+      },
+      {
+        "pixel": [
+          33,
+          1699
+        ],
+        "lonlat": [
+          49.0,
+          52.5
+        ],
+        "enabled": true
+      },
+      {
+        "pixel": [
+          1361,
+          1734
+        ],
+        "lonlat": [
+          49.25,
+          52.5
+        ],
+        "enabled": true
+      },
+      {
+        "pixel": [
+          155.74,
+          192.14
+        ],
+        "lonlat": [
+          49.0190223115,
+          52.671422105
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          163.27,
+          832.27
+        ],
+        "lonlat": [
+          49.0222661106,
+          52.5995751421
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          171.72,
+          1615.07
+        ],
+        "lonlat": [
+          49.0263016099,
+          52.5097650088
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          173.9,
+          2251.92
+        ],
+        "lonlat": [
+          49.0295147035,
+          52.4379157587
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          174.67,
+          3045.73
+        ],
+        "lonlat": [
+          49.0335120633,
+          52.3481027671
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          783.18,
+          182.68
+        ],
+        "lonlat": [
+          49.1372194263,
+          52.6733392443
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          790.46,
+          824.78
+        ],
+        "lonlat": [
+          49.1402699616,
+          52.6014873347
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          642.18,
+          1612.91
+        ],
+        "lonlat": [
+          49.1146229413,
+          52.511205514
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          800.96,
+          2251.1
+        ],
+        "lonlat": [
+          49.1470866821,
+          52.43981688
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          802.98,
+          3049.19
+        ],
+        "lonlat": [
+          49.1508458756,
+          52.3499977724
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          1411.98,
+          175.96
+        ],
+        "lonlat": [
+          49.2554294944,
+          52.6751385556
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          1419.8,
+          817.3
+        ],
+        "lonlat": [
+          49.2582866928,
+          52.6032820029
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          1427.31,
+          1617.13
+        ],
+        "lonlat": [
+          49.261841232,
+          52.5134599264
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          1430.61,
+          2246.23
+        ],
+        "lonlat": [
+          49.2646713789,
+          52.4416011565
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          1273.93,
+          3033.14
+        ],
+        "lonlat": [
+          49.2388545665,
+          52.351342595
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          2032.3,
+          182.02
+        ],
+        "lonlat": [
+          49.3736516961,
+          52.6768200103
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          2047.64,
+          811.48
+        ],
+        "lonlat": [
+          49.3763154893,
+          52.6049591184
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          1905.66,
+          1615.73
+        ],
+        "lonlat": [
+          49.3501812929,
+          52.5147246964
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          1909.18,
+          2244.44
+        ],
+        "lonlat": [
+          49.3528677635,
+          52.4428626675
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          1910.98,
+          3029.99
+        ],
+        "lonlat": [
+          49.3562099555,
+          52.3530337605
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          2510.35,
+          170.28
+        ],
+        "lonlat": [
+          49.4623258167,
+          52.6780037419
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          2528.42,
+          801.73
+        ],
+        "lonlat": [
+          49.4648445138,
+          52.606139795
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          2539.91,
+          1612.91
+        ],
+        "lonlat": [
+          49.4679779332,
+          52.5163085094
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          2543.58,
+          2241.19
+        ],
+        "lonlat": [
+          49.47047278,
+          52.4444423992
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          2548.35,
+          3027.37
+        ],
+        "lonlat": [
+          49.4735765746,
+          52.3546084091
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          2379.16,
+          1277.01
+        ],
+        "lonlat": [
+          49.4372523388,
+          52.5518557418
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          1894.08,
+          1143.86
+        ],
+        "lonlat": [
+          49.3481589799,
+          52.5686205783
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          1883.81,
+          172.18
+        ],
+        "lonlat": [
+          49.344095053,
+          52.6764106972
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          170.1,
+          1469.78
+        ],
+        "lonlat": [
+          49.0254962147,
+          52.5277271625
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          1735.25,
+          973.1
+        ],
+        "lonlat": [
+          49.3179879359,
+          52.5861704136
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          1109.43,
+          1147.99
+        ],
+        "lonlat": [
+          49.2007490242,
+          52.5664718543
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          953.01,
+          1297.67
+        ],
+        "lonlat": [
+          49.1720163015,
+          52.5480565426
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          1106.26,
+          980.01
+        ],
+        "lonlat": [
+          49.2000132854,
+          52.5844356388
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          2220.92,
+          1457.02
+        ],
+        "lonlat": [
+          49.4084288642,
+          52.5334971293
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          640.54,
+          1462.34
+        ],
+        "lonlat": [
+          49.1138535336,
+          52.5291685974
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          169.0,
+          1308.94
+        ],
+        "lonlat": [
+          49.0246899684,
+          52.5456892527
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          330.14,
+          1774.66
+        ],
+        "lonlat": [
+          49.0565337839,
+          52.492289966
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      },
+      {
+        "pixel": [
+          1903.34,
+          1301.13
+        ],
+        "lonlat": [
+          49.3488337967,
+          52.5506553452
+        ],
+        "method": "Printed 2 km Gauss–Krüger grid"
+      }
+    ],
+    "all_corners_checked": true,
+    "method": "Printed graticule and kilometre grid",
+    "evidence": "The original has cropped graticule corners. Their native source edge pixels were geolocated against the nearest printed 2 km Gauss–Krüger rules. Other listed intersections were verified on the scan. The retained source footprint clips the nominal sheet against the transformed scan boundary. A check on 257 additional printed grid crossings gave a median error of 1.8 pixels and a 95th-percentile error of 4.5 pixels.",
+    "footprint_lonlat": [
+      [
+        49.497370687,
+        52.666666667
+      ],
+      [
+        49.497227413,
+        52.650568173
+      ],
+      [
+        49.497093584,
+        52.639463198
+      ],
+      [
+        49.496800285,
+        52.61715266
+      ],
+      [
+        49.496711949,
+        52.608759281
+      ],
+      [
+        49.496668311,
+        52.603159049
+      ],
+      [
+        49.49662882,
+        52.594760828
+      ],
+      [
+        49.496619165,
+        52.586382534
+      ],
+      [
+        49.496637523,
+        52.578047728
+      ],
+      [
+        49.496684604,
+        52.569781607
+      ],
+      [
+        49.496763221,
+        52.561607464
+      ],
+      [
+        49.496834585,
+        52.556216781
+      ],
+      [
+        49.496970532,
+        52.548218188
+      ],
+      [
+        49.497138264,
+        52.540303764
+      ],
+      [
+        49.497399058,
+        52.529804368
+      ],
+      [
+        49.498258178,
+        52.497572998
+      ],
+      [
+        49.498895258,
+        52.472526292
+      ],
+      [
+        49.499514156,
+        52.447242759
+      ],
+      [
+        49.5,
+        52.426032409
+      ],
+      [
+        49.5,
+        52.341434124
+      ],
+      [
+        49.444129284,
+        52.340880494
+      ],
+      [
+        49.394007652,
+        52.340343889
+      ],
+      [
+        49.359373641,
+        52.339929961
+      ],
+      [
+        49.313196717,
+        52.339305756
+      ],
+      [
+        49.293931409,
+        52.339059844
+      ],
+      [
+        49.278497192,
+        52.33888782
+      ],
+      [
+        49.263034672,
+        52.33875193
+      ],
+      [
+        49.255289335,
+        52.33870351
+      ],
+      [
+        49.247532188,
+        52.338672494
+      ],
+      [
+        49.239761354,
+        52.338662277
+      ],
+      [
+        49.231975964,
+        52.33867412
+      ],
+      [
+        49.224176957,
+        52.338705461
+      ],
+      [
+        49.216366451,
+        52.338751234
+      ],
+      [
+        49.181131749,
+        52.339001063
+      ],
+      [
+        49.173292612,
+        52.339039063
+      ],
+      [
+        49.165453778,
+        52.339059829
+      ],
+      [
+        49.157617205,
+        52.339056936
+      ],
+      [
+        49.153700384,
+        52.339044565
+      ],
+      [
+        49.149784788,
+        52.339024141
+      ],
+      [
+        49.14195743,
+        52.338959138
+      ],
+      [
+        49.130224504,
+        52.338809629
+      ],
+      [
+        49.122406358,
+        52.338683584
+      ],
+      [
+        49.11459022,
+        52.338542064
+      ],
+      [
+        49.098961625,
+        52.338227205
+      ],
+      [
+        49.063802631,
+        52.33747113
+      ],
+      [
+        49.052082299,
+        52.3372406
+      ],
+      [
+        49.044268373,
+        52.337104402
+      ],
+      [
+        49.03645419,
+        52.33698826
+      ],
+      [
+        49.024732136,
+        52.336857341
+      ],
+      [
+        49.001276282,
+        52.336685072
+      ],
+      [
+        49.0,
+        52.365787054
+      ],
+      [
+        49.0,
+        52.666666667
+      ],
+      [
+        49.497370687,
+        52.666666667
+      ]
+    ],
+    "edge_grid_measurements": {
+      "NE": {
+        "e": [
+          [
+            398000.0,
+            2673.19,
+            0.0213,
+            108.0
+          ],
+          [
+            396000.0,
+            2514.34,
+            0.0379,
+            106.2
+          ],
+          [
+            394000.0,
+            2354.02,
+            0.026,
+            92.4
+          ]
+        ]
+      },
+      "SE": {
+        "n": [
+          [
+            5804000.0,
+            3027.18,
+            -0.0049,
+            81.0
+          ],
+          [
+            5806000.0,
+            2869.79,
+            -0.0067,
+            80.2
+          ],
+          [
+            5808000.0,
+            2711.78,
+            -0.0066,
+            86.7
+          ]
+        ]
+      },
+      "SW": {
+        "e": [
+          [
+            364000.0,
+            17.66,
+            -0.0044,
+            98.8
+          ],
+          [
+            366000.0,
+            174.57,
+            -0.0053,
+            100.8
+          ],
+          [
+            368000.0,
+            331.75,
+            -0.0059,
+            90.7
+          ]
+        ],
+        "n": [
+          [
+            5804000.0,
+            3048.32,
+            -0.0042,
+            102.3
+          ],
+          [
+            5806000.0,
+            2887.72,
+            -0.0071,
+            102.1
+          ],
+          [
+            5808000.0,
+            2730.82,
+            -0.0102,
+            56.7
+          ]
+        ]
+      }
+    },
+    "printed_grid_holdout": {
+      "count": 257,
+      "p95_px": 4.5,
+      "median_px": 1.8,
+      "max_px": 7.6
+    },
+    "bounds": [
+      49.0,
+      52.336685072,
+      49.5,
+      52.666666667
+    ],
+    "partial_extent": true
+  },
+  "N39-129": {
+    "sha256": "e88379a7fa2b9cd73bc231ba4288c666d1fff8e5a22a862fa542c6888cd1634b",
+    "all_corners_checked": true,
+    "grid_offsets_px": {
+      "eastings": {
+        "whole": 0,
+        "NW": -1,
+        "NE": 0,
+        "SE": 0,
+        "SW": 0
+      },
+      "northings": {
+        "whole": 0,
+        "NW": -2,
+        "NE": -2,
+        "SE": 1,
+        "SW": 1
+      }
+    },
+    "evidence": "The scan extends to the digital sheet edges. The printed 2 km grid was compared with the projected Pulkovo 1942 lattice across the full image and separately in four quadrants. The largest quadrant offset was 2 source pixels."
+  },
+  "N39-130": {
+    "sha256": "222ad0e46df4e80ef507352053d714b1429806fb0e36d9ee1bcaf02b751ae61f",
+    "all_corners_checked": true,
+    "grid_offsets_px": {
+      "eastings": {
+        "whole": 0,
+        "NW": 0,
+        "NE": 0,
+        "SE": 0,
+        "SW": 0
+      },
+      "northings": {
+        "whole": 1,
+        "NW": -3,
+        "NE": -3,
+        "SE": 1,
+        "SW": 1
+      }
+    },
+    "evidence": "The scan extends to the digital sheet edges. The printed 2 km grid was compared with the projected Pulkovo 1942 lattice across the full image and separately in four quadrants. The largest quadrant offset was 3 source pixels."
+  },
+  "N39-131": {
+    "sha256": "0628c1faea900361332a0abe2d026370ad32145e914daf238b7a3131eb6f236f",
+    "all_corners_checked": true,
+    "grid_offsets_px": {
+      "eastings": {
+        "whole": -1,
+        "NW": -1,
+        "NE": -1,
+        "SE": -1,
+        "SW": 0
+      },
+      "northings": {
+        "whole": 0,
+        "NW": -4,
+        "NE": 0,
+        "SE": 1,
+        "SW": 0
+      }
+    },
+    "evidence": "The scan extends to the digital sheet edges. The printed 2 km grid was compared with the projected Pulkovo 1942 lattice across the full image and separately in four quadrants. The largest quadrant offset was 4 source pixels."
+  },
+  "N39-132": {
+    "sha256": "54b15c210f7c43528a69e05cb647a9b8af75b7ee080838c11045f4cd4b238e4f",
+    "all_corners_checked": true,
+    "grid_offsets_px": {
+      "eastings": {
+        "whole": 0,
+        "NW": -1,
+        "NE": 0,
+        "SE": 0,
+        "SW": -1
+      },
+      "northings": {
+        "whole": -3,
+        "NW": -4,
+        "NE": -3,
+        "SE": 0,
+        "SW": -2
+      }
+    },
+    "evidence": "The scan extends to the digital sheet edges. The printed 2 km grid was compared with the projected Pulkovo 1942 lattice across the full image and separately in four quadrants. The largest quadrant offset was 4 source pixels."
+  },
+  "N39-139": {
+    "sha256": "cb6f51a18f807b293500dea4c9e3bb34396793117da2e9f60e33594ef3bd66a3",
+    "all_corners_checked": true,
+    "grid_offsets_px": {
+      "eastings": {
+        "whole": -1,
+        "NW": -1,
+        "NE": -1,
+        "SE": -1,
+        "SW": -1
+      },
+      "northings": {
+        "whole": 1,
+        "NW": 1,
+        "NE": 1,
+        "SE": 1,
+        "SW": 0
+      }
+    },
+    "evidence": "The scan extends to the digital sheet edges. The printed 2 km grid was compared with the projected Pulkovo 1942 lattice across the full image and separately in four quadrants. The largest quadrant offset was 1 source pixel."
+  },
+  "N39-140": {
+    "sha256": "f98ea69063a8870ad07b655103df2dd173e7e8d2e5931342a7df1e3f4932e556",
+    "all_corners_checked": true,
+    "grid_offsets_px": {
+      "eastings": {
+        "whole": 1,
+        "NW": 1,
+        "NE": 0,
+        "SE": 1,
+        "SW": 1
+      },
+      "northings": {
+        "whole": 0,
+        "NW": 0,
+        "NE": 0,
+        "SE": 0,
+        "SW": 1
+      }
+    },
+    "evidence": "The scan extends to the digital sheet edges. The printed 2 km grid was compared with the projected Pulkovo 1942 lattice across the full image and separately in four quadrants. The largest quadrant offset was 1 source pixel."
+  },
+  "N39-141": {
+    "sha256": "dc350ae53db217fa21a4af4eb30989fe462af2fcec0315f3da0f297f00876d01",
+    "all_corners_checked": true,
+    "grid_offsets_px": {
+      "eastings": {
+        "whole": 0,
+        "NW": -1,
+        "NE": 0,
+        "SE": 0,
+        "SW": 0
+      },
+      "northings": {
+        "whole": 1,
+        "NW": 0,
+        "NE": 1,
+        "SE": 1,
+        "SW": 0
+      }
+    },
+    "evidence": "The scan extends to the digital sheet edges. The printed 2 km grid was compared with the projected Pulkovo 1942 lattice across the full image and separately in four quadrants. The largest quadrant offset was 1 source pixel."
+  },
+  "N39-142": {
+    "sha256": "90ad3dcbb321a16038fa0c5ab69e32f54bf6461f070e761bca3ced0afa528ba4",
+    "all_corners_checked": true,
+    "grid_offsets_px": {
+      "eastings": {
+        "whole": 0,
+        "NW": 0,
+        "NE": 0,
+        "SE": 0,
+        "SW": 0
+      },
+      "northings": {
+        "whole": 0,
+        "NW": 0,
+        "NE": 1,
+        "SE": 0,
+        "SW": 0
+      }
+    },
+    "evidence": "The scan extends to the digital sheet edges. The printed 2 km grid was compared with the projected Pulkovo 1942 lattice across the full image and separately in four quadrants. The largest quadrant offset was 1 source pixel."
+  },
+  "N39-143": {
+    "sha256": "7c8945f6082e96149266c05508164837e78823bc2c643a01cc6797930d0f9b12",
+    "all_corners_checked": true,
+    "grid_offsets_px": {
+      "eastings": {
+        "whole": 0,
+        "NW": -1,
+        "NE": 0,
+        "SE": 0,
+        "SW": 0
+      },
+      "northings": {
+        "whole": 1,
+        "NW": 0,
+        "NE": 1,
+        "SE": 1,
+        "SW": 2
+      }
+    },
+    "evidence": "The scan extends to the digital sheet edges. The printed 2 km grid was compared with the projected Pulkovo 1942 lattice across the full image and separately in four quadrants. The largest quadrant offset was 2 source pixels."
+  },
+  "N39-144": {
+    "sha256": "edbf4fa8b11c0e166954945c04e154baf8e16679524b91f13eddf19f13ed6506",
+    "all_corners_checked": true,
+    "grid_offsets_px": {
+      "eastings": {
+        "whole": 0,
+        "NW": 0,
+        "NE": 1,
+        "SE": 0,
+        "SW": 0
+      },
+      "northings": {
+        "whole": 1,
+        "NW": 1,
+        "NE": 0,
+        "SE": 0,
+        "SW": 0
+      }
+    },
+    "evidence": "The scan extends to the digital sheet edges. The printed 2 km grid was compared with the projected Pulkovo 1942 lattice across the full image and separately in four quadrants. The largest quadrant offset was 1 source pixel."
+  },
+  "N41-079": {
+    "sha256": "3cdfcc3112ae94901ee06e74b96ee97905bd538fc28c32a388b957fbb6112c12",
+    "pixels": {
+      "SW": [
+        37.7,
+        2936.0
+      ]
+    },
+    "all_corners_checked": true,
+    "evidence": "The disabled southwest Ozi point was shifted to the visible intersection of the southern neatline with the western border. The western border curves near its southern end. Twenty-five printed 2 km grid crossings constrain the local warp. Across 260 other crossings, the median error fell from 1.46 to 0.66 source pixels and the 95th percentile from 3.45 to 1.59. Three crossings obscured by printed roads were excluded.",
+    "method": "Source Ozi and printed kilometre grid",
+    "other_gcps": [
+      {
+        "pixel": [
+          1325,
+          28
+        ],
+        "lonlat": [
+          63.25,
+          54
+        ]
+      },
+      {
+        "pixel": [
+          34,
+          1481
+        ],
+        "lonlat": [
+          63,
+          53.833333333333336
+        ]
+      },
+      {
+        "pixel": [
+          1324,
+          1484
+        ],
+        "lonlat": [
+          63.25,
+          53.833333333333336
+        ]
+      },
+      {
+        "pixel": [
+          2618,
+          1483
+        ],
+        "lonlat": [
+          63.5,
+          53.833333333333336
+        ]
+      },
+      {
+        "pixel": [
+          1322,
+          2939
+        ],
+        "lonlat": [
+          63.25,
+          53.666666666666664
+        ]
+      },
+      {
+        "pixel": [
+          184.6,
+          2852.16
+        ],
+        "lonlat": [
+          63.0302643106,
+          53.6763684297
+        ],
+        "native_grid_m": [
+          502000,
+          5950000
+        ],
+        "method": "Printed 2 km grid crossing"
+      },
+      {
+        "pixel": [
+          186.04,
+          2382.27
+        ],
+        "lonlat": [
+          63.0303030123,
+          53.7302761225
+        ],
+        "native_grid_m": [
+          502000,
+          5956000
+        ],
+        "method": "Printed 2 km grid crossing"
+      },
+      {
+        "pixel": [
+          190.3,
+          1441.09
+        ],
+        "lonlat": [
+          63.0303807941,
+          53.8380900447
+        ],
+        "native_grid_m": [
+          502000,
+          5968000
+        ],
+        "method": "Printed 2 km grid crossing"
+      },
+      {
+        "pixel": [
+          193.41,
+          656.41
+        ],
+        "lonlat": [
+          63.0304460002,
+          53.9279334906
+        ],
+        "native_grid_m": [
+          502000,
+          5978000
+        ],
+        "method": "Printed 2 km grid crossing"
+      },
+      {
+        "pixel": [
+          195.18,
+          186.72
+        ],
+        "lonlat": [
+          63.0304852944,
+          53.9818389091
+        ],
+        "native_grid_m": [
+          502000,
+          5984000
+        ],
+        "method": "Printed 2 km grid crossing"
+      },
+      {
+        "pixel": [
+          654.48,
+          2853.66
+        ],
+        "lonlat": [
+          63.1210571031,
+          53.6763110756
+        ],
+        "native_grid_m": [
+          508000,
+          5950000
+        ],
+        "method": "Printed 2 km grid crossing"
+      },
+      {
+        "pixel": [
+          656.14,
+          2383.95
+        ],
+        "lonlat": [
+          63.1212119092,
+          53.7302186558
+        ],
+        "native_grid_m": [
+          508000,
+          5956000
+        ],
+        "method": "Printed 2 km grid crossing"
+      },
+      {
+        "pixel": [
+          660.6,
+          1442.47
+        ],
+        "lonlat": [
+          63.1215230351,
+          53.838032352
+        ],
+        "native_grid_m": [
+          508000,
+          5968000
+        ],
+        "method": "Printed 2 km grid crossing"
+      },
+      {
+        "pixel": [
+          663.84,
+          657.4
+        ],
+        "lonlat": [
+          63.1217838587,
+          53.9278756089
+        ],
+        "native_grid_m": [
+          508000,
+          5978000
+        ],
+        "method": "Printed 2 km grid crossing"
+      },
+      {
+        "pixel": [
+          665.81,
+          187.17
+        ],
+        "lonlat": [
+          63.1219410348,
+          53.9817809134
+        ],
+        "native_grid_m": [
+          508000,
+          5984000
+        ],
+        "method": "Printed 2 km grid crossing"
+      },
+      {
+        "pixel": [
+          1282.07,
+          2856.11
+        ],
+        "lonlat": [
+          63.2421133145,
+          53.6761275432
+        ],
+        "native_grid_m": [
+          516000,
+          5950000
+        ],
+        "method": "Printed 2 km grid crossing"
+      },
+      {
+        "pixel": [
+          1283.84,
+          2385.92
+        ],
+        "lonlat": [
+          63.2424229229,
+          53.7300347633
+        ],
+        "native_grid_m": [
+          516000,
+          5956000
+        ],
+        "method": "Printed 2 km grid crossing"
+      },
+      {
+        "pixel": [
+          1288.46,
+          1444.73
+        ],
+        "lonlat": [
+          63.2430451668,
+          53.8378477367
+        ],
+        "native_grid_m": [
+          516000,
+          5968000
+        ],
+        "method": "Printed 2 km grid crossing"
+      },
+      {
+        "pixel": [
+          1292.09,
+          659.24
+        ],
+        "lonlat": [
+          63.2435668074,
+          53.9276903883
+        ],
+        "native_grid_m": [
+          516000,
+          5978000
+        ],
+        "method": "Printed 2 km grid crossing"
+      },
+      {
+        "pixel": [
+          1294.0,
+          189.0
+        ],
+        "lonlat": [
+          63.2438811555,
+          53.9815953284
+        ],
+        "native_grid_m": [
+          516000,
+          5984000
+        ],
+        "method": "Printed 2 km grid crossing"
+      },
+      {
+        "pixel": [
+          1910.61,
+          2860.18
+        ],
+        "lonlat": [
+          63.3631677426,
+          53.6758216592
+        ],
+        "native_grid_m": [
+          524000,
+          5950000
+        ],
+        "method": "Printed 2 km grid crossing"
+      },
+      {
+        "pixel": [
+          1912.7,
+          2389.76
+        ],
+        "lonlat": [
+          63.3636321455,
+          53.7297282793
+        ],
+        "native_grid_m": [
+          524000,
+          5956000
+        ],
+        "method": "Printed 2 km grid crossing"
+      },
+      {
+        "pixel": [
+          1917.69,
+          1448.36
+        ],
+        "lonlat": [
+          63.3645654916,
+          53.8375400478
+        ],
+        "native_grid_m": [
+          524000,
+          5968000
+        ],
+        "method": "Printed 2 km grid crossing"
+      },
+      {
+        "pixel": [
+          1921.37,
+          662.96
+        ],
+        "lonlat": [
+          63.3653479359,
+          53.9273816907
+        ],
+        "native_grid_m": [
+          524000,
+          5978000
+        ],
+        "method": "Printed 2 km grid crossing"
+      },
+      {
+        "pixel": [
+          1923.31,
+          193.08
+        ],
+        "lonlat": [
+          63.3658194481,
+          53.9812860235
+        ],
+        "native_grid_m": [
+          524000,
+          5984000
+        ],
+        "method": "Printed 2 km grid crossing"
+      },
+      {
+        "pixel": [
+          2540.65,
+          2864.6
+        ],
+        "lonlat": [
+          63.484219496,
+          53.6753934287
+        ],
+        "native_grid_m": [
+          532000,
+          5950000
+        ],
+        "method": "Printed 2 km grid crossing"
+      },
+      {
+        "pixel": [
+          2542.3,
+          2393.43
+        ],
+        "lonlat": [
+          63.4848386816,
+          53.7292992086
+        ],
+        "native_grid_m": [
+          532000,
+          5956000
+        ],
+        "method": "Printed 2 km grid crossing"
+      },
+      {
+        "pixel": [
+          2389.85,
+          1451.72
+        ],
+        "lonlat": [
+          63.455704006,
+          53.8372285171
+        ],
+        "native_grid_m": [
+          530000,
+          5968000
+        ],
+        "method": "Printed 2 km grid crossing"
+      },
+      {
+        "pixel": [
+          2393.78,
+          665.4
+        ],
+        "lonlat": [
+          63.4566820404,
+          53.9270691387
+        ],
+        "native_grid_m": [
+          530000,
+          5978000
+        ],
+        "method": "Printed 2 km grid crossing"
+      },
+      {
+        "pixel": [
+          2395.87,
+          195.31
+        ],
+        "lonlat": [
+          63.4572714179,
+          53.9809728566
+        ],
+        "native_grid_m": [
+          530000,
+          5984000
+        ],
+        "method": "Printed 2 km grid crossing"
+      }
+    ],
+    "printed_grid_holdout": {
+      "count": 260,
+      "before_median_p95_max_px": [
+        1.46,
+        3.45,
+        8.1
+      ],
+      "after_median_p95_max_px": [
+        0.66,
+        1.59,
+        2.12
+      ],
+      "excluded_road_crossings": 3
+    }
+  },
+  "N41-121": {
+    "sha256": "d93c14f11c6ee432baec2b180cba5e0bfd5abbd02df20531411bf4d80fe54f56",
+    "all_corners_checked": true,
+    "evidence": "All four enabled source corners are on their printed degree intersections. Independent projected affine fits of the eight or nine enabled Ozi controls give residuals under four native pixels. The unequal scan scales along the two axes explain the frame-shape warning. The upper margin gives terrain as of 1987 and edition 1988.",
+    "year": "1988"
+  },
+  "N41-122": {
+    "sha256": "ae12443a1f4e240dcd8b6ed2ab2fad5ee783edf606587c438cdfff42b5ce9bff",
+    "all_corners_checked": true,
+    "evidence": "All four enabled source corners are on their printed degree intersections. Independent projected affine fits of the eight or nine enabled Ozi controls give residuals under four native pixels. The unequal scan scales along the two axes explain the frame-shape warning. The upper margin gives terrain as of 1987 and edition 1988.",
+    "year": "1988"
+  },
+  "N41-133": {
+    "sha256": "f299ef91b3543a09f08dea6c7d28609f3837db0d7295e9d0a99d58e4e95280af",
+    "all_corners_checked": true,
+    "evidence": "All four enabled source corners are on their printed degree intersections. Independent projected affine fits of the eight or nine enabled Ozi controls give residuals under four native pixels. The unequal scan scales along the two axes explain the frame-shape warning. The upper margin gives terrain as of 1987 and edition 1988.",
+    "year": "1988"
+  },
+  "N41-134": {
+    "sha256": "640296763d1f5a8da899c1b888eec62bb6794025ac3b55ed0b5373e127bafe2a",
+    "all_corners_checked": true,
+    "evidence": "All four enabled source corners are on their printed degree intersections. Independent projected affine fits of the eight or nine enabled Ozi controls give residuals under four native pixels. The unequal scan scales along the two axes explain the frame-shape warning. The upper margin gives terrain as of 1987 and edition 1988.",
+    "year": "1988"
+  },
+  "N42-075": {
+    "sha256": "dc35345d3bfa3475baccb1aa12c842dc8a791a94e935c07d8fb5de2891887388",
+    "pixels": {
+      "SW": [
+        31.7,
+        2939.0
+      ]
+    },
+    "all_corners_checked": true,
+    "evidence": "The disabled southwest Ozi point was shifted to the visible intersection of the southern neatline with the western border. The remaining source corners were compared with the printed frame."
+  },
+  "O29-081": {
+    "sha256": "0e0fabfdeeb0104a1548936adbfdf2aa07b5f10311fa5f812204d93b06c77ceb",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "O29-082": {
+    "sha256": "5c1fbb7abec6ce272d6f03c0710f51a012b1cc9ca05cf22a250aeaabeea0ef3c",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "O30-018": {
+    "sha256": "b6d28a5c01e90197bb65606cba1f44c09105e4d7bbfe84b4d6ea46ba26889885",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "O30-019": {
+    "sha256": "e15e24bccf6802058a0bbe576f942fa25a63e09cdac2c3e3b4b7a714c57b3beb",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "O30-025": {
+    "sha256": "e937652d0b6dc0144341f54ed9927b276d5a872959a3fcf550ed5a0510b909b1",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "O30-079": {
+    "sha256": "062dabf626eb98898c827cb9839a3cbe749322ee5cfbc2aae1fc244ea2ef1dec",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "O30-080": {
+    "sha256": "2db4b8c2b9d496d89a25e8f8a78a97f54184f187e332b390083eb27040429ba8",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "O30-105": {
+    "sha256": "df66017863e098281930c50265ad857e4c6a31042d5d3c7a6a7a3518d42cfff5",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "O30-116": {
+    "sha256": "485874e98e5c60df619e9a0a9747fa2e0bb612f82c1fff8545d4ac6676878897",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "O30-125": {
+    "sha256": "1bb96f298c95963905927848eba9ebcf32ab74993d50a1e592e5ddb433f9e7ea",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "O30-136": {
+    "sha256": "36b06f9b32012b0c9ecc3900a579e13e609f2f4719290a336883abd3daad8263",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "O30-137": {
+    "sha256": "7249784cd98bf7e2efd573234157b0ef5163d1a17a9a1c7d7b4964982855a143",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "O30-138": {
+    "sha256": "51670bcf91c435fb1a6f84d22812651595bf69791819fa2e6d3322aadd5441e6",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "O30-139": {
+    "sha256": "2fdc50991164b63a7ea004996eba5937466f26028c3377211306a8ecb41086df",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "O32-071": {
+    "sha256": "fb3f7d85aa584a3963c97993bdbfcaa3f6748dac753d806da66e633ef23eaab5",
+    "rotation": 0,
+    "evidence": "Printed title and scale bar inspected on opposite margins; the original scan is upright."
+  },
+  "O32-072": {
+    "sha256": "19d855426bb4d3473a176736375911fe0eb050896192eda19fca225bd75ffefc",
+    "rotation": 0,
+    "evidence": "Printed title and scale bar inspected on opposite margins; the original scan is upright."
+  },
+  "O32-081": {
+    "sha256": "69d2988548755c8b6533d36dacb0c1d8b5e166339d6cf74004f869a1d9676cc3",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "O32-103": {
+    "sha256": "10da7bbd7d2eb111c776fd61b5828cbecbed7f2318c47671bb6922b7375d9b8c",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "O32-106": {
+    "sha256": "a7888350c6d0e7a950e01a1bbc6ee022f1d3392bc49ac5628a1ccf015200b291",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "O32-114": {
+    "sha256": "242eb3f2da3e80aabb0eb4287b151f2e462f78c9067ed0e70b720ae4d6e2733b",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "O32-117": {
+    "sha256": "dd257646e05799a1c85771796dc43a5f9dba0ffc3d6360b83956333aae691af8",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "O33-006": {
+    "sha256": "99a92117155f5f5d4d74deb1aae7697b4f9e3afe6bb31c400018e17ccc435cc1",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "O33-085": {
+    "sha256": "20b6b5939e0b3425838d5346d0b025419ba3237d5ab37db2983bad180b482a79",
+    "rotation": 0,
+    "evidence": "Printed title and scale bar inspected on opposite margins; the original scan is upright."
+  },
+  "O33-092": {
+    "sha256": "123a34bf7d030d28b817bb1289f3944eb47db2c1736973350951de72c68c4eb7",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "O33-138": {
+    "sha256": "4e31740d0b37f67e5f6b4f2557360a79609306a58ac1e9fa411923535db0eb53",
+    "rotation": 0,
+    "evidence": "Printed title and scale bar inspected on opposite margins; the original scan is upright."
+  },
+  "O33-140": {
+    "sha256": "cfc42253b840543dac5df5577a5437d06f269a4743dbfccc465a672e7a459e2e",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections."
+  },
+  "O34-046": {
+    "sha256": "2b93b67ccfde7c21e04d06602819028d411f8621c37e270cf8f0a4c0b339cb67",
+    "all_corners_checked": true,
+    "evidence": "All four native-resolution corner crops visually checked against the labelled graticule intersections. The NE control was moved from an interior kilometre-grid line to the labelled graticule crossing.",
+    "pixels": {
+      "NE": [
+        3744.59,
+        399.61
+      ]
+    }
+  },
+  "U37-133_U37-134_U37-135_U37-136": {
+    "sha256": "fc52aad7c08427d1ae35e82a7b1f67850e68aab929e253d74e05947e01ab08ea",
+    "canonical_id": "U37-133_U37-134",
+    "component_ids": "U37-133 U37-134",
+    "bounds": [
+      36,
+      80,
+      37,
+      80.33333333333333
+    ],
+    "year": "1956",
+    "method": "Printed graticule",
+    "all_corners_checked": true,
+    "other_gcps": [
+      {
+        "pixel": [
+          852,
+          90
+        ],
+        "lonlat": [
+          36.5,
+          80.33333333333333
+        ],
+        "method": "Printed mid-edge longitude"
+      },
+      {
+        "pixel": [
+          833,
+          2976
+        ],
+        "lonlat": [
+          36.5,
+          80.0
+        ],
+        "method": "Printed mid-edge longitude"
+      }
+    ],
+    "evidence": "Both west corners read 36°00′ E and both east corners read 37°00′ E. Both mid-edge ticks read 36°30′ E. The northern parallel is 80°20′ N and the southern parallel is 80°00′ N. The upper margin gives first edition 1956. Source Ozi longitude was stretched twofold."
+  }
+}

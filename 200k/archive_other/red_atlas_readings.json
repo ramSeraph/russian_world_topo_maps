@@ -1,0 +1,426 @@
+[
+  {
+    "source": {
+      "scan_id": "J13-04",
+      "source": "The Red Atlas",
+      "year": "1978",
+      "year_basis": "Upper-right printed margin",
+      "component_ids": "J13-04",
+      "original": "J13-04.jpg",
+      "width": 3908,
+      "height": 3426,
+      "sha256": "01ee90c3c57fa78bff4fd4534736be02710801ede1bda0c3d511a26ee0c3a201",
+      "bytes": 7726890,
+      "source_url": "https://mapshow.s3.eu-west-2.amazonaws.com/J-13-04.html",
+      "title": "Denver",
+      "attribution": "reproduced with permission from http://redatlasbook.com",
+      "terms": "https://redatlasbook.com/TandC",
+      "usage": "Non-commercial reproduction with acknowledgement",
+      "zoomify_descriptor": "https://mapshow.s3.eu-west-2.amazonaws.com/J-13-04/ImageProperties.xml",
+      "source_level": 4,
+      "descriptor_sha256": "fba986aae1c8bb32fb99745eebc177fd42ddae7daf412fc5f70e90fea4310179",
+      "tiles_verified": 224,
+      "mosaic_sha256": "a545c84641675decf0d55d8175610b5416a426d1fe0639ff23e2e222fda3042b",
+      "retrieved_utc": "2026-11-21T17:21:30.071413+00:00",
+      "dezoomify_version": "dezoomify-rs 2.20.0"
+    },
+    "original_url": "https://github.com/ramSeraph/russian_world_topo_maps/releases/download/200k-gs-orig-extra24/J13-04.jpg",
+    "printed_corners": {
+      "NW": [
+        334.4,
+        140.2
+      ],
+      "NE": [
+        3695.8,
+        143.0
+      ],
+      "SE": [
+        3708,
+        3071.0
+      ],
+      "SW": [
+        315,
+        3071.0
+      ]
+    }
+  },
+  {
+    "source": {
+      "scan_id": "J18-08",
+      "source": "The Red Atlas",
+      "year": "1978",
+      "year_basis": "Upper-right printed margin",
+      "component_ids": "J18-08",
+      "original": "J18-08.jpg",
+      "width": 3928,
+      "height": 3470,
+      "sha256": "6ec1162b88da1d3b32c4223f68ccb603dff6026f7dd5ff677fe4edb872063adf",
+      "bytes": 9091773,
+      "source_url": "https://mapshow.s3.eu-west-2.amazonaws.com/J-18-08.html",
+      "title": "Baltimore",
+      "attribution": "reproduced with permission from http://redatlasbook.com",
+      "terms": "https://redatlasbook.com/TandC",
+      "usage": "Non-commercial reproduction with acknowledgement",
+      "zoomify_descriptor": "https://mapshow.s3.eu-west-2.amazonaws.com/J-18-08/ImageProperties.xml",
+      "source_level": 4,
+      "descriptor_sha256": "aed0c6229258581c67b1878cbb06592fd6dadabd209f1d00c5a3b063f468e18e",
+      "tiles_verified": 224,
+      "mosaic_sha256": "bc1e8e9ec135c6b86abe061e59ef644bb4afee8f28a8ee238778b91138c7e412",
+      "retrieved_utc": "2026-11-21T17:21:30.179830+00:00",
+      "dezoomify_version": "dezoomify-rs 2.20.0"
+    },
+    "original_url": "https://github.com/ramSeraph/russian_world_topo_maps/releases/download/200k-gs-orig-extra24/J18-08.jpg",
+    "printed_corners": {
+      "NW": [
+        355,
+        152.3
+      ],
+      "NE": [
+        3751,
+        152
+      ],
+      "SE": [
+        3761,
+        3094.7
+      ],
+      "SW": [
+        334,
+        3081.3
+      ]
+    },
+    "interior_seeds": [
+      {
+        "lonlat": [
+          -76.75,
+          39.25
+        ],
+        "seed": [
+          1203.25,
+          519.25
+        ]
+      },
+      {
+        "lonlat": [
+          -76.5,
+          39
+        ],
+        "seed": [
+          2052.25,
+          1623.75
+        ]
+      },
+      {
+        "lonlat": [
+          -76.25,
+          38.75
+        ],
+        "seed": [
+          2903.75,
+          2726.25
+        ]
+      }
+    ]
+  },
+  {
+    "source": {
+      "scan_id": "K19-13",
+      "source": "The Red Atlas",
+      "year": "1975",
+      "year_basis": "Upper-right printed margin",
+      "component_ids": "K19-13",
+      "original": "K19-13.jpg",
+      "width": 3864,
+      "height": 3492,
+      "sha256": "de0f2322167d934ca5444abc2e9f34ea5e287f661e31d65aaf41516d195f965b",
+      "bytes": 10450971,
+      "source_url": "https://mapshow.s3.eu-west-2.amazonaws.com/K-19-13.html",
+      "title": "Boston",
+      "attribution": "reproduced with permission from http://redatlasbook.com",
+      "terms": "https://redatlasbook.com/TandC",
+      "usage": "Non-commercial reproduction with acknowledgement",
+      "zoomify_descriptor": "https://mapshow.s3.eu-west-2.amazonaws.com/K-19-13/ImageProperties.xml",
+      "source_level": 4,
+      "descriptor_sha256": "7752af8be13aa1daa57db5a6c2ae200be4d7b14e86d0d6a2dc933ec616f46759",
+      "tiles_verified": 224,
+      "mosaic_sha256": "10624520cda836076a7f400e22180fe04e5108e3cb29c8c1efca69e6b3c52eff",
+      "retrieved_utc": "2026-11-21T17:21:30.294418+00:00",
+      "dezoomify_version": "dezoomify-rs 2.20.0"
+    },
+    "original_url": "https://github.com/ramSeraph/russian_world_topo_maps/releases/download/200k-gs-orig-extra24/K19-13.jpg",
+    "printed_corners": {
+      "NW": [
+        356.7,
+        149
+      ],
+      "NE": [
+        3582.7,
+        158
+      ],
+      "SE": [
+        3582.7,
+        3098.7
+      ],
+      "SW": [
+        321.3,
+        3077
+      ]
+    },
+    "interior_seeds": [
+      {
+        "lonlat": [
+          -71.75,
+          42.5
+        ],
+        "seed": [
+          1157.25,
+          883.25
+        ]
+      },
+      {
+        "lonlat": [
+          -71.5,
+          42.25
+        ],
+        "seed": [
+          1959.25,
+          1986.75
+        ]
+      },
+      {
+        "lonlat": [
+          -71.25,
+          42.25
+        ],
+        "seed": [
+          2770.25,
+          1992.25
+        ]
+      }
+    ]
+  },
+  {
+    "source": {
+      "scan_id": "K19-14",
+      "source": "The Red Atlas",
+      "year": "1975",
+      "year_basis": "Upper-right printed margin",
+      "component_ids": "K19-14",
+      "original": "K19-14.jpg",
+      "width": 3748,
+      "height": 3477,
+      "sha256": "0b028308b7455e35e5bed9635e944644a42ab3a5571a4296b7230808d7f038ac",
+      "bytes": 5758042,
+      "source_url": "https://mapshow.s3.eu-west-2.amazonaws.com/K-19-14.html",
+      "title": "Lynn (Massachusetts)",
+      "attribution": "reproduced with permission from http://redatlasbook.com",
+      "terms": "https://redatlasbook.com/TandC",
+      "usage": "Non-commercial reproduction with acknowledgement",
+      "zoomify_descriptor": "https://mapshow.s3.eu-west-2.amazonaws.com/K-19-14/ImageProperties.xml",
+      "source_level": 4,
+      "descriptor_sha256": "2c7f828181ed6e58fbee1f690c52af7c4c2bf2c159cf9b3643b7abe086de5e8e",
+      "tiles_verified": 210,
+      "mosaic_sha256": "795c30bcecb08fc55793772441d81f8b67b7714856652d8e5c1dd605d8be9d6c",
+      "retrieved_utc": "2026-11-21T17:21:37.571768+00:00",
+      "dezoomify_version": "dezoomify-rs 2.20.0"
+    },
+    "original_url": "https://github.com/ramSeraph/russian_world_topo_maps/releases/download/200k-gs-orig-extra24/K19-14.jpg",
+    "printed_corners": {
+      "NW": [
+        358.3,
+        145
+      ],
+      "NE": [
+        3582,
+        153
+      ],
+      "SE": [
+        3585.1,
+        3082
+      ],
+      "SW": [
+        327,
+        3068
+      ]
+    }
+  },
+  {
+    "source": {
+      "scan_id": "M31-02",
+      "source": "The Red Atlas",
+      "year": "1985",
+      "year_basis": "Upper-right printed margin",
+      "component_ids": "M31-02",
+      "original": "M31-02.jpg",
+      "width": 4552,
+      "height": 5376,
+      "sha256": "a0d6052c50bf23956da72fc5df67298e9508ce62b7d4fe50f8cc532e02b3085e",
+      "bytes": 9354733,
+      "source_url": "https://mapshow.s3.eu-west-2.amazonaws.com/M-31-02.html",
+      "title": "Margate",
+      "attribution": "reproduced with permission from http://redatlasbook.com",
+      "terms": "https://redatlasbook.com/TandC",
+      "usage": "Non-commercial reproduction with acknowledgement",
+      "zoomify_descriptor": "https://mapshow.s3.eu-west-2.amazonaws.com/M-31-02/ImageProperties.xml",
+      "source_level": 5,
+      "descriptor_sha256": "80fd9922a5894f3102ffa3e600a0742890f0298eb27f2f834a45cffc68fd2e0e",
+      "tiles_verified": 378,
+      "mosaic_sha256": "f30265b9c7ff3aca0c26ad8886e5a93f2045025586bcabc1c05b09e79b22eae6",
+      "retrieved_utc": "2026-11-21T17:21:42.299565+00:00",
+      "dezoomify_version": "dezoomify-rs 2.20.0"
+    },
+    "original_url": "https://github.com/ramSeraph/russian_world_topo_maps/releases/download/200k-gs-orig-extra24/M31-02.jpg",
+    "corner_seeds": {
+      "NW": [
+        266,
+        379
+      ],
+      "NE": [
+        4315,
+        379
+      ],
+      "SE": [
+        4340,
+        4782
+      ],
+      "SW": [
+        230,
+        4782
+      ]
+    }
+  },
+  {
+    "source": {
+      "scan_id": "M31-08",
+      "source": "The Red Atlas",
+      "year": "1968",
+      "year_basis": "Upper-right printed margin",
+      "component_ids": "M31-08",
+      "original": "M31-08.jpg",
+      "width": 4663,
+      "height": 5522,
+      "sha256": "deaee5f9b9a60dabd3ebde1b916b0c329e5b115c59251fe3ef689bb407b773e6",
+      "bytes": 11192107,
+      "source_url": "https://mapshow.s3.eu-west-2.amazonaws.com/M-31-08.html",
+      "title": "Boulogne",
+      "attribution": "reproduced with permission from http://redatlasbook.com",
+      "terms": "https://redatlasbook.com/TandC",
+      "usage": "Non-commercial reproduction with acknowledgement",
+      "zoomify_descriptor": "https://mapshow.s3.eu-west-2.amazonaws.com/M-31-08/ImageProperties.xml",
+      "source_level": 5,
+      "descriptor_sha256": "7a0071dfb8240c02f13d4ad563c0c8d9e121a9096a77d077af2911583003f85b",
+      "tiles_verified": 418,
+      "mosaic_sha256": "28cec2a67aa551cc66e3e33e1e9f8ecb9d24c10ab2130ccde726f8c25ea44e68",
+      "retrieved_utc": "2026-11-21T17:21:44.135424+00:00",
+      "dezoomify_version": "dezoomify-rs 2.20.0"
+    },
+    "original_url": "https://github.com/ramSeraph/russian_world_topo_maps/releases/download/200k-gs-orig-extra24/M31-08.jpg",
+    "corner_seeds": {
+      "NW": [
+        281,
+        522
+      ],
+      "NE": [
+        4394,
+        506
+      ],
+      "SE": [
+        4430,
+        4912
+      ],
+      "SW": [
+        259,
+        4927
+      ]
+    }
+  },
+  {
+    "source": {
+      "scan_id": "N30-29",
+      "source": "The Red Atlas",
+      "year": "1967",
+      "year_basis": "Upper-right printed margin",
+      "component_ids": "N30-29",
+      "original": "N30-29.jpg",
+      "width": 4734,
+      "height": 5449,
+      "sha256": "5a79a82fe6fef4be387ea8fd6a8286fe76bbd731ff9112eb164053b45593d5ba",
+      "bytes": 16594074,
+      "source_url": "https://mapshow.s3.eu-west-2.amazonaws.com/N-30-29.html",
+      "title": "Nottingham",
+      "attribution": "reproduced with permission from http://redatlasbook.com",
+      "terms": "https://redatlasbook.com/TandC",
+      "usage": "Non-commercial reproduction with acknowledgement",
+      "zoomify_descriptor": "https://mapshow.s3.eu-west-2.amazonaws.com/N-30-29/ImageProperties.xml",
+      "source_level": 5,
+      "descriptor_sha256": "cbb3e03c8f299e489ce79bab7a3e2d2bf116dd201510091ff525f42770ec7f50",
+      "tiles_verified": 418,
+      "mosaic_sha256": "3286cd41466f22c4abb46873ac5a8d62fd46e77bd69a8da1e349bedc226b44a7",
+      "retrieved_utc": "2026-11-21T17:21:51.271674+00:00",
+      "dezoomify_version": "dezoomify-rs 2.20.0"
+    },
+    "original_url": "https://github.com/ramSeraph/russian_world_topo_maps/releases/download/200k-gs-orig-extra24/N30-29.jpg",
+    "corner_seeds": {
+      "NW": [
+        475,
+        532
+      ],
+      "NE": [
+        4403,
+        530
+      ],
+      "SE": [
+        4426,
+        4924
+      ],
+      "SW": [
+        439,
+        4922
+      ]
+    }
+  },
+  {
+    "source": {
+      "scan_id": "N31-32",
+      "source": "The Red Atlas",
+      "year": "",
+      "year_basis": "Viewer year 1950 matches lower-right printing code Д 78 VII 50 Л. Compilation note dated 1949.",
+      "component_ids": "N31-32",
+      "original": "N31-32.jpg",
+      "width": 4639,
+      "height": 5437,
+      "sha256": "1765a32444941afb9e11db1f13fc19ea6482c28a0b7e2df0eeec0a0e6ba8a9df",
+      "bytes": 12516025,
+      "source_url": "https://mapshow.s3.eu-west-2.amazonaws.com/N-31-32.html",
+      "title": "Norwich",
+      "attribution": "reproduced with permission from http://redatlasbook.com",
+      "terms": "https://redatlasbook.com/TandC",
+      "usage": "Non-commercial reproduction with acknowledgement",
+      "zoomify_descriptor": "https://mapshow.s3.eu-west-2.amazonaws.com/N-31-32/ImageProperties.xml",
+      "source_level": 5,
+      "descriptor_sha256": "5c8d04167a7ede4621a0942d78684fec7dcd715e7045fe6dee916c147880e68e",
+      "tiles_verified": 418,
+      "mosaic_sha256": "c343c38a771d59e8c9afde696599144814b6627d2b8767680d1c89023f5f0339",
+      "retrieved_utc": "2026-11-21T17:21:56.481104+00:00",
+      "dezoomify_version": "dezoomify-rs 2.20.0"
+    },
+    "original_url": "https://github.com/ramSeraph/russian_world_topo_maps/releases/download/200k-gs-orig-extra24/N31-32.jpg",
+    "corner_seeds": {
+      "NW": [
+        312,
+        451
+      ],
+      "NE": [
+        4304,
+        433
+      ],
+      "SE": [
+        4343,
+        4819
+      ],
+      "SW": [
+        288,
+        4832
+      ]
+    }
+  }
+]

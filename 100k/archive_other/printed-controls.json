@@ -1,0 +1,14 @@
+{
+  "M57-038": {
+    "sha256": "cc5fc60b72eafdc324942e7585294d80999597d371e922538df7d899430fb837",
+    "year": "1983",
+    "year_basis": "Edition printed in the upper margin",
+    "reason": "The Satmaps sidecar places three nominal corners outside this 1476 by 1539 scan. All four printed longitude and latitude intersections are visible.",
+    "corners": {
+      "NW": [50.99, 46.12],
+      "NE": [1423.10, 50.40],
+      "SE": [1428.95, 1494.96],
+      "SW": [47.19, 1492.27]
+    }
+  }
+}

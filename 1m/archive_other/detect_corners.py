@@ -231,12 +231,14 @@ def detect_corner(gray, anchor, direction, ratio):
     )
 
 
-def detect(path):
+def detect(path, *, dpi=None):
     gray = cv2.imread(str(path), cv2.IMREAD_GRAYSCALE | cv2.IMREAD_IGNORE_ORIENTATION)
     if gray is None:
         raise ValueError("Unreadable scan")
-    dpi = re.search(r"_(\d+)dpi", path.name, re.IGNORECASE)
-    ratio = int(dpi[1]) / 300 if dpi else 1
+    if dpi is None:
+        match = re.search(r"_(\d+)dpi", path.name, re.IGNORECASE)
+        dpi = int(match[1]) if match else 300
+    ratio = dpi / 300
     corners = {}
     try:
         frame = coarse_frame(gray)
